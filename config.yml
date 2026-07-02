@@ -35,6 +35,15 @@ cli_repos:
   - id: deepseek-tui
     repo: Hmbown/DeepSeek-TUI
     name: DeepSeek TUI
+  - id: comfyui
+    repo: comfyanonymous/ComfyUI
+    name: ComfyUI
+  - id: ollama
+    repo: ollama/ollama
+    name: Ollama
+  - id: llama-cpp
+    repo: ggerganov/llama.cpp
+    name: llama.cpp
 
 # ── Claude Code Skills ────────────────────────────────────────────────────────
 # Tracked separately without a date filter, sorted by community engagement.
