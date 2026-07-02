@@ -1,107 +1,117 @@
 # AI Open Source Trends 2026-07-02
 
-> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-02 00:28 UTC
+> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-02 01:51 UTC
 
 ---
 
-# AI Open Source Trends Report
-**Date: 2026-07-02**
+# AI Open Source Trends Report - July 2, 2026
 
----
+## Today's Highlights
 
-## 1. Today's Highlights
+The AI open-source ecosystem is experiencing a major surge in agent-focused development, with specialized AI agents dominating today's trending repositories. Multi-agent systems and agent harnesses are gaining explosive popularity, particularly tools that integrate with Claude Code, Codex, and other frontier models. There's a notable shift toward production-ready agent frameworks that emphasize security, memory persistence, and real-world task automation. The community is also showing strong interest in AI-powered security and penetration testing tools, reflecting the growing intersection of AI and cybersecurity.
 
-The AI open-source ecosystem is experiencing a massive surge in **agent infrastructure** and **security tooling**, with several projects exceeding 1,000 stars in a single day. The most explosive growth comes from `msitarzewski/agency-agents` (+2,114 stars), an agent orchestration framework that treats AI agents as specialized "employees" with personality and deliverables. `usestrix/strix` (+1,211 stars) signals an emerging category: **AI-powered cybersecurity tools** that combine penetration testing with LLM capabilities. Additionally, `microsoft/AI-For-Beginners` (+1,096 stars) shows sustained demand for educational content in the AI space. Notably, the trend toward **agent-ready design systems** (Facebook's `astryx`) and **multi-provider AI gateways** (`OmniRoute`) indicates the community is moving toward standardized, interoperable agent architectures.
-
----
-
-## 2. Top Projects by Category
-
-### 🔧 AI Infrastructure
-
-| Project | Stars | Today's Stars | Description |
-|---------|-------|---------------|-------------|
-| [usestrix/strix](https://github.com/usestrix/strix) | 0 | +1,211 | Open-source AI penetration testing tool that combines LLM reasoning with vulnerability scanning |
-| [facebook/astryx](https://github.com/facebook/astryx) | 0 | +708 | Open-source design system from Facebook that is "fully customizable and agent ready" — a new category of UI infrastructure for agent interfaces |
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 0 | +150 | Desktop app for managing markdown knowledge bases with AI integration capabilities |
-| [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 0 | +79 | Instant, concurrent, secure sandbox environment specifically designed for AI agents — critical infrastructure for safe agent execution |
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 0 | +693 | Extends the browser-use paradigm to video editing, enabling coding agents to edit videos programmatically |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 0 | +1,010 | Free AI gateway connecting to 231+ providers with token compression saving 15-95%, auto-fallback, and MCP/A2A protocol support |
+## Top Projects by Category
 
 ### 🤖 AI Agents / Workflows
 
-| Project | Stars | Today's Stars | Description |
-|---------|-------|---------------|-------------|
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 0 | +2,114 | Full agent orchestration framework where each agent is a specialized expert with personality, processes, and deliverables — today's #1 trending repo |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 0 | +694 | Personal trading agent that uses LLM reasoning for financial decisions |
-| [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 0 | +609 | Terminal-based agent multiplexer — manages multiple AI agents simultaneously from the command line |
-| [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) | 0 | +161 | Multi-agent deliberation system with 18 AI personas (Aristotle, Feynman, Kahneman) across multiple LLM providers |
-| [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw) | 0 | +132 | AI Agent + MCP toolchain for automated penetration testing — natural language to full security assessment pipeline |
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 0 | +116 | Lets users leverage AI agents to generate income, reflecting the growing "AI for profit" trend |
+- **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** - ⭐2,114 today  
+  A complete AI agency ecosystem featuring specialized agents from frontend development to Reddit community management, each with distinct personalities and proven deliverables.
+
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** - ⭐207,312 total  
+  An adaptive agent that grows with user interactions, representing the cutting edge of personalized AI assistance frameworks.
+
+- **[zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)** - ⭐45,726 total  
+  Open-source super AI assistant with task planning, tool execution, and self-evolution capabilities through memory and knowledge systems.
+
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** - ⭐44,935 total  
+  Lightweight, open-source AI agent designed for seamless integration with existing tools, chats, and workflows.
+
+- **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** - ⭐609 today  
+  Terminal-native agent multiplexer that enables efficient management of multiple AI agents from a single interface.
+
+- **[0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)** - ⭐161 today  
+  Innovative multi-persona deliberation system featuring 18 AI personas (Aristotle, Feynman, etc.) for complex decision-making across multiple LLM providers.
+
+### 🔧 AI Infrastructure
+
+- **[diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)** - ⭐1,010 today  
+  Comprehensive AI gateway providing unified access to 231+ providers with 50+ free options, featuring advanced compression and auto-fallback capabilities.
+
+- **[TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** - ⭐79 today  
+  Instant, concurrent, and secure lightweight sandbox specifically designed for AI agents, addressing critical security needs in agent deployment.
+
+- **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** - ⭐35,694 total  
+  Frontend stack for agents and generative UI supporting React, Angular, mobile, and Slack integrations with AG-UI Protocol.
+
+- **[ollama/ollama](https://github.com/ollama/ollama)** - ⭐175,255 total  
+  Streamlined local model deployment supporting latest models including Kimi-K2.6, GLM-5.1, and DeepSeek for developers prioritizing local inference.
+
+- **[vllm-project/vllm](https://github.com/vllm-project/vllm)** - ⭐85,064 total  
+  High-throughput, memory-efficient inference engine that has become the standard for production LLM serving.
 
 ### 📦 AI Applications
 
-| Project | Stars | Today's Stars | Description |
-|---------|-------|---------------|-------------|
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 0 | +572 | Fastest macOS dictation app with on-device STT and custom trained AI enhancement model — local-first speech recognition alternative to Wispr Flow |
-| [togatoga/karukan](https://github.com/togatoga/karukan) | 0 | +42 | Neural Kana-Kanji conversion engine for Japanese input — specialized NLP application with Rust implementation |
-| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 0 | +508 | Self-hosted visual CMS that leverages AI for content management workflows |
-| [logto-io/logto](https://github.com/logto-io/logto) | 0 | +113 | Auth infrastructure specifically built for SaaS and AI applications with OIDC/OAuth 2.1 |
+- **[usestrix/strix](https://github.com/usestrix/strix)** - ⭐1,211 today  
+  Open-source AI penetration testing tool that automatically discovers and fixes application vulnerabilities, showcasing AI's expansion into cybersecurity.
 
-### 🧠 LLMs / Training
+- **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** - ⭐694 today  
+  Personal trading agent that demonstrates AI's growing application in financial markets and automated investment strategies.
 
-| Project | Stars | Today's Stars | Description |
-|---------|-------|---------------|-------------|
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 0 | +1,096 | 12-week curriculum for AI education — consistently popular educational resource |
-| [allenai/olmocr](https://github.com/allenai/olmocr) | 0 | +334 | Toolkit for linearizing PDFs into LLM-ready datasets — critical for training data preparation |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 207,281 | — | Leading open-source agent framework with massive community adoption across multiple use cases |
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 69,448 | — | From-scratch implementation of Claude Code agent harness — educational resource for understanding agent internals |
+- **[altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)** - ⭐572 today  
+  Fastest macOS dictation app with on-device speech-to-text and custom AI enhancement, positioning as a local alternative to cloud-based solutions.
+
+- **[browser-use/video-use](https://github.com/browser-use/video-use)** - ⭐693 today  
+  Novel coding agents for video editing, expanding AI automation into creative content production workflows.
+
+- **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** - ⭐35,814 total  
+  AI system that generates fully editable PowerPoint presentations from any document, complete with native shapes, animations, and voiced narration.
 
 ### 🔍 RAG / Knowledge
 
-| Project | Stars | Today's Stars | Description |
-|---------|-------|---------------|-------------|
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 0 | +2,470 | Comprehensive fitness dataset (433 exercises with images/videos) — shows demand for domain-specific RAG training data |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 48,033 | — | AI productivity studio with smart chat, autonomous agents, and 300+ assistants — unified RAG access to frontier LLMs |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 59,874 | — | Universal memory layer for AI agents — key infrastructure for persistent knowledge in agent systems |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 85,378 | — | Persistent context across sessions for every agent — captures, compresses, and injects relevant context across sessions |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) | 75,288 | — | Turns code folders into queryable knowledge graphs — bridges code understanding with RAG |
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - ⭐85,389 total  
+  Persistent context system for AI agents that compresses session data and injects relevant context into future sessions across multiple platforms.
+
+- **[infiniflow/ragflow](https://github.com/infiniflow/ragflow)** - ⭐84,074 total  
+  Leading open-source RAG engine that combines retrieval-augmented generation with agent capabilities for superior LLM context layers.
+
+- **[safishamsi/graphify](https://github.com/safishamsi/graphify)** - ⭐75,322 total  
+  Transforms any folder of code, schemas, or documents into queryable knowledge graphs, essential for AI coding assistants and development workflows.
+
+- **[VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)** - ⭐33,581 total  
+  Revolutionary vectorless, reasoning-based RAG system that represents a new paradigm in document indexing for AI applications.
+
+### 🧠 LLMs / Training
+
+- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** - ⭐52,443 total  
+  Demonstrates training a 64M-parameter LLM from scratch in just 2 hours, making model training more accessible to individual developers.
+
+- **[hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory)** - ⭐72,881 total  
+  Unified efficient fine-tuning framework for 100+ LLMs and VLMs, essential for developers customizing models for specific use cases.
+
+- **[huggingface/transformers](https://github.com/huggingface/transformers)** - ⭐162,097 total  
+  The definitive framework for state-of-the-art machine learning models across text, vision, audio, and multimodal applications.
+
+## Trend Signal Analysis
+
+Today's explosive growth in agent-focused repositories signals a major maturation phase in the AI agent ecosystem. The community is moving beyond simple chatbots toward sophisticated, multi-agent systems capable of complex task orchestration and real-world automation. The prominence of projects like agency-agents and council-of-high-intelligence indicates developers are exploring novel approaches to agent specialization and collaborative intelligence.
+
+Security-focused AI tools are emerging as a critical trend, with penetration testing and vulnerability assessment tools gaining significant traction. This reflects growing enterprise concerns about AI safety and the need for AI-powered security solutions. The integration of AI with cybersecurity workflows represents a new vertical that's rapidly gaining developer mindshare.
+
+Infrastructure consolidation is another key theme, with projects like OmniRoute addressing the complexity of multi-provider AI access. The emphasis on compression technologies and token optimization suggests the community is focusing on cost efficiency and performance optimization as AI deployment scales.
+
+The rise of local-first AI solutions, particularly in voice processing and model inference, indicates a counter-trend toward privacy-preserving, on-device AI capabilities. This reflects growing enterprise and individual concerns about data privacy in AI applications.
+
+## Community Hot Spots
+
+• **Agent Harnesses & Orchestration** - Multi-agent frameworks with Claude Code/Codex integration are seeing explosive adoption as developers seek production-ready agent deployment solutions
+
+• **AI-Powered Security Tools** - Penetration testing and vulnerability assessment tools represent a rapidly growing intersection of AI and cybersecurity that's attracting significant developer interest
+
+• **Local-First AI Infrastructure** - On-device processing tools and local model serving solutions are gaining traction as privacy concerns drive demand for self-hosted AI capabilities
+
+• **Knowledge Graph RAG Systems** - Vectorless, reasoning-based retrieval systems are emerging as the next evolution beyond traditional vector databases for enterprise knowledge management
+
+• **Token Compression & Optimization** - Tools focusing on reducing LLM operational costs through intelligent compression and context management are becoming essential for production deployments
 
 ---
-
-## 3. Trend Signal Analysis
-
-**Agent-centric security tools** are the most explosive category today. Both `strix` (+1,211) and `VulnClaw` (+132) represent a new paradigm where LLMs drive penetration testing and vulnerability discovery end-to-end. This suggests the community is moving beyond "chat with AI" toward **AI as autonomous security auditor**.
-
-**Multi-agent orchestration** is reaching new levels of sophistication. `agency-agents` (+2,114) introduces the concept of agents as "employees" with distinct personalities and deliverables, while `council-of-high-intelligence` (+161) adds multi-perspective deliberation across 18 personas. The emergence of `herdr` (+609) as an "agent multiplexer" indicates developers need tools to manage multiple concurrent agents.
-
-**AI gateway infrastructure** is maturing rapidly. `OmniRoute` (+1,010) with support for 231+ providers, MCP/A2A protocols, and 95% token compression suggests the ecosystem is standardizing on interoperability layers rather than single-provider lock-in.
-
-**Notable new directions:**
-- **Agent-ready UI infrastructure**: Facebook's `astryx` (+708) explicitly positions as "agent ready" — design systems adapted for agent interfaces
-- **Video as agent capability**: `browser-use/video-use` (+693) extends the popular browser-use paradigm to video editing
-- **Local-first AI dictation**: `FluidVoice` (+572) with on-device STT and custom AI models addresses privacy concerns in speech recognition
-- **Japanese NLP revival**: `karukan` (+42) using neural networks for Kana-Kanji conversion — rare but culturally significant application
-
-**Connection to industry events**: The emergence of `VulnClaw` and `strix` may be responding to recent high-profile security incidents, while the explosion of multi-agent frameworks reflects the industry's pivot from single-agent to compound AI systems.
-
----
-
-## 4. Community Hot Spots
-
-- **🚨 Agent-powered Security (strix, VulnClaw)**: The highest-growth new category — AI that finds and exploits vulnerabilities autonomously. Watch for MCP-based security toolchains.
-
-- **🤝 Multi-Agent Deliberation Systems (council-of-high-intelligence, agency-agents)**: Moving from single-agent to "agent teams" that debate, collaborate, and specialize. Key for complex decision-making tasks.
-
-- **🌐 Universal AI Gateways (OmniRoute)**: The infrastructure layer that lets developers switch between 200+ providers seamlessly. Token compression and auto-fallback are becoming table stakes.
-
-- **🧠 Persistent Agent Memory (claude-mem, mem0)**: Solving the "context window problem" for agents — capturing and compressing session history across conversations. Critical for production agent deployments.
-
-- **📚 Domain-Specific RAG Datasets (exercises-dataset, allenai/olmocr)**: The community is hungry for structured, curated training/evaluation data. Domain-specific datasets with rich metadata (images, videos) are particularly valued.
-
----
-
-*Generated from GitHub trending data and topic search results for 2026-07-02. Stars data reflects approximate values from the provided dataset.*
-
----
-*This digest is auto-generated by [agents-radar](https://github.com/duanyytop/agents-radar).*
+*This digest is auto-generated by [agents-radar](https://github.com/stevenko2002/agents-radar).*

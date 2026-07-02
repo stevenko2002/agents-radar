@@ -1,111 +1,96 @@
 # ArXiv AI 研究日报 2026-07-02
 
-> 数据来源: [ArXiv](https://arxiv.org/) (cs.AI, cs.CL, cs.LG) | 共 50 篇论文 | 生成时间: 2026-07-02 00:28 UTC
+> 数据来源: [ArXiv](https://arxiv.org/) (cs.AI, cs.CL, cs.LG) | 共 50 篇论文 | 生成时间: 2026-07-02 01:51 UTC
 
 ---
 
-好的，作为AI研究分析师，以下是为您整理的2026年7月2日《ArXiv AI 研究日报》。
+# ArXiv AI 研究日报 | 2026-07-02
+
+## 🌟 今日速览
+
+今日ArXiv展现出AI研究的三大关键趋势：大模型的**内省能力与可解释性**成为核心议题，多篇论文探索模型自我解释、不确定性表达和机制分析；**智能体系统**向更复杂方向发展，涵盖多模态协作、技能组合和长时序决策；**效率与实用性优化**持续推进，从硬件加速到训练方法改进，显示AI技术正加速走向工业化部署。
+
+## 🎯 重点论文
+
+### 🧠 大语言模型
+
+**[Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision](http://arxiv.org/abs/2606.32038v1)**  
+*Zifan Carl Guo, Laura Ruis, Jacob Andreas et al.*  
+通过反事实行为分析训练模型生成预测解释，实现真正的内省而非表面模仿，为模型可解释性提供新范式。
+
+**[Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](http://arxiv.org/abs/2606.32032v1)**  
+*Gabrielle Kaili-May Liu, Avi Caciularu, Gal Yona et al.*  
+通过元认知反馈的强化学习训练LLM表达真实不确定性，解决模型过度自信和知识边界模糊的系统性缺陷。
+
+**[SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models](http://arxiv.org/abs/2606.32022v1)**  
+*Jian Gu, Aldeida Aleti, Chunyang Chen et al.*  
+提出语义参考框架分析语言模型残差流动态，解决跨层解码中的坐标一致性问题，推进模型内部机制理解。
+
+**[Surrogate Fidelity: When Can Open LLMs Explain Closed Ones?](http://arxiv.org/abs/2606.32008v1)**  
+*Philippe Chlenski, Zachariah Carmichael, Ayush Warikoo et al.*  
+探索何时可用开源模型解释闭源模型的代理保真度问题，为无法获得模型内部结构的机制解释提供理论框架。
+
+### 🤖 智能体与推理
+
+**[Generative Skill Composition for LLM Agents](http://arxiv.org/abs/2606.32025v1)**  
+*Xinyu Zhao, Zhen Tan, Vaishnav Tadiparthi et al.*  
+提出生成式技能组合框架，让LLM智能体通过组合模块化技能包解决复杂任务，显著提升智能体能力边界。
+
+**[TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning](http://arxiv.org/abs/2606.32017v1)**  
+*Yuanda Xu, Zhengze Zhou, Hejian Sang et al.*  
+针对智能体强化学习提出角色类型化信用分配，替代传统统一优势估计，为不同类型动作提供结构化信号。
+
+**[MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments](http://arxiv.org/abs/2606.31966v1)**  
+*Qingyun Liu, Jiwen Zhang, Jingyi Hu et al.*  
+首个多模态具身智能体协作基准测试，系统研究MLLM在视觉环境中的协作能力，填补该领域评估空白。
+
+**[Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action](http://arxiv.org/abs/2606.31916v1)**  
+*Ben Slater, Matteo G. Mecattaf, Lucy G. Cheke et al.*  
+超越对话场景评估LLM的心智理论能力，测试智能体通过规划和行动诱导他人信念状态的能力。
+
+### 🔧 方法与框架
+
+**[QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents](http://arxiv.org/abs/2606.32034v1)**  
+*Sergio Hernández-Gutiérrez, Matteo Merler, Ilze Amanda Auzina et al.*  
+为长时序LLM智能体提供低成本密集监督信号评估方法，解决仅用结果奖励信号稀疏性问题。
+
+**[AdaJEPA: An Adaptive Latent World Model](http://arxiv.org/abs/2606.32026v1)**  
+*Ying Wang, Oumayma Bounou, Yann LeCun et al.*  
+提出自适应潜在世界模型，在测试时动态调整预测以应对分布偏移，解决传统冻结模型的局限性。
+
+**[Random Reshuffling Dominates Stochastic Gradient Descent](http://arxiv.org/abs/2606.32005v1)**  
+*Zijian Liu*  
+理论证明随机重排SGD在多种设置下优于标准SGD，为实际训练中的常用做法提供严格理论支撑。
+
+**[CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation](http://arxiv.org/abs/2606.32012v1)**  
+*Sanghyuk Chun, William Yang, Amaya Dharmasiri et al.*  
+将多模态不确定性分解为上下文和多重性两个维度，为复杂多模态系统的不确定性估计提供新框架。
+
+### 📊 应用
+
+**[AxDafny: Agentic Verified Code Generation in Dafny](http://arxiv.org/abs/2606.32007v1)**  
+*Benjamin Breen, Austin Letson, Borja Requena Pozo et al.*  
+智能体框架在Dafny中生成可验证代码，同时生成执行代码和验证证明，推进形式化验证的自动化。
+
+**[Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models](http://arxiv.org/abs/2606.31846v1)**  
+*Lang Cao, Renhong Chen, Luyi Li et al.*  
+针对视觉-语言-动作模型的高效强化学习框架，突破传统行为克隆限制，实现真正的策略改进。
+
+**[FlexViT: A Flexible FPGA-based Accelerator for Edge Vision Transformers](http://arxiv.org/abs/2606.31938v1)**  
+*Hubert Dymarkowski, Xingjian Fu, Rappy Saha et al.*  
+专为边缘设备设计的灵活FPGA加速器，解决混合ViT架构部署中的异构性挑战。
+
+## 📈 研究趋势信号
+
+本日投稿展现出明显的**"智能系统内省化"**趋势：从模型自我解释、不确定性感知到元认知能力，研究者们正努力让AI系统具备更强的自我监控能力。同时，**"智能体实用化"**加速推进，技能组合、多模态协作和长时序决策成为热点。值得注意的是，**"理论与实践融合"**特征明显，如随机重排SGD的理论验证和FPGA加速器的工程实现，显示该领域正从探索走向成熟的工程化阶段。
+
+## 🎓 值得精读
+
+1. **[Introspective Coupling](http://arxiv.org/abs/2606.32038v1)** - 开创性地解决了模型解释的真实性问题，方法论对整个可解释性研究具有重要指导意义。
+
+2. **[Generative Skill Composition for LLM Agents](http://arxiv.org/abs/2606.32025v1)** - 为智能体能力扩展提供了系统性框架，对构建实用AI系统具有直接价值。
+
+3. **[AdaJEPA](http://arxiv.org/abs/2606.32026v1)** - 自适应世界模型概念可能影响强化学习和决策系统的未来发展方向。
 
 ---
-
-### **今日速览**
-
-今日投稿呈现三大焦点：**LLM的可信度与自我认知**、**具身智能与机器人学习的范式革新**，以及**多智能体协作与代码生成**。多篇工作聚焦于如何让LLM通过内省、元认知反馈来量化其不确定性并忠实表达，而非仅仅模仿。在机器人领域，“自由形式偏好学习”与“无线性混合蒙皮”的3D动画生成模型展示了从稀疏信号中学习和突破传统约束的新可能。此外，结合形式化验证的智能体代码生成（如Dafny）和多智能体协作基准的提出，标志着AI从“对话能力”向“可靠执行”迈出了坚实一步。
-
-### **重点论文**
-
-#### 🧠 **大语言模型（架构、训练、对齐、评估）**
-
-1.  **Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**
-    *   作者: Zifan Carl Guo et al.
-    *   链接: [http://arxiv.org/abs/2606.32038v1](http://arxiv.org/abs/2606.32038v1)
-    *   **一句话说明**：通过设计“内省耦合”训练方法，在固定标签下训练模型生成解释，证明模型能真正追踪其行为变化，而非表面模仿，为忠实的内省机制提供了新视角。
-
-2.  **Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**
-    *   作者: Gabrielle Kaili-May Liu et al.
-    *   链接: [http://arxiv.org/abs/2606.32032v1](http://arxiv.org/abs/2606.32032v1)
-    *   **一句话说明**：利用元认知反馈的强化学习，有效提升了LLM表达其不确定性的能力，使其能更准确地识别知识边界并减少高置信度幻觉。
-
-3.  **When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors**
-    *   作者: Yuqing Yang et al.
-    *   链接: [http://arxiv.org/abs/2606.32029v1](http://arxiv.org/abs/2606.32029v1)
-    *   **一句话说明**：系统性地测量和分析了LLM在处理表格数据时的“数据引用错误”，为提升模型在结构化数据任务中的可靠性提供了重要基准和缓解策略。
-
-4.  **Belief Contraction in Dynamic Epistemic Logic**
-    *   作者: Gaia Belardinelli, Snow Zhang
-    *   链接: [http://arxiv.org/abs/2606.31861v1](http://arxiv.org/abs/2606.31861v1)
-    *   **一句话说明**：在动态认知逻辑中形式化了信念收缩（即放弃已有信念）操作，弥补了该领域只擅长描述信念扩张的理论空白，对理解智能体的知识更新机制有理论意义。
-
-#### 🤖 **智能体与推理（规划、工具使用、多智能体、思维链）**
-
-5.  **PolicyGuard: From Organizational Policies to Neuro-Symbolic Compliance Review Engines**
-    *   作者: Sameer Malik et al.
-    *   链接: [http://arxiv.org/abs/2606.32004v1](http://arxiv.org/abs/2606.32004v1)
-    *   **一句话说明**：提出一个神经-符号结合的合规性审查引擎，能将组织内部复杂的政策文档转化为可执行的逻辑规则，用于自动化文档审查，解决了LLM直接应用在专业领域的逻辑模糊问题。
-
-6.  **Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action**
-    *   作者: Ben Slater et al.
-    *   链接: [http://arxiv.org/abs/2606.31916v1](http://arxiv.org/abs/2606.31916v1)
-    *   **一句话说明**：将“心智理论”评估从被动问答扩展到主动规划与行动领域，测试LLM智能体是否有能力通过设计行动计划来诱导他人特定信念，这是对LLM社会智能更深层次的检验。
-
-7.  **AxDafny: Agentic Verified Code Generation in Dafny**
-    *   作者: Benjamin Breen et al.
-    *   链接: [http://arxiv.org/abs/2606.32007v1](http://arxiv.org/abs/2606.32007v1)
-    *   **一句话说明**：提出了一个智能体代码生成框架，能够迭代生成可执行代码和形式化证明，实现了从“写代码”到“写经过验证的正确代码”的关键一步，对高可靠性软件工程意义重大。
-
-#### 🔧 **方法与框架（新技术、基准测试、效率优化）**
-
-8.  **Freeform Preference Learning for Robotic Manipulation**
-    *   作者: Marcel Torne et al.
-    *   链接: [http://arxiv.org/abs/2606.32027v1](http://arxiv.org/abs/2606.32027v1)
-    *   **一句话说明**：引入“自由形式偏好学习”，允许用户通过自然语言或演示而非二元比较来提供奖励信号，极大降低了机器人长周期任务中的奖励设计门槛。
-
-9.  **AdaJEPA: An Adaptive Latent World Model**
-    *   作者: Ying Wang et al. (Yann LeCun)
-    *   链接: [http://arxiv.org/abs/2606.32026v1](http://arxiv.org/abs/2606.32026v1)
-    *   **一句话说明**：提出一种能在测试时自适应更新、抵抗分布漂移的潜空间世界模型，显著提升了模型在面对新环境时进行规划的成功率和鲁棒性。
-
-10. **TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning**
-    *   作者: Yuanda Xu et al.
-    *   链接: [http://arxiv.org/abs/2606.32017v1](http://arxiv.org/abs/2606.32017v1)
-    *   **一句话说明**：引入“角色类型化”的信用分配机制，区分不同动作（如搜索、点击）对最终结果的贡献，解决了智能体强化学习中稀疏奖励下长程动作链的信用分配难题。
-
-11. **Review Residuals: Update-Conditioned Residual Gating for Transformers**
-    *   作者: Kyle Kramer
-    *   链接: [http://arxiv.org/abs/2606.31859v1](http://arxiv.org/abs/2606.31859v1)
-    *   **一句话说明**：提出一种“审查残差”机制，为Transformer的残差连接引入了基于更新质量的动态门控，让网络在提交更新前可以“审查”其可靠性，架构思想新颖。
-
-12. **MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments**
-    *   作者: Qingyun Liu et al.
-    *   链接: [http://arxiv.org/abs/2606.31966v1](http://arxiv.org/abs/2606.31966v1)
-    *   **一句话说明**：提出了一个多模态具身智能体协作基准，系统地研究了多个MLLM驱动的智能体在物理模拟环境中如何通过视觉和语言进行协作，填补了该领域的评估空白。
-
-#### 📊 **应用（垂直领域、多模态、代码生成）**
-
-13. **LUNA: Learning Universal 3D Human Animation Beyond Skinning**
-    *   作者: Peng Li et al.
-    *   链接: [http://arxiv.org/abs/2606.31981v1](http://arxiv.org/abs/2606.31981v1)
-    *   **一句话说明**：提出无线性混合蒙皮（LBS-free）的3D人体动画生成模型，直接基于单目图像生成逼真、可动画化的3D化身，摆脱了传统参数化身体模型的束缚和伪影。
-
-14. **Harnessing Textual Refusal Directions for Multimodal Safety**
-    *   作者: Moreno D’Incà et al.
-    *   链接: [http://arxiv.org/abs/2606.31876v1](http://arxiv.org/abs/2606.31876v1)
-    *   **一句话说明**：揭示了如何将纯文本领域学到的“拒绝方向”泛化到多模态大模型，为减少对昂贵多模态不安全数据的依赖、提升MLLM安全性提供了高效新策略。
-
-### **研究趋势信号**
-
-今日投稿中，一个显著趋势是**AI系统正在从“被动问答”向“主动认知与执行”转变**。具体表现为：(1) **模型的内省与元认知**：多篇论文不满足于提升准确率，而是致力于让模型理解“自己知道什么、不知道什么”，并忠实表达其不确定性（如论文1, 3）；(2) **从模仿到理解与证明**：在代码和机器人领域，研究重点从模仿数据转向理解策略背后的逻辑（如偏好学习、形式化验证）；(3) **协作与理论深化**：多智能体协作从简单的对话任务扩展到具身环境，同时逻辑学家也从形式化角度（如信念收缩）夯实理论基础，预示着AI研究正迈向更复杂、更可靠、更具泛化能力的新阶段。
-
-### **值得精读**
-
-1.  **Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**
-    *   **理由**：该论文直接挑战了“训练模型生成解释”是否只是学会了表面模仿这一核心问题，设计精巧的实验证明了模型可以具备“内省”能力，对于理解LLM的内在认知机制和构建更可信的AI系统具有里程碑式的意义。
-
-2.  **Freeform Preference Learning for Robotic Manipulation**
-    *   **理由**：为解决机器人学习中奖励设计这一根本性瓶颈提供了极具潜力的解决方案。其“自由形式”的概念允许用户以更直观、更自然的方式定义复杂任务目标，有望显著降低机器人技能学习的门槛，是未来机器人探索的重要方向。
-
-3.  **AxDafny: Agentic Verified Code Generation in Dafny**
-    *   **理由**：它将智能体代码生成与形式化验证紧密结合，代表了AI代码生成领域从追求“能跑”到追求“正确”的质变。对于金融、航天、医疗等对安全性有极端要求的领域，这种范式是未来发展的必然趋势，极具前瞻性和应用价值。
-
----
-*本日报由 [agents-radar](https://github.com/duanyytop/agents-radar) 自动生成。*
+*本日报由 [agents-radar](https://github.com/stevenko2002/agents-radar) 自动生成。*
