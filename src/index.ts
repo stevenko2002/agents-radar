@@ -38,10 +38,12 @@ import {
   saveArxivReport,
   saveHfReport,
   saveCommunityReport,
+  saveHk01Report,
 } from "./report-savers.ts";
 import { loadWebState, fetchSiteContent, type WebFetchResult, type WebState } from "./web.ts";
 import { fetchTrendingData, type TrendingData } from "./trending.ts";
 import { fetchHnData, type HnData } from "./hn.ts";
+import { fetchHk01Data, type Hk01Data } from "./hk01.ts";
 import { fetchPhData, type PhData } from "./ph.ts";
 import { fetchArxivData, type ArxivData } from "./arxiv.ts";
 import { fetchHfData, type HfData } from "./hf.ts";
@@ -85,6 +87,7 @@ async function fetchAllData(
   webResults: WebFetchResult[];
   trendingData: TrendingData;
   hnData: HnData;
+  hk01Data: Hk01Data;
   phData: PhData;
   arxivData: ArxivData;
   hfData: HfData;
@@ -93,7 +96,7 @@ async function fetchAllData(
 }> {
   const allConfigs = [...CLI_REPOS, OPENCLAW, ...OPENCLAW_PEERS];
   console.log(
-    `  Tracking: ${allConfigs.map((r) => r.id).join(", ")}, claude-code-skills, web, hn, ph, arxiv, hf, devto, lobsters`,
+    `  Tracking: ${allConfigs.map((r) => r.id).join(", ")}, claude-code-skills, web, hn, hk01, ph, arxiv, hf, devto, lobsters`,
   );
 
   const [
@@ -102,6 +105,7 @@ async function fetchAllData(
     webResults,
     trendingData,
     hnData,
+    hk01Data,
     phData,
     arxivData,
     hfData,
@@ -160,6 +164,7 @@ async function fetchAllData(
       }),
     ),
     fetchHnData().catch((): HnData => ({ stories: [], fetchSuccess: false })),
+    fetchHk01Data().catch((): Hk01Data => ({ articles: [], fetchSuccess: false })),
     fetchPhData().catch((): PhData => ({ products: [], fetchSuccess: false })),
     fetchArxivData().catch((): ArxivData => ({ papers: [], fetchSuccess: false })),
     fetchHfData().catch((): HfData => ({ models: [], fetchSuccess: false })),
@@ -173,6 +178,7 @@ async function fetchAllData(
     webResults,
     trendingData,
     hnData,
+    hk01Data,
     phData,
     arxivData,
     hfData,
@@ -306,6 +312,7 @@ async function main(): Promise<void> {
     webResults,
     trendingData,
     hnData,
+    hk01Data,
     phData,
     arxivData,
     hfData,
@@ -409,6 +416,8 @@ async function main(): Promise<void> {
     ),
     saveHnReport(hnData, utcStr, dateStr, digestRepo, autoGenFooter("zh"), "zh"),
     saveHnReport(hnData, utcStr, dateStr, digestRepo, autoGenFooter("en"), "en"),
+    saveHk01Report(hk01Data, utcStr, dateStr, digestRepo, autoGenFooter("zh"), "zh"),
+    saveHk01Report(hk01Data, utcStr, dateStr, digestRepo, autoGenFooter("en"), "en"),
     savePhReport(phData, utcStr, dateStr, digestRepo, autoGenFooter("zh"), "zh"),
     savePhReport(phData, utcStr, dateStr, digestRepo, autoGenFooter("en"), "en"),
     saveArxivReport(arxivData, utcStr, dateStr, digestRepo, autoGenFooter("zh"), "zh"),

@@ -99,6 +99,12 @@ export const COMMUNITY_REPORT = {
     lang === "en" ? `💬 Tech Community AI Digest ${dateStr}` : `💬 技术社区 AI 动态日报 ${dateStr}`,
 } as const;
 
+export const HK01_REPORT = {
+  title: t("香港 01 新闻日报", "HK01 News Digest"),
+  issueTitle: (dateStr: string, lang: Lang) =>
+    lang === "en" ? `📰 HK01 News Digest ${dateStr}` : `📰 香港 01 新闻日报 ${dateStr}`,
+} as const;
+
 export const WEEKLY_REPORT = {
   title: t("AI 工具生态周报", "AI Tools Ecosystem Weekly Report"),
   coverage: t("覆盖日期", "Coverage"),
@@ -120,6 +126,7 @@ export const ISSUE_LABELS = {
   arxiv: t("arxiv", "arxiv-en"),
   hf: t("hf", "hf-en"),
   community: t("community", "community-en"),
+  hk01: t("hk01", "hk01-en"),
 } as const;
 
 export const CLI_ISSUE_TITLE = (dateStr: string, lang: Lang) =>

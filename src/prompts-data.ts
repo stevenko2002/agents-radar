@@ -8,6 +8,7 @@
 import type { WebFetchResult } from "./web.ts";
 import type { TrendingData } from "./trending.ts";
 import type { HnData } from "./hn.ts";
+import type { Hk01Data } from "./hk01.ts";
 import type { PhData } from "./ph.ts";
 import type { ArxivData } from "./arxiv.ts";
 import type { HfData } from "./hf.ts";
@@ -904,5 +905,63 @@ ${lobstersText}
 5. **值得精读** — 2~3 篇最值得深入阅读的内容
 
 语言要求：中文，简洁专业，保留所有原文链接。
+`;
+}
+
+// ---------------------------------------------------------------------------
+// HK01 News Prompt
+// ---------------------------------------------------------------------------
+
+export function buildHk01Prompt(data: Hk01Data, dateStr: string, lang: Lang = "zh"): string {
+  const articlesText = data.articles
+    .map((a, i) =>
+      lang === "en"
+        ? `${i + 1}. **${a.title}** [${a.category}]\n` +
+          `   Link: https://www.hk01.com${a.url}\n` +
+          `   ${a.description}`
+        : `${i + 1}. **${a.title}** [${a.category}]\n` +
+          `   链接: https://www.hk01.com${a.url}\n` +
+          `   ${a.description}`
+    )
+    .join("\n\n");
+
+  if (lang === "en") {
+    return `You are a news analyst covering Hong Kong, international, and technology news. The following is ${dateStr} news data from HK01 (香港01), covering three categories: 港聞 (Hong Kong News), 國際 (International), and 科技 (Technology).
+
+## HK01 News Data (${data.articles.length} articles)
+${articlesText}
+
+---
+
+Generate a concise "Today's Key News" summary in English:
+
+1. **Top Stories** — Select the 8-12 most important/impactful news stories across all categories. For each:
+   - Headline (with category tag)
+   - 1-2 sentence summary of what happened
+   - Link to full article
+
+2. **Category Highlights** — Brief 2-3 sentence overview for each category (港聞/國際/科技) noting any major themes
+
+Style: concise, factual, professional news briefing format. Keep all article links.
+`;
+  }
+
+  return `你是一位新聞分析師，負責整理香港、國際和科技新聞。以下是 ${dateStr} 香港01的新聞數據，涵蓋三個分類：港聞、國際、科技。
+
+## HK01 新聞數據（共 ${data.articles.length} 條）
+${articlesText}
+
+---
+
+請生成一份簡潔的「今日重點新聞」摘要，包含：
+
+1. **重要新聞** — 從所有分類中挑選 8-12 條最重要/最有影響力的新聞。每條包含：
+   - 標題（附分類標籤）
+   - 1-2 句話說明事件內容
+   - 完整文章連結
+
+2. **分類概覽** — 每個分類（港聞/國際/科技）用 2-3 句話概述今日主要主題
+
+語言要求：中文，簡潔專業，保留所有文章連結。
 `;
 }

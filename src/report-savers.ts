@@ -12,6 +12,7 @@ import {
   ARXIV_REPORT,
   HF_REPORT,
   COMMUNITY_REPORT,
+  HK01_REPORT,
   ISSUE_LABELS,
 } from "./i18n.ts";
 import {
@@ -21,11 +22,13 @@ import {
   buildArxivPrompt,
   buildHfPrompt,
   buildCommunityPrompt,
+  buildHk01Prompt,
 } from "./prompts-data.ts";
 import { callLlm, saveFile, LLM_TOKENS_WEB } from "./report.ts";
 import { createGitHubIssue } from "./github.ts";
 import { saveWebState, type WebFetchResult, type WebState } from "./web.ts";
 import type { HnData } from "./hn.ts";
+import type { Hk01Data } from "./hk01.ts";
 import type { PhData } from "./ph.ts";
 import type { TrendingData } from "./trending.ts";
 import type { ArxivData } from "./arxiv.ts";
@@ -367,5 +370,52 @@ export async function saveCommunityReport(
     }
   } catch (err) {
     console.error(`  [community/${lang}] Report generation failed: ${err}`);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// HK01 News Report
+// ---------------------------------------------------------------------------
+
+export async function saveHk01Report(
+  hk01Data: Hk01Data,
+  utcStr: string,
+  dateStr: string,
+  digestRepo: string,
+  footer: string,
+  lang: Lang = "zh",
+): Promise<void> {
+  if (!hk01Data.fetchSuccess) {
+    console.log(`  [hk01/${lang}] No data available, skipping report.`);
+    return;
+  }
+
+  console.log(`  [hk01/${lang}] Calling LLM for HK01 news report...`);
+  try {
+    const hk01Summary = await callLlm(buildHk01Prompt(hk01Data, dateStr, lang));
+    const fileName = lang === "en" ? "hk01-en.md" : "hk01.md";
+    const header =
+      lang === "en"
+        ? `# ${HK01_REPORT.title[lang]} ${dateStr}\n\n` +
+          `> Source: [HK01](https://www.hk01.com) | ` +
+          `${hk01Data.articles.length} articles | Generated: ${utcStr} UTC\n\n` +
+          `---\n\n`
+        : `# ${HK01_REPORT.title[lang]} ${dateStr}\n\n` +
+          `> 数据来源: [香港01](https://www.hk01.com) | ` +
+          `共 ${hk01Data.articles.length} 条 | 生成时间: ${utcStr} UTC\n\n` +
+          `---\n\n`;
+
+    const hk01Content = header + hk01Summary + footer;
+
+    console.log(`  Saved ${saveFile(hk01Content, dateStr, fileName)}`);
+
+    if (digestRepo) {
+      const hk01Title = HK01_REPORT.issueTitle(dateStr, lang);
+      const hk01Label = ISSUE_LABELS.hk01[lang];
+      const hk01Url = await createGitHubIssue(hk01Title, hk01Content, hk01Label);
+      console.log(`  Created HK01 issue (${lang}): ${hk01Url}`);
+    }
+  } catch (err) {
+    console.error(`  [hk01/${lang}] Report generation failed: ${err}`);
   }
 }
