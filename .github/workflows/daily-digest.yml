@@ -54,7 +54,7 @@ jobs:
             echo "No new digest files to commit"
           else
             DATE=$(date -u +%Y-%m-%d)
-            git commit -m "digest: ${DATE} daily digest"
+            git commit --no-verify -m "digest: ${DATE} daily digest"
             # Retry pull and push up to 3 times to handle race conditions
             for i in 1 2 3; do
               if git pull --rebase --autostash && git push; then
@@ -74,7 +74,7 @@ jobs:
         run: |
           git add manifest.json feed.xml
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update manifest.json"
+            git commit --no-verify -m "chore: update manifest.json"
             # Retry pull and push up to 3 times to handle race conditions
             for i in 1 2 3; do
               if git pull --rebase --autostash && git push; then
