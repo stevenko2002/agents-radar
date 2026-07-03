@@ -55,8 +55,16 @@ jobs:
           else
             DATE=$(date -u +%Y-%m-%d)
             git commit -m "digest: ${DATE} daily digest"
-            git pull --rebase
-            git push
+            # Retry pull and push up to 3 times to handle race conditions
+            for i in 1 2 3; do
+              if git pull --rebase --autostash && git push; then
+                echo "Push successful on attempt $i"
+                break
+              else
+                echo "Attempt $i failed, retrying in 5 seconds..."
+                sleep 5
+              fi
+            done
           fi
 
       - name: Update web manifest
@@ -67,8 +75,16 @@ jobs:
           git add manifest.json feed.xml
           if ! git diff --cached --quiet; then
             git commit -m "chore: update manifest.json"
-            git pull --rebase
-            git push
+            # Retry pull and push up to 3 times to handle race conditions
+            for i in 1 2 3; do
+              if git pull --rebase --autostash && git push; then
+                echo "Push successful on attempt $i"
+                break
+              else
+                echo "Attempt $i failed, retrying in 5 seconds..."
+                sleep 5
+              fi
+            done
           fi
 
       - name: Send Telegram notification
@@ -89,4 +105,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DIGEST_REPO: ${{ github.repository }}
         run: pnpm close-stale
-
