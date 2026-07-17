@@ -1,4 +1,118 @@
 {
-  "zh": {},
-  "en": {}
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.212",
+      "OpenAI Codex alpha SDKs",
+      "Gemini CLI v0.52.0-preview",
+      "Copilot CLI v1.0.72-0",
+      "Kimi Code CLI v1.49.0",
+      "Ollama OpenCL fixes"
+    ],
+    "ai-agents": [
+      "OpenClaw 500+ issues",
+      "Linux/Windows support demand",
+      "Codex regression alert",
+      "OOM vulnerability fixed",
+      "Agentic misalignment risk",
+      "WAMs action errors"
+    ],
+    "ai-trending": [
+      "Graphify 89k stars rise",
+      "Hermes Agent customization",
+      "AutoGPT chain thinking",
+      "Bonsai edge deployment",
+      "DeepSeek-Reasonix GO CLI",
+      "Qwen3.6 multimodal surge"
+    ],
+    "ai-web": [
+      "Claude Tag Slack integration",
+      "Finance Agent templates",
+      "Claude for Teachers",
+      "Agent misalignment danger",
+      "Claude Sonnet 5 model",
+      "GPT-5.6 self-updating"
+    ],
+    "ai-hn": [
+      "Claude vs GPT music video",
+      "Traditional ML detection",
+      "LM Studio Bionic agent",
+      "ReasonGate injection defense",
+      "Traceforce monitoring tool",
+      "AI insider threats"
+    ],
+    "ai-arxiv": [
+      "BadWAM prediction errors",
+      "LongStraw VRAM training",
+      "Plover GUI steering",
+      "MedFailBench medical AI",
+      "VEXMLM low-resource NLP",
+      "LQCDMaster science auto"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE model",
+      "Qwen3.6 uncensored run",
+      "Qwythos multimodal power",
+      "Unlimited-OCR Baidu tech",
+      "Ornith GGUF format",
+      "Bonsai quantized boom"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.212 adds `/fork` for background sessions",
+      "OpenAI Codex Rust releases 4 consecutive alpha builds",
+      "#16-.20 likely address stability or performance issues",
+      "Gemini CLI v0.52.0-preview refines workspace context",
+      "GitHub Copilot CLI v1.0.72 enables multi-turn subagents",
+      "Kimi Code CLI v1.49.0 fixes context budget"
+    ],
+    "ai-agents": [
+      "OpenClaw shows 500 issues and 500 PRs in 24 hours",
+      "No OpenClaw releases despite intense community activity",
+      "Memory safety PRs prevent OOM conditions",
+      "Security PR #108899 narrows sandbox directories",
+      "#109600 and Control UI queue mode improvements",
+      "Backup/restore documentation improved"
+    ],
+    "ai-trending": [
+      "GitHub Copilot SDK launches (+13 stars today)",
+      "vllm leads with 86,463 stars for LLM inference",
+      "PrismML Bonsai-demo gains traction for AI agents",
+      "AutoGPT maintains 185,577 stars as pioneer framework",
+      "awesome-llm-apps grows for practical AI applications",
+      "Google Workspace CLI built with AI agent skills"
+    ],
+    "ai-web": [
+      "Claude Sonnet 5 launches as most agentic Sonnet model",
+      "Claude Tag integrates Claude into Slack teams",
+      "Agentic Misalignment identifies LLM insider threats",
+      "Neural J-space Global Workspace discovered",
+      "Anthropic's EU testimony snub sparks controversy",
+      "OpenAI metadata-only GPT-5-6 and GPT Live updates"
+    ],
+    "ai-hn": [
+      "105+ YC founders worked at OpenAI/Anthropic",
+      "Claude Fable 5 vs GPT-5.6 Sol $100 music challenge",
+      "LM Studio Bionic agent debuts for open models",
+      "Traceforce YC launches for AI app monitoring",
+      "Classical ML detects LLM text (167 HN score)",
+      "LLM serving backend causes 8x latency differences"
+    ],
+    "ai-arxiv": [
+      "Neural models encode grammaticality linearly",
+      "Mask-Aware Policy Gradients for Diffusion LMs",
+      "On-Policy Delta Distillation for efficient RL",
+      "Multimodal benchmarks address deployment gaps",
+      "World-action models emerge for robotics",
+      "Diffusion-based control framework advances"
+    ],
+    "ai-hf": [
+      "GLM-5.2 leads with 4K likes, 513K downloads",
+      "Qwythos-9B gets 2.2K likes, 2M+ downloads",
+      "Uncensored Qwen3.6 aggressive variant surges",
+      "Tencent Hy3 optimized for scalable dialogue",
+      "GGUF quantization format dominates trending",
+      "Vision-language models gain community adoption"
+    ]
+  }
 }
