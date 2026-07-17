@@ -1,0 +1,126 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.212 支持后台会话和自动模式重置",
+      "OpenAI Codex 快速迭代发布 rust-v0.145.0-alpha.22 版本",
+      "GitHub Copilot CLI v1.0.72-1 新增插件和技能管理",
+      "llama.cpp b10064 优化 OpenCL 后端 transpose 性能",
+      "Gemini CLI 引入会话轮次限制防御恶意注入",
+      "OpenCode 修复 OpenAI 兼容 reasoning 字段解析"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.2 增强远程编码会话能力",
+      "OpenClaw 解决数据库迁移导致网关启动失败",
+      "OpenClaw 修复 Codex 转场中断和 OpenAI OAuth 问题",
+      "开发者呼吁 Linux/Windows 跨平台支持",
+      "社区关注内存信任标签和文件沙箱安全性",
+      "OpenClaw 修复上下文引擎延迟维护任务超时"
+    ],
+    "ai-trending": [
+      "GitHub Copilot SDK 新增 234 stars 支持多平台",
+      "turbovec 向量索引 280 stars 高效 Rust 实现",
+      "Nutlope/hallmark 1486 stars 反 AI 设计套件",
+      "Hermes Agent 216K stars 可持续学习能力",
+      "DeepTutor 528 stars 个性化 AI 教学系统",
+      "openinterpreter 431 stars 支持 Kimi K3 模型"
+    ],
+    "ai-web": [
+      "OpenAI 发布《A Scorecard for the AI Age》战略文章",
+      "Anthropic 继续聚焦 AI 伦理与治理框架",
+      "Claude 3 系列性能持续领先多模态理解",
+      "Anthropic 教育白皮书拓展企业市场布局",
+      "两Company B 动态分析",
+      "OpenAI 评估框架引发开发者社区讨论"
+    ],
+    "ai-hn": [
+      "Kimi K3 疑似蒸馏 Anthropic 未公开模型",
+      "OpenAI GPT-5.6 文件删除 bug 引发担忧",
+      "OpenAI 加密 Codex 指令阻碍审计",
+      "Claude Code 设计缺陷引发社区强烈不满",
+      "500M 公司因 Claude 未设置支出上限损失",
+      "开发者关注 AI 工具透明度与开源性"
+    ],
+    "ai-arxiv": [
+      "GLM-5.2 下载量 534K stars 多语言能力",
+      "Bonsai-27B GGUF 1M+ 下载量压缩模型",
+      "HauhauCS Qwen3.6 非审查版 2.3M 下载",
+      "SceneBind 跨模态场景理解框架提出",
+      "RoboTTT 实现 8K 步长机器人规划",
+      "AutoSynthesis 和 BrainPilot AI 科研自动化探索"
+    ],
+    "ai-community": [
+      "Dev.to 讨论 Gemini Nano 浏览器部署潜力",
+      "反思“AI-first”开发模式谨慎技术驱动",
+      "Kimi K3 2.8T 参数模型全方位解析",
+      "OpenTelemetry 监控 AI 系统调试效率提升",
+      "RAG 知识召回常见缺陷系统优化思路",
+      "AI Agent 自主级别框架助安全设计"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.212 adds /fork command for background sessions",
+      "GitHub Copilot CLI v1.0.72-1 adds plugin mutation flags",
+      "Qwen Code v0.19.11-nightly adds daemon startup tracing",
+      "Ollama PR #17244 fixes segfaults on Intel Sapphire Rapids",
+      "Ollama PR #17238 adds Laguna MLX support for Apple Silicon",
+      "llama.cpp PR #25847 adds CONV_2D_DW kernel to WebGPU"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.2 adds remote coding sessions",
+      "886 updates in 24 hours (386 issues, 500 PRs)",
+      "Remote sessions run on cloud workers with terminal control",
+      "Session resumption for OpenCode and Pi sessions",
+      "No breaking changes in this beta release",
+      "Active maintainers with ready-for-review PRs"
+    ],
+    "ai-trending": [
+      "github/copilot-sdk gains 234 stars for multi-platform SDK",
+      "openinterpreter/openinterpreter reaches 431 stars for open models",
+      "DeepSeek-Reasonix hits 27,144 stars for terminal coding agent",
+      "Focus on AI agent infrastructure and developer productivity tools",
+      "Local-first AI experiences gain rapid community adoption",
+      "Terminal-native agents and MCP integrations trending"
+    ],
+    "ai-web": [
+      "OpenAI releases 'A Scorecard For The Ai Age' article",
+      "No new content published by Anthropic today",
+      "Article likely focuses on AI safety or policy frameworks",
+      "Represents OpenAI's ongoing evaluation methodology work",
+      "No textual content available for detailed analysis",
+      "OpenAI maintains focus on responsible AI development"
+    ],
+    "ai-hn": [
+      "Kimi K3 may have distilled unreleased Anthropic model",
+      "China erases America's AI lead according to Axios report",
+      "OpenAI admits GPT-5.6 occasionally deletes files",
+      "Apple recruits OpenAI employees sparking intense debate",
+      "Claude Code criticized for design flaws and feature removal",
+      "Growing skepticism around AI ethics and accountability"
+    ],
+    "ai-arxiv": [
+      "Partition, Prompt, Aggregate improves LLM statistical consistency",
+      "In-Place Tokenizer Expansion reduces LLM deployment overhead",
+      "Mask-Aware Policy Gradients extend RL to diffusion models",
+      "Transformer with Temporal Middle-Layer Recurrence proposed",
+      "Agent collaboration and safety advances dominate research",
+      "New benchmarks focus on cost-aware security agents"
+    ],
+    "ai-hf": [
+      "GLM-5.2 leads with 4,070 likes and 534K downloads",
+      "HauhauCS Qwen3.6-35B-Uncensored gains 2,824 likes",
+      "Uncensored and quantized models dominate text-generation",
+      "OCR tools like Unlimited-OCR and video generators trending",
+      "Community fine-tunes drive adoption across specialized use cases",
+      "Multimodal Qwythos-9B-Claude-Mythos shows reasoning focus"
+    ],
+    "ai-community": [
+      "Stratagems #16 reveals critical AI audit vulnerabilities",
+      "On-device AI experiments with Gemini Nano show promise",
+      "RAG systems face hidden self-consistency challenges",
+      "Practical deployment struggles with token drift and hallucinations",
+      "Cost transparency becomes major developer concern",
+      "Ethical debates on AI wealth concentration intensify"
+    ]
+  }
+}

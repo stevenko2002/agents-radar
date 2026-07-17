@@ -1,0 +1,69 @@
+# HK01 News Digest 2026-07-18
+
+> Source: [HK01](https://www.hk01.com) | 30 articles | Generated: 2026-07-17 22:15 UTC
+
+---
+
+
+### **Today's Key News**  
+
+---
+
+#### **Top Stories**  
+
+1. **Japanese Parliament Passes Flag Desecration Bill (International)**  
+   Japan's House of Councillors approved a bill making damage to the national flag punishable by up to two years in prison, a move pushed by Prime Minister Kishida Fumio amid long-standing debates over symbolic freedom.  
+   [Link](https://www.hk01.com/即時國際/60371169/日本國會通過國旗損壞罪法案-最高可判囚兩年)  
+
+2. **U.S. and Iran Trade Strikes in Ongoing Tensions (International)**  
+   The U.S. Central Command launched its seventh consecutive airstrike on Iran, while Iranian media reported missile attacks on U.S. naval vessels in the northern Indian Ocean.  
+   [Link](https://www.hk01.com/即時國際/60371171/美軍連續第七晚打擊伊朗-伊方據報向美艦艇發射巡航導彈-有片)  
+
+3. **Xi Jinping Meets U.N. Chief to Discuss Global AI Cooperation (International)**  
+   Chinese President Xi Jinping met with U.N. Secretary-General António Guterres in Shanghai, reaffirming China's commitment to strengthening ties with the U.N. ahead of the 2026 World AI Conference.  
+   [Link](https://www.hk01.com/即時國際/60371166/習近平會晤古特雷斯-稱中方將一如既往加強與聯合國合作)  
+
+4. **U.S. Ends "Hong Kong National Emergency" Sanctions, China Applauds (Hong Kong/International)**  
+   The U.S. confirmed it will not renew the 2020 emergency order on Hong Kong, removing nine individuals, including Lam Tung-kiu, from sanctions, with China praising the decision as a fulfillment of bilateral trade agreements.  
+   [Link](https://www.hk01.com/政情/60371164/美國終止-涉港國家緊急狀態-命令-林定國等9人從制裁名單剔除)  
+
+5. **UK Labour Party Elects Andy Burnham as New Leader (International)**  
+   Former Manchester Mayor Andy Burnham was elected as the new Labour Party leader, positioning him to become the UK’s next Prime Minister. He outlined five post-election priorities, including economic reforms.  
+   [Link](https://www.hk01.com/即時國際/60371112/貝安德當選英國工黨黨魁-將出任英首相-演說談上場後5目標)  
+
+6. **U.S.-China AI Competition Intensifies at Shanghai Global Conference (International)**  
+   At the 2026 World AI Conference, the Global AI Cooperation Organization was formed by 29 founding members, reflecting a shift from bilateral rivalry to multilateral collaboration in AI governance.  
+   [Link](https://www.hk01.com/國際分析/60371066/29國-vs-35國-中美人工智能競爭演變為全球化集團化爭奪戰)  
+
+7. **Hong Kong Releases 2026 Policy Address Framework Amid Key Proposals (Hong Kong)**  
+   Chief Executive John Lee unveiled his fifth policy address, focusing on economic relief measures such as electronic consumer vouchers and housing initiatives, alongside public consultations on the city’s first five-year plan.  
+   [Link](https://www.hk01.com/政情/60368140/施政報告2026懶人包-再派電子消費券-重推租置-政界倡議一文看)  
+
+8. **DSE Exam Results Spark Debate on Education Pressure (Hong Kong)**  
+   The 2026 Hong Kong Diploma of Secondary Education (DSE) results saw a record 24 top scorers, reigniting discussions about the societal and psychological toll of competitive education systems.  
+   [Link](https://www.hk01.com/01觀點/60370225/dse放榜-成就了名校神話-迷失了教育想像)  
+
+9. **Agentic AI Set to Transform Workplace Automation (Technology)**  
+   Agentic AI, capable of autonomous decision-making, is emerging as a transformative tool for tasks ranging from scheduling to data analysis, with experts predicting widespread adoption by 2029.  
+   [Link](https://www.hk01.com/數碼生活/60369987/ai不只會聊天-還會幫你上班-從興趣到影響-agentic-ai-落地時)  
+
+10. **iPhone Battery Life Tips: Proactive Settings Over Passive Fixes (Technology)**  
+    A guide on optimizing iPhone battery life emphasizes proactive settings like location services management and background app refresh controls to combat rapid drain.  
+    [Link](https://www.hk01.com/實用教學/60370851/iphone慳電教學-電量-倒水-4大護航設定輕鬆告別電量焦慮)  
+
+---
+
+#### **Category Highlights**  
+
+- **Hong Kong News (港聞):** Key themes include evolving U.S.-Hong Kong relations with the end of emergency sanctions, social concerns such as the bullied homeless elderly woman in Hung Hom, and educational debates following record-breaking DSE exam results. Policy priorities like consumer vouchers and housing dominate upcoming governance discussions.  
+
+- **International (國際):** Geopolitical tensions dominate, with Japan tightening symbolic laws, U.S.-Iran military exchanges, and the U.S.-China AI rivalry shifting toward global alliances. Political transitions like the UK’s Labour leadership election and FIFA controversies also draw attention.  
+
+- **Technology (科技):** Advancements in AI, particularly Agentic AI’s workplace integration, lead headlines. Consumer tech trends include Xiaomi’s price hikes due to supply chain costs and practical guides on noise-canceling headphones and iPhone optimization. Employment opportunities in tech sectors and gaming culture remain prominent.  
+
+---  
+For full coverage, visit [HK01](https://www.hk01.com).
+
+
+---
+*This digest is auto-generated by [agents-radar](https://github.com/stevenko2002/agents-radar).*
