@@ -1,0 +1,69 @@
+# HK01 News Digest 2026-07-19
+
+> Source: [HK01](https://www.hk01.com) | 30 articles | Generated: 2026-07-18 22:16 UTC
+
+---
+
+
+### Today's Key News (2026-07-19)
+
+---
+
+#### **Top Stories**
+
+1. **[International] World Cup quarter-finals kick off as France faces Argentina; Mexico and Canada leaders to attend final**  
+   The 2026 World Cup enters its final stage, with France and Argentina set to meet in the final on July 20. Mexico’s president and Canada’s prime minister will attend the match, following U.S. President Trump’s invitation.  
+   [Link](https://www.hk01.com/即時國際/60371303/世界盃-墨西哥加拿大領導人赴決賽觀戰-辛鮑姆-接受特朗普邀請)
+
+2. **[International] Germany raises national security alert to high threat level amid surge in terror warnings**  
+   Germany’s interior minister confirmed the upgrade from "potential threat" to "high threat" level due to increased intelligence on possible attacks.  
+   [Link](https://www.hk01.com/即時國際/60371320/德國將安全警戒升至高威脅級別-內政部長-襲擊計劃顯而易見)
+
+3. **[International] Iran attacks U.S. military sites in Middle East; 2 soldiers killed, 1 missing in Jordan**  
+   Iranian strikes on U.S. facilities in the region killed two American service members in Jordan and left one missing, escalating tensions following renewed U.S.-Iran conflict.  
+   [Link](https://www.hk01.com/即時國際/60371332/伊朗襲中東區內美國設施-美軍-2名士兵在約旦陣亡-1人失蹤)
+
+4. **[Hong Kong News] U.S. ends "Hong Kong-related national emergency" decree, removes 9 officials from sanctions list**  
+   The Trump administration’s 2020 executive order expired and was not renewed, leading to the removal of Hong Kong officials, including Lawrence G. K. Tin, from U.S. sanctions.  
+   [Link](https://www.hk01.com/政情/60371164/美國終止-涉港國家緊急狀態-命令-林定國等9人從制裁名單剔除)
+
+5. **[Hong Kong News] Police arrest man in Tsim Sha Tsui for driving with suspended license after "black glass" BMW sparks suspicion**  
+   A BMW with tinted windows led to a traffic stop, revealing the driver had a lifetime license suspension. He was arrested at the scene.  
+   [Link](https://www.hk01.com/突發/60371322/尖沙咀寶馬-黑玻璃-引懷疑-警截車揭司機終生停牌-當場拘捕)
+
+6. **[Hong Kong News] Investigation into Tai Po “Wang Fu Court” fire concludes, findings to be submitted by October**  
+   The independent probe into a five-alarm blaze at Wang Fu Court finished after four months of hearings. A final report will be delivered to Chief Executive Lee Chuen-yuen by October.  
+   [Link](https://www.hk01.com/政情/60371230/01消息-宏福苑調查報告10月下旬提交-聽證會總結陳辭定追責基調)
+
+7. **[Hong Kong News] Homeless woman assaulted in Hung Hom; suspect arrested after video evidence surfaces**  
+   A 49-year-old woman sleeping rough near Wong Tai Sin Temple was reportedly dragged and doused with liquid twice. Police arrested a suspect based on footage shared by a reader.  
+   [Link](https://www.hk01.com/突發/60371159/紅磡露宿婆婆遭欺凌-有片-短褲歹徒強行拖走老婦-兩次淋液體)
+
+8. **[International] Trump’s media company launches $100,000/month premium stock-trading service for Wall Street**  
+   TMTG (Truth Media & Technology Group) introduced a paid data service, “Truth API,” offering financial firms faster access to market insights.  
+   [Link](https://www.hk01.com/即時國際/60371260/特朗普媒體擬向華爾街大行推課金制-月付10萬美元可搶投資先機)
+
+9. **[Technology] DuckDuckGo introduces ad-blocking feature for YouTube without extensions in updated browser**  
+   The privacy-focused search engine’s app now blocks pre-roll and post-roll ads directly, eliminating the need for third-party plugins.  
+   [Link](https://www.hk01.com/數碼生活/60368649/duckduckgo阻截youtube-ads-瀏覽器插件直接封鎖影片前後廣告)
+
+10. **[Technology] Experts warn short videos worsen attention deficits in teens; suggest three strategies to curb phone addiction**  
+    Overuse of short-form content is linked to reduced focus and mental fatigue among youth. Psychologists recommend screen-time limits, offline activities, and digital detox practices.  
+    [Link](https://www.hk01.com/數碼生活/60367033/越睇短片越難集中精神-對青少年傷害更大-專家教3招戒手機成癮)
+
+---
+
+#### **Category Highlights**
+
+- **Hong Kong News (港聞):**  
+  Local coverage focused on public safety incidents, including arrests in Tsim Sha Tsui and Hung Hom, while political updates included the end of U.S.-imposed sanctions tied to the 2020 national emergency order. The government also progressed on its next policy blueprint, with public consultations ongoing.
+
+- **International (國際):**  
+  Tensions flared in the Middle East amid Iran’s renewed attacks on U.S. installations, prompting Germany to elevate its terror threat level. Meanwhile, the World Cup dominated headlines, with diplomatic visits and viral moments, such as Wayne Rooney honoring a lost bet by rowing the Hudson River.
+
+- **Technology (科技):**  
+  Innovations in AI, including “agentic” systems capable of autonomous task completion, drew attention alongside consumer trends like iPhone rumors and privacy tools. DuckDuckGo’s built-in YouTube ad blocker marked a shift toward integrated digital wellness features.
+
+
+---
+*This digest is auto-generated by [agents-radar](https://github.com/stevenko2002/agents-radar).*

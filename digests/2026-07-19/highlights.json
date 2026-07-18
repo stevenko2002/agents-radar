@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.214 修复 PowerShell 权限漏洞",
+      "OpenAI Codex 调整为 272K token 上下文",
+      "Gemini CLI 实现 LLM 编排器和容器构建",
+      "Qwen Code 加强工作区所有权保护",
+      "Ollama 集成 MiMo 310B MoE 模型",
+      "llama.cpp 修复 KV 缓存量化问题"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h 413 Issues 500 PRs",
+      "Wear OS 会话功能迁移优化",
+      "Gmail watch 重复续订修复",
+      "Clawdbot 跨平台支持呼吁热议",
+      "steipete 提交 approval UX 重构",
+      "插件模型目录 stall 问题修复"
+    ],
+    "ai-trending": [
+      "Apache ossie 语义元数据标准",
+      "airllm 单 4GB GPU 跑 70B 模型",
+      "hermes-agent 216k stars 模块化框架",
+      "AutoGPT 185k stars 自主规划",
+      "Qwen3.6 指令微调 435 likes",
+      "OCR 模型爆增 2M 下载量"
+    ],
+    "ai-hn": [
+      "GPT-5.6 数学突破 467 分 297 评",
+      "Claude Code spare Mac 教程 149 分",
+      "Claude 模型偏向 Anthropic 测试",
+      "AI 工具 LLM-Inspector 推理监控",
+      "Databricks 估值 AI 市场动态",
+      "Trump 管制前沿模型政策"
+    ],
+    "ai-hf": [
+      "GLM-5.2 4.1k likes 541k 下载",
+      "ThinkingCap-Qwen3.6-27B 435 likes",
+      "Agents-A1 578 likes 多模态代理",
+      "Uncensored Qwen3.6 2.8k likes",
+      "Unlimited-OCR 2M 下载量",
+      "Wan-Dancer 14B 视频生成"
+    ],
+    "ai-community": [
+      "Stratagems 篇 36 likes 品味锁定",
+      "PDF token 消耗优化方案",
+      "语义缓存在 RAG 中应用",
+      "安全 Agent 升级为决策引擎",
+      "20M 行表格缓存策略",
+      "Dev.to 热议 AI Agent 部署"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.214 released with security patches",
+      "OpenAI Codex v0.144.6 fixed GPT-5.6 context windows",
+      "Gemini CLI v0.52.0 added LLM triage orchestrator",
+      "Qwen Code v0.19.12 introduced cold start tracing",
+      "llama.cpp builds added DFlash K/V cache rotation",
+      "Ollama PR fixed ROCm iGPU memory overreporting"
+    ],
+    "ai-agents": [
+      "OpenClaw shows intense activity: 413 issues, 500 PRs",
+      "500 PRs with 213 merged/closed in 24 hours",
+      "PR #110973 CLOSED - UI thread rename consistency",
+      "PR #107991 MERGE BLOCKED - CI scan improvements",
+      "PR #110655 CLOSED - ChatGPT retry error fixes",
+      "Focus on memory safety and cross-platform consistency"
+    ],
+    "ai-trending": [
+      "code-review-graph +356 stars, Kimi-Code-CLI +48 stars",
+      "ollama/ollama ⭐176,405 universal model runner",
+      "hermes-agent ⭐216,823 evolving agent framework",
+      "ECC ⭐230,918 performance optimization system",
+      "Memory systems claude-mem and mem0 gain traction",
+      "AirLLM runs 70B models on 4GB GPUs"
+    ],
+    "ai-hn": [
+      "GPT-5.6 claimed convex optimization breakthrough (467)",
+      "Claude shows subtle biases to Anthropic in tests",
+      "Claude Code integrations dominate technical interest",
+      "Safety concerns with misaligned AI behavior emerge",
+      "Philosophical debates on AGI future and dominance",
+      "Open-source implications in corporate AI landscape"
+    ],
+    "ai-hf": [
+      "Gemma-4-31B-it dominates with 12M+ downloads",
+      "GLM-5.2 gains 4,125 likes, 541K downloads",
+      "Qwythos-9B models surge in community popularity",
+      "Wan-Dancer-14B and OvisOCR2 for multimodal",
+      "GGUF and MLX quantization remain central",
+      "Bonsai-27B-gguf: 1-bit quantized efficiency"
+    ],
+    "ai-community": [
+      "Stratagems #17 exposes AI surveillance risks",
+      "git-lrc micro reviewer tackles token eating PDFs",
+      "Skill locks AI taste before writing code",
+      "LLM token usage optimization paramount",
+      "Agentic workflow security becomes critical",
+      "Model compatibility and caching strategies discussed"
+    ]
+  }
+}
