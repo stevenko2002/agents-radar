@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.215调整/verify和/code-review",
+      "OpenAI Codex rust-v0.145.0-alpha.24发布",
+      "Gemini CLI v0.52.0-nightly.20260719",
+      "Kimi Code引入标签驱动自动修复",
+      "Anthropics修复规则引擎语法错误",
+      "Google Gemini CLI修复变量扩展绕过"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.3发布",
+      "远程编码会话和原生自动化增强",
+      "Beta.2导致网关启动失败",
+      "Control UI文件拖放导航修复",
+      "doctor工具活跃profile修复",
+      "Telegram回复功能退化"
+    ],
+    "ai-trending": [
+      "ktransformers+328 stars异构LLM推理",
+      "code-review-graph+551 stars智能图谱",
+      "copilot-sdk+46 stars企业级SDK",
+      "wigolo+605 stars零成本搜索工具",
+      "voicebox+629 stars语音克隆创作",
+      "kimi-cli+418 stars下一代CLI Agent"
+    ],
+    "ai-hn": [
+      "Claude Code采用Rust版Bun",
+      "OpenAI Codex上下文缩减272k",
+      "AI建议降低准确性增加自信心",
+      "One token模型指纹识别研究",
+      "AI整合多变量微积分课程",
+      "Shikigami运行AI代码代理"
+    ],
+    "ai-hf": [
+      "GLM-5.2 4.1k赞536k下载",
+      "gemma-4-31B-it 3.2k赞1233万次",
+      "Qwythos-9B-GGUF 2.3k赞208万次",
+      "Qwen3.6-35B-Uncensored 2.8k赞",
+      "Unlimited-OCR 2.1k赞212万次",
+      "Wan-Dancer-14B视频生成模型"
+    ],
+    "ai-community": [
+      "Stratagems AI战略开发原则",
+      "TypeScript构建社交AI代理",
+      "AI代理数学超时死锁",
+      "AI技能双轴评估模型",
+      "OneNote MCP服务器认证",
+      "提示工程到自主系统"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.215 removes auto /verify invocation",
+      "OpenAI Codex rust-alpha improves Windows/macOS stability",
+      "Gemini CLI v0.52.0 fixes OAuth security patches",
+      "Qwen Code preview adds autofix labeling feature",
+      "Pi GPT-5.6 aligns context window to 272K tokens",
+      "12 CLI tools including Ollama and llama.cpp covered"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.2-beta.3 enables remote coding sessions",
+      "OpenClaw sees 862 updates across issues and PRs",
+      "Security enhancements focus in OpenClaw development",
+      "Cross-platform support improvements announced",
+      "Localization infrastructure advances merged today",
+      "13 projects including NanoBot and Hermes Agent featured"
+    ],
+    "ai-trending": [
+      "ktransformers surges +328 stars for LLM inference",
+      "wigolo spikes +605 stars for local AI agents",
+      "code-review-graph gains +551 stars for codebase mapping",
+      "copilot-sdk adds +46 stars for third-party integration",
+      "DeepSeek-Reasonix optimizes terminal coding agents",
+      "ollama supports Kimi-K2 and GLM-5 models"
+    ],
+    "ai-hn": [
+      "Claude Code written in Rust runtime now",
+      "LLM calculus course sparks education debates",
+      "AI advice reduces accuracy by 3x but boosts confidence",
+      "One token fingerprints large language models",
+      "GPT-5.6 release dominates discussions",
+      "OpenAI Codex shrinks context window size"
+    ],
+    "ai-hf": [
+      "Gemma-4-31B-it leads multimodal model adoption",
+      "GLM-5.2 excels in conversational reasoning tasks",
+      "Bonsai-27B-GGUF popular for quantized chat",
+      "Wan-Dancer-14B drives video generation interest",
+      "LTX2.3 innovates in text-to-video creation",
+      "Qwen-based models dominate OCR applications"
+    ],
+    "ai-community": [
+      "GPT-5.6 Sol release dominates discussions",
+      "AI agents trend in autonomous systems",
+      "Cline assistant faces prompt injection risks",
+      "Stratagems explores strategic AI thinking",
+      "Build social AI agents with TypeScript guide",
+      "Math bugs can freeze AI agents forever"
+    ]
+  }
+}
