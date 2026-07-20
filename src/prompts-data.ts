@@ -935,7 +935,7 @@ ${articlesText}
 
 Generate a concise "Today's Key News" summary in English:
 
-1. **Top Stories** — Select the 8-12 most important/impactful news stories across all categories. For each:
+1. **Top Stories** — Select 10 most important stories from 港聞 (Hong Kong News) and 10 from 國際 (International) separately. For each:
    - Headline (with category tag)
    - 1-2 sentence summary of what happened
    - Link to full article
@@ -955,7 +955,7 @@ ${articlesText}
 
 請生成一份簡潔的「今日重點新聞」摘要，包含：
 
-1. **重要新聞** — 從所有分類中挑選 8-12 條最重要/最有影響力的新聞。每條包含：
+1. **重要新聞** — 每個分類（港聞、國際、科技）分別挑選 10 條最重要的新聞。每條包含：
    - 標題（附分類標籤）
    - 1-2 句話說明事件內容
    - 完整文章連結
