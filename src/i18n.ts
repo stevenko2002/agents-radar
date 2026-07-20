@@ -105,6 +105,12 @@ export const HK01_REPORT = {
     lang === "en" ? `📰 HK01 News Digest ${dateStr}` : `📰 香港 01 新闻日报 ${dateStr}`,
 } as const;
 
+export const STEAM_REPORT = {
+  title: t("Steam 游戏速报", "Steam Games Digest"),
+  issueTitle: (dateStr: string, lang: Lang) =>
+    lang === "en" ? `🎮 Steam Games Digest ${dateStr}` : `🎮 Steam 游戏速报 ${dateStr}`,
+} as const;
+
 export const WEEKLY_REPORT = {
   title: t("AI 工具生态周报", "AI Tools Ecosystem Weekly Report"),
   coverage: t("覆盖日期", "Coverage"),
@@ -127,6 +133,7 @@ export const ISSUE_LABELS = {
   hf: t("hf", "hf-en"),
   community: t("community", "community-en"),
   hk01: t("hk01", "hk01-en"),
+  steam: t("steam", "steam-en"),
 } as const;
 
 export const CLI_ISSUE_TITLE = (dateStr: string, lang: Lang) =>

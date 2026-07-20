@@ -13,6 +13,7 @@ import {
   HF_REPORT,
   COMMUNITY_REPORT,
   HK01_REPORT,
+  STEAM_REPORT,
   ISSUE_LABELS,
 } from "./i18n.ts";
 import {
@@ -23,12 +24,14 @@ import {
   buildHfPrompt,
   buildCommunityPrompt,
   buildHk01Prompt,
+  buildSteamPrompt,
 } from "./prompts-data.ts";
 import { callLlm, saveFile, LLM_TOKENS_WEB } from "./report.ts";
 import { createGitHubIssue } from "./github.ts";
 import { saveWebState, type WebFetchResult, type WebState } from "./web.ts";
 import type { HnData } from "./hn.ts";
 import type { Hk01Data } from "./hk01.ts";
+import type { SteamData } from "./steam.ts";
 import type { PhData } from "./ph.ts";
 import type { TrendingData } from "./trending.ts";
 import type { ArxivData } from "./arxiv.ts";
@@ -417,5 +420,52 @@ export async function saveHk01Report(
     }
   } catch (err) {
     console.error(`  [hk01/${lang}] Report generation failed: ${err}`);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Steam Games Report
+// ---------------------------------------------------------------------------
+
+export async function saveSteamReport(
+  steamData: SteamData,
+  utcStr: string,
+  dateStr: string,
+  digestRepo: string,
+  footer: string,
+  lang: Lang = "zh",
+): Promise<void> {
+  if (!steamData.fetchSuccess) {
+    console.log(`  [steam/${lang}] No data available, skipping report.`);
+    return;
+  }
+
+  console.log(`  [steam/${lang}] Calling LLM for Steam games report...`);
+  try {
+    const steamSummary = await callLlm(buildSteamPrompt(steamData, dateStr, lang));
+    const fileName = lang === "en" ? "steam-en.md" : "steam.md";
+    const header =
+      lang === "en"
+        ? `# ${STEAM_REPORT.title[lang]} ${dateStr}\n\n` +
+          `> Source: [Steam](https://store.steampowered.com) | ` +
+          `${steamData.topSellers.length} top sellers, ${steamData.specials.length} specials | Generated: ${utcStr} UTC\n\n` +
+          `---\n\n`
+        : `# ${STEAM_REPORT.title[lang]} ${dateStr}\n\n` +
+          `> 数据来源: [Steam](https://store.steampowered.com) | ` +
+          `热门 ${steamData.topSellers.length} 款, 特价 ${steamData.specials.length} 款 | 生成时间: ${utcStr} UTC\n\n` +
+          `---\n\n`;
+
+    const steamContent = header + steamSummary + footer;
+
+    console.log(`  Saved ${saveFile(steamContent, dateStr, fileName)}`);
+
+    if (digestRepo) {
+      const steamTitle = STEAM_REPORT.issueTitle(dateStr, lang);
+      const steamLabel = ISSUE_LABELS.steam[lang];
+      const steamUrl = await createGitHubIssue(steamTitle, steamContent, steamLabel);
+      console.log(`  Created Steam issue (${lang}): ${steamUrl}`);
+    }
+  } catch (err) {
+    console.error(`  [steam/${lang}] Report generation failed: ${err}`);
   }
 }

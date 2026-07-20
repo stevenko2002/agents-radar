@@ -8,6 +8,7 @@
 import type { WebFetchResult } from "./web.ts";
 import type { TrendingData } from "./trending.ts";
 import type { HnData } from "./hn.ts";
+import type { SteamData } from "./steam.ts";
 import type { Hk01Data } from "./hk01.ts";
 import type { PhData } from "./ph.ts";
 import type { ArxivData } from "./arxiv.ts";
@@ -963,5 +964,67 @@ ${articlesText}
 2. **分類概覽** — 每個分類（港聞/國際/科技）用 2-3 句話概述今日主要主題
 
 語言要求：中文，簡潔專業，保留所有文章連結。
+`;
+}
+
+// ---------------------------------------------------------------------------
+// Steam Prompt
+// ---------------------------------------------------------------------------
+
+export function buildSteamPrompt(data: SteamData, dateStr: string, lang: Lang = "zh"): string {
+  const topSellersText = data.topSellers
+    .map((g, i) => `${i + 1}. **${g.name}** - ${g.price}\n   ${g.url}`)
+    .join("\n\n");
+
+  const specialsText = data.specials
+    .map((g, i) => `${i + 1}. **${g.name}** - ${g.price} (-${g.discount}%)\n   ${g.url}`)
+    .join("\n\n");
+
+  if (lang === "en") {
+    return `You are a gaming analyst covering Steam store trends. The following is ${dateStr} Steam data for Hong Kong region.
+
+## Top Sellers (${data.topSellers.length} games)
+${topSellersText}
+
+## Specials / Discounts (${data.specials.length} games)
+${specialsText}
+
+---
+
+Generate a concise "Steam Highlights" summary:
+
+1. **Top Sellers** — List the 25 most popular games. For each:
+   - Game name and price
+   - Link to store page
+
+2. **Best Deals** — List the 25 best discounted games. For each:
+   - Game name, discounted price, and discount percentage
+   - Link to store page
+
+Style: concise, gaming-focused. Keep all store links.
+`;
+  }
+
+  return `你是一位遊戲分析師，負責整理 Steam 商店趨勢。以下是 ${dateStr} Steam 香港區的數據。
+
+## 熱門遊戲（${data.topSellers.length} 款）
+${topSellersText}
+
+## 特價遊戲（${data.specials.length} 款）
+${specialsText}
+
+---
+
+請生成一份簡潔的「Steam 遊戲速報」摘要：
+
+1. **熱門遊戲** — 列出 25 款最熱門的遊戲。每條包含：
+   - 遊戲名稱和價格
+   - 商店頁面連結
+
+2. **特價遊戲** — 列出 25 款折扣最吸引人的遊戲。每條包含：
+   - 遊戲名稱、特價、折扣百分比
+   - 商店頁面連結
+
+語言要求：中文，簡潔專業，保留所有商店連結。
 `;
 }

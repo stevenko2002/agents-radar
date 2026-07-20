@@ -39,11 +39,13 @@ import {
   saveHfReport,
   saveCommunityReport,
   saveHk01Report,
+  saveSteamReport,
 } from "./report-savers.ts";
 import { loadWebState, fetchSiteContent, type WebFetchResult, type WebState } from "./web.ts";
 import { fetchTrendingData, type TrendingData } from "./trending.ts";
 import { fetchHnData, type HnData } from "./hn.ts";
 import { fetchHk01Data, type Hk01Data } from "./hk01.ts";
+import { fetchSteamData, type SteamData } from "./steam.ts";
 import { fetchPhData, type PhData } from "./ph.ts";
 import { fetchArxivData, type ArxivData } from "./arxiv.ts";
 import { fetchHfData, type HfData } from "./hf.ts";
@@ -165,6 +167,7 @@ async function fetchAllData(
     ),
     fetchHnData().catch((): HnData => ({ stories: [], fetchSuccess: false })),
     fetchHk01Data().catch((): Hk01Data => ({ articles: [], fetchSuccess: false })),
+    fetchSteamData().catch((): SteamData => ({ topSellers: [], specials: [], fetchSuccess: false })),
     fetchPhData().catch((): PhData => ({ products: [], fetchSuccess: false })),
     fetchArxivData().catch((): ArxivData => ({ papers: [], fetchSuccess: false })),
     fetchHfData().catch((): HfData => ({ models: [], fetchSuccess: false })),
@@ -418,6 +421,8 @@ async function main(): Promise<void> {
     saveHnReport(hnData, utcStr, dateStr, digestRepo, autoGenFooter("en"), "en"),
     saveHk01Report(hk01Data, utcStr, dateStr, digestRepo, autoGenFooter("zh"), "zh"),
     saveHk01Report(hk01Data, utcStr, dateStr, digestRepo, autoGenFooter("en"), "en"),
+    saveSteamReport(steamData, utcStr, dateStr, digestRepo, autoGenFooter("zh"), "zh"),
+    saveSteamReport(steamData, utcStr, dateStr, digestRepo, autoGenFooter("en"), "en"),
     savePhReport(phData, utcStr, dateStr, digestRepo, autoGenFooter("zh"), "zh"),
     savePhReport(phData, utcStr, dateStr, digestRepo, autoGenFooter("en"), "en"),
     saveArxivReport(arxivData, utcStr, dateStr, digestRepo, autoGenFooter("zh"), "zh"),
