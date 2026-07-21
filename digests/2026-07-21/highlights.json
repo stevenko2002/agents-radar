@@ -1,77 +1,77 @@
 {
-  "zh": {
+  "zh": {},
+  "en": {
     "ai-cli": [
-      "Claude Code v2.1.216 修复长会话性能瓶颈与文件系统隔离问题",
-      "Gemini CLI v0.52.0 修复认证回退与工具权限控制",
-      "Kimi Code CLI v0.20.0 修复 StrReplaceFile 链式编辑计数错误",
-      "OpenCode v1.18.4 为 Kimi 模型添加自适应思考控制",
-      "Pi v0.9.1-rc 修复多个 release-blocker 问题",
-      "llama.cpp b10075 为 Hexagon 后端新增 CLAMP 算子"
+      "Claude Code v2.1.216 adds sandbox filesystem.disabled flag",
+      "OpenAI Codex v0.145.0-alpha.29 honors system proxy settings",
+      "Gemini CLI v0.52.0-nightly adds zero-click RCE protection",
+      "Ollama v0.32.2-rc0 restores ollama launch sub-command",
+      "llama.cpp b10075 adds Hexagon backend CLAMP operation",
+      "Gemini CLI introduces mandatory credential-signing"
     ],
     "ai-agents": [
-      "OpenClaw 今日 474 条 Issues 与 500 条 PR 保持高互动频率",
-      "社区关注点集中在会话状态、消息丢失与安全问题",
-      "今日已有 104 条 PR 被合并或关闭",
-      "修复 stuck session recovery 与消息投递可靠性",
-      "加入 Masked Secrets 能力防止 API Key 泄露",
-      "整体处于活跃开发阶段"
+      "OpenClaw ecosystem sees 500 issue and PR updates in 24h",
+      "PR #110329 refines multi-account message-action propagation",
+      "Community focuses on session-state handling and MCP integration",
+      "OpenClaw remains stable despite uptick in reliability work",
+      "Projects like NanoBot and Hermes Agent drive ecosystem growth",
+      "No new OpenClaw releases published in last day"
     ],
     "ai-trending": [
-      "ai-agent-book、OmniRoute、ktransformers 单日新增星数均超千颗",
-      "AI 智能体/工作流、本地化 MCP 网关成为焦点",
-      "传统深度学习框架仍保持高活跃度",
-      "多个高星仓库呈爆发式增长",
-      "社区对可插拔、私有化、低成本需求快速上升",
-      "智能体和应用为上层提供稳固底座"
+      "AI-agent frameworks like OmniRoute drive new star spikes",
+      "Structured-output libraries (Outlines, ECC) gain rapid traction",
+      "Ollama and Hugging Face Transformers expand production-ready stacks",
+      "DeepSeek, Claude, Gemini releases quickly wrapped by community",
+      "Vector databases (Qdrant, Milvus) see ecosystem expansion",
+      "Token-efficiency libraries target shrinking LLM footprints"
     ],
     "ai-web": [
-      "Anthropic 推出 AI for Science 稀有疾病研究资助计划最高 5 万美元",
-      "OpenAI 官方索引页挂出 Safety Alignment Long Horizon Models 链接",
-      "两家公司均在安全/伦理议题上加码",
-      "发布时间集中在 UTC+0 早晨",
-      "主题聚焦 AI-driven scientific acceleration",
-      "长时段对齐纳入技术路线图首要讨论"
+      "Anthropic launches $50K AI for Science rare disease grants",
+      "OpenAI publishes Safety Alignment Long Horizon Models page",
+      "Claude API credits offered for rare genetic disease research",
+      "Anthropic doubles down on domain-specific AI applications",
+      "OpenAI highlights renewed focus on long-horizon safety alignment",
+      "Contrast between applied research and safety priorities noted"
     ],
     "ai-hn": [
-      "Kimi K3、Qwen 3.8 与 Anthropic 潜在动荡引发热议",
-      "OpenAI 发布长周期模型安全对齐框架",
-      "Gurley 论证开源模型是市场竞争必然趋势",
-      "AI 电影生成 pipeline 可在本地跑出可看短片",
-      "自运行交易框架 The0 支持自托管",
-      "社区对模型能力提升持谨慎乐观态度"
+      "Kimi K3/Qwen 3.8/Anthropic 'unravelling' post hits 344 points",
+      "Safety alignment for long-horizon models debated on HN",
+      "Community shifts from research to production-ready AI pipelines",
+      "Anthropic settles $1.5B copyright lawsuit with high profile",
+      "Claude-centric tooling like The0 and Amnesia gain traction",
+      "Engineering conversations focus on reliable agentic workflows"
     ],
     "ai-arxiv": [
-      "提出可通过文本提示控制感知相似度维度的度量",
-      "系统考察 LLMs 在面对不同语言形式信念表达时的反应",
-      "通过软前缀探讨上下文对三段论推理稳定性的影响",
-      "基于查询难度的口头分析实现轻量级 LLM 路由",
-      "利用密集视觉表示构建 Patch-Policy 提升机器人学习效率",
-      "提出自适应安全边框学习方法避免导航过保守"
+      "LLMs must accept user beliefs or rely on intrinsic knowledge",
+      "New benchmark VEHBench isolates LLM capability from design",
+      "Vision-language metrics shift to aspect-aware conditioned scores",
+      "Trust-region mechanisms curb hallucinations in production LLMs",
+      "Agentic pipelines turn LLMs into real-time reasoning engines",
+      "Visual tampering detection leverages dense VLM features"
     ],
     "ai-hf": [
-      "google/gemma-4-31B-it 图文双模理解生成质量接近顶尖闭源模型",
-      "baidu/Unlimited-OCR 高精度通用 OCR 适用票据场景文字识别",
-      "zai-org/GLM-5.2 中英双语 MoE 语言模型强指令遵循",
-      "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF 9B 参数 GGUF 量化模型",
-      "nvidia/Nemotron-3-Embed-1B-BF16 专注句子嵌入",
-      "openbmb/MiniCPM-RobotManip/Track 视觉-语言-动作融合"
+      "zai-org/GLM-5.2 hits 4,249 likes and 545K downloads",
+      "prism-ml/Bonsai-27B-gguf tops 1.4M downloads with 558 likes",
+      "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking released",
+      "AngelSlim/Hy3-GGUF joins trending text-generation models",
+      "Unsloth/inkling-GGUF integrates image-text-to-text pipeline",
+      "Openbmb/MiniCPM-RobotManip targets robotics applications"
     ],
     "ai-community": [
-      "AI 生成代码的法律归属问题引发开发者深度思考",
-      "部署 CrewAI 到 AWS Bedrock 遇到文档与调试挑战",
-      "AI 代码执行器 bug 导致重复执行有效代码",
-      "MCP 协议入门解释帮助初学者理解 AI 模型交互",
-      "本地部署无法解决提示注入与权限提升风险",
-      "AI 编程助手能提升新手开发速度但需警惕技能退化"
+      "AI code ownership responsibility debated on Dev.to",
+      "Benchmark pits humans vs LLMs on uncheatable exams",
+      "Qwen3-TTS bug exposes voice as biometric data",
+      "MCP adoption and agent benchmarking dominate discussions",
+      "Security guardrails stop LLMs from outputting vulnerabilities",
+      "MoE deployment tutorials surge on community platforms"
     ],
     "ai-steam": [
-      "Steam 热门游戏榜单今日更新",
-      "特价游戏包括经典 RPG 与独立游戏",
-      "社区互动活跃度持续上升",
-      "新作与 DLC 发布频率稳定",
-      "用户评价对销量影响显著",
-      "平台活动与折扣信息同步更新"
+      "Palworld leads Steam top sellers at HK$75.60",
+      "GTA V Enhanced on sale for HK$74.50 (-50%)",
+      "Red Dead Redemption 2 discounted to HK$69.80 (-75%)",
+      "Resident Evil 4 drops to HK$49.50 (-75%)",
+      "The Outlast Trials on sale for HK$40.80 (-70%)",
+      "Street Fighter 6 discounted to HK$99.00 (-50%)"
     ]
-  },
-  "en": {}
+  }
 }

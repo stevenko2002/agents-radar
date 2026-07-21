@@ -1,187 +1,132 @@
 # HK01 News Digest 2026-07-21
 
-> Source: [HK01](https://www.hk01.com) | 30 articles | Generated: 2026-07-21 07:12 UTC
+> Source: [HK01](https://www.hk01.com) | 30 articles | Generated: 2026-07-21 12:47 UTC
 
 ---
 
-We need to produce summary: select top 10 most important stories from 港聞 (Hong Kong News) and 10 from 國際 (International). Also give category highlights 2-3 sentences each for 港聞, 國際, 科技.
+### **Today's Key News – 21 July 2026**
 
-We need to parse the list of 30 articles with categories.
+---
 
-Let's extract each article with category:
+### **🇭🇰 Top Hong Kong News (10 Stories)**
 
-1. 特朗普稱內塔尼亞胡到紐約參加聯大會議不被拘捕　與市長看法相悖 [國際]
-2. 美退伍軍人抗議特朗普移民政策　紐約ICE大樓前縱火被捕 [國際]
-3. 美國夢不再？移民政策收緊學費昂貴　印度青年掀「赴歐留學潮」 [國際]
-4. 世界盃｜西班牙機師廣播謊稱阿根廷奪冠　球迷狂歡後知被耍｜有片 [國際]
-5. 一億頭獎六合彩｜有投注站開門前現人龍　八旬照顧者冀中獎聘工人 [港聞]
-6. 深色模式≠護眼｜拆解黑底白字陷阱　散光過度使用恐致眼乾頭痛 [科技]
-7. 香港郵政乾塘｜丘應樺研公私營合作料明年有方案　增自提點拓收入 [港聞]
-8. 新首相貝安德：希望vs現實　英國已變成天氣差食物難吃的意大利？ [國際]
-9. 日本陪酒小姐變投資達人  30萬暴漲至身家1.2億！曝2大投資秘技 [科技]
-10. 打風｜轉為東登？　天文台改料周日吹西至西南風　周末有狂風雷暴 [港聞]
-11. 九巴上層伸手摸前座女生胸　六旬漢認非禮罪　稱事發後已遭解僱 [港聞]
-12. 世界盃｜西班牙於決賽期間「測得3次地震」　完場瞬間震感最強烈 [國際]
-13. 何伯認圖用摺刀插何太　官指何伯因愛成恨判囚2月　望他修心養性 [港聞]
-14. 世界盃｜西班牙百萬人慶奪冠　功臣費倫托利斯頭戴「特朗普式」帽 [國際]
-15. 美司法部對哈佛大學中國助學金展開調查　或涉歧視美國學生 [國際]
-16. iPhone音效優化 | 通話太小聲、聽歌無層次？教4招極速提升音質！ [科技]
-17. 少女時代Yuri同款「大創墨鏡」賣爆！10元高CP值　韓國官網秒斷貨 [國際]
-18. 中國火箭拒走美國舊路！長征十號乙首創網捕回收　官方解釋原因 [科技]
-19. 中環證券行失$1.5億內情｜投資經理入職半年　未經授權炒股失利 [港聞]
-20. Apple Watch勿做這5件事　不當使用恐損壞防水功能　系統記得更新 [科技]
-21. 大埔林海山城先租後買月租十萬　住戶退租後被發展商追討250萬元 [港聞]
-22. 一億頭奬六合彩｜揀冧吧搖搖匙扣熱賣6000個　設計師揭為何增產難 [港聞]
-23. 小米推平價米家相片打印機2！家用印相每張約$1　自動過膠防褪色 [科技]
-24. 謝賢離世｜網民難忘《少林足球》迷因  讚四哥型到89歲：有邊個得 [科技]
-25. ACGHK動漫節2026｜12大必去購物打卡攤位推薦｜門票獨家優惠減$7 [科技]
-26. 特朗普的本錢：美國人開始「接受」一場伊朗「持久戰」？ [國際]
-27. 說好香港故事 「快樂旅人」徐英偉談香港旅遊新機遇 [港聞]
-28. 施政報告2026懶人包｜再派電子消費券？重推租置？政界倡議一文看 [港聞]
-29. iPhone 18最新消息｜iPhone Fold (Ultra) 摺機情報｜iOS27新功能 [科技]
-30. 消委會｜家電品牌評測／使用保養貼士　入手數碼產品前必看 [科技]
+1. **Book Fair 2026: Travel Books Sales Plummet as AI Replaces Guides – Some Traders May Skip Next Year**
+   *[港聞]*
+   The annual Hong Kong Book Fair concluded with travel books emerging as the biggest losers, with vendors blaming AI-generated content for declining sales. Some traders may opt out of next year’s fair, calling it a "win by losing less."
+   [Read more](https://www.hk01.com/社會新聞/60372260/書展-旅遊書銷情暴跌-書商稱輸給ai-明年或不參展-輸少當贏)
 
-Now need top 10 most important from 港聞 and 國際 separately.
+2. **Elderly Hongkonger Arrested in Macau for Allegedly Keeping Found Smartphone**
+   *[港聞]*
+   A 70-year-old Hongkonger was arrested at the Macau border after allegedly picking up and keeping a lost smartphone in a Macau hotel bathroom last month. He was detained upon re-entering Macau on 17 July.
+   [Read more](https://www.hk01.com/突發/60372294/七旬港翁上月澳門酒店疑拾獲他人手機據為己有-本月赴澳入境被捕)
 
-We need to consider importance: likely major news: e.g., six combine lottery (headline), Hong Kong Post Office, strike, bus indecent assault, big fraud at securities, etc.
+3. **Woman Sues Taxi Driver for HK$8.4M After Losing Leg in 2019 Protest-Related Crash**
+   *[港聞]*
+   A woman who lost her leg in a 2019 taxi collision during the anti-extradition protests is suing the driver for HK$8.4 million, alleging negligence. The incident occurred in Sham Shui Po when protesters dragged the driver out of his vehicle.
+   [Read more](https://www.hk01.com/社會新聞/60372290/深水埗遭撞斷腳-女子稱被迫下車步行捱撞-向的士司機索償840萬)
 
-For Hong Kong: We'll list: 5 (Six合彩 huge prize), 7 (Hong Kong Post Office finances), 10 (Weather warning), 11 (Bus indecent assault), 13 (Domestic violence case), 19 (Securities fraud $1.5bn), 21 (Property lease dispute), 22 (Six合彩 merchandise), 27 (Hong Kong tourism story), 28 (Policy report). Also maybe 6? No that's tech. Also maybe 24 is tech. So choose these 10.
+4. **Leaking Water Pipe in Shau Kei Wan Leaves 10,000+ Without Water for 8 Hours**
+   *[港聞]*
+   A major water pipe burst in Shau Kei Wan on 19 July, cutting off water supply to over 10,000 households and businesses for nearly 24 hours. Authorities struggled to locate the leak, highlighting gaps in smart water management.
+   [Read more](https://www.hk01.com/01觀點/60371883/筲箕灣爆水管-需八小時尋找漏水點-智慧水務發展到哪兒)
 
-But need to ensure we pick the most important. Let's evaluate each:
+5. **Elderly Man Jailed for 2 Months After Stabbing Wife in "Love Turned to Hate" Attack**
+   *[港聞]*
+   A 70-year-old man, dubbed "Uncle Ho," was sentenced to two months in prison for attempting to stab his wife with a pocket knife in Tuen Mun last year. The judge cited "love turned to hate" as the motive.
+   [Read more](https://www.hk01.com/社會新聞/60351825/何伯認圖用摺刀插何太-官指何伯因愛成恨判囚2月-望他修心養性)
 
-港聞 list:
+6. **Bus Passenger Convicted of Indecent Assault After Touching Woman’s Chest on Upper Deck**
+   *[港聞]*
+   A 60-year-old man was convicted of indecent assault after a viral video showed him touching a female student’s chest on a double-decker bus in May. He claimed he was fired after the incident.
+   [Read more](https://www.hk01.com/社會新聞/60372054/九巴上層伸手摸前座女生胸-六旬漢認非禮罪-稱事發後已遭解僱)
 
-5 - Six合彩 huge prize (big social interest)
-7 - Hong Kong Post Office financial trouble and govt plan
-10 - Weather warning (typhoon) - impact on public
-11 - Bus indecent assault (social issue)
-13 - Domestic violence case (court)
-19 - Securities fraud $1.5bn (major financial crime)
-21 - Property lease dispute large sum (real estate)
-22 - Six合彩 merchandise (related to lottery)
-27 - Hong Kong tourism story (soft)
-28 - Policy report (government)
+7. **Tropical Storm Warning: HK May Face Southwest Winds and Severe Thunderstorms This Weekend**
+   *[港聞]*
+   The Hong Kong Observatory warned that a tropical low-pressure system could develop into a storm, bringing southwest winds and heavy rain to the city over the weekend. Residents are advised to prepare for potential flooding.
+   [Read more](https://www.hk01.com/天氣/60372046/打風-轉為東登-天文台改料周日吹西至西南風-周末有狂風雷暴)
 
-Also maybe 6? No. Also maybe 24? tech.
+8. **New Policy Proposals for 2026 Policy Address: Electronic Vouchers, Public Housing Revival Under Discussion**
+   *[港聞]*
+   Chief Executive John Lee’s upcoming Policy Address may include proposals for a new round of electronic consumption vouchers and a revival of the "Rent-to-Own" public housing scheme, following public consultations.
+   [Read more](https://www.hk01.com/政情/60368140/施政報告2026懶人包-再派電子消費券-重推租置-政界倡議一文看)
 
-Now choose 10: I'd pick: 5,7,10,11,13,19,21,22,27,28.
+9. **"Happy Traveler" Xu Yingwei Promotes Hong Kong’s Tourism Revival**
+   *[港聞]*
+   Former Secretary for Commerce and Economic Development Xu Yingwei, known as the "Happy Traveler," discussed new opportunities for Hong Kong’s tourism sector, emphasizing the city’s cultural heritage, financial hub status, and international appeal.
+   [Read more](https://www.hk01.com/社會新聞/60368817/說好香港故事-快樂旅人-徐英偉談香港旅遊新機遇)
 
-Now for 國際 list: many.
+10. **Dog Runs onto Highway, Causes Motorcycle Crash in New Territories**
+   *[港聞]*
+   A dog strayed onto the New Territories Highway, causing a motorcyclist to swerve and crash. The dog died instantly, while the rider suffered injuries. The incident highlights ongoing road safety concerns.
+   [Read more](https://www.hk01.com/突發/60372178/新田公路有狗走出行車線-電單車閃避不及撞斃-鐵騎士墮地傷)
 
-List them with brief importance:
+---
 
-1 Trump says Netanyahu won't be arrested in US vs mayor (political)
-2 US veteran protest immigration policy, arson at ICE building (domestic US unrest)
-3 Indian youth shifting to Europe due to US immigration policy (migration)
-4 World Cup Spanish broadcaster lied about Argentina win (sports trivia)
-8 New UK PM Andy Burnham hope vs reality (UK politics)
-12 World Cup Spanish measured 3 earthquakes during final (sports/science)
-14 Spanish million celebrate win, fan wearing Trump-style hat (sports/culture)
-15 US Justice Dept investigates Harvard China scholarship for possible discrimination (education/US-China)
-17 Yuri sunglasses sell out (K-pop/trivial)
-26 Trump's bet: US accepting prolonged Iran conflict (analysis)
-Also maybe 6? No that's tech.
+### **🌍 Top International News (10 Stories)**
 
-We need top 10 most important internationally: likely political/security: 1,2,3,8,12?,15,26 maybe also 4? but sports less important. However world cup is big event. Could include 4,12,14 as sports highlights. But we need 10.
+1. **Trump’s MAGA Inc Raises Over $400M for Midterm Elections**
+   *[國際]*
+   MAGA Inc, a pro-Trump fundraising group, has amassed over $400 million as of June, preparing for the upcoming U.S. midterm elections. The funds will support Republican candidates aligned with Trump’s agenda.
+   [Read more](https://www.hk01.com/即時國際/60372174/特朗普陣營maga-inc籌款破4億美元-備戰中期選舉)
 
-Let's rank: 1 (US-Israel relations), 2 (US domestic protest), 3 (India-Europe migration shift), 8 (UK new PM), 12 (World Cup earthquake - unusual), 14 (World Cup celebrations), 15 (Harvard investigation), 26 (Iran conflict analysis), maybe also 4 (World Cup broadcaster lie) and maybe 17? Not as important. Could also include something else like maybe there is missing but okay.
+2. **South Korea’s KOSPI Index Collapses After AI Bubble Bursts – Investors Lose Fortunes**
+   *[國際]*
+   South Korea’s stock market, once buoyed by AI hype, saw the KOSPI index plummet after President Lee Jae-myung’s ambitious 5,000-point target failed. Many retail investors, who borrowed heavily to trade, lost life-changing sums.
+   [Read more](https://www.hk01.com/世界專題/60371927/韓國全民皆股-散戶借孖展炒股賺15倍後倒輸-只為在首爾買樓上車)
 
-Select: 1,2,3,8,12,14,15,26,4, (maybe also something else like 6? but that's tech). Could also include 5? No that's Hong Kong.
+3. **Japan’s PM Takashi Koike Admits Sleeping Only 0–3 Hours Nightly**
+   *[國際]*
+   Japanese Prime Minister Takashi Koike revealed he sleeps just 0–3 hours on weekdays and 5 hours on weekends due to heavy workload. Opposition parties warn this could lead to policy errors.
+   [Read more](https://www.hk01.com/即時國際/60372254/高市早苗自爆平日睡0至3小時-假期5小時-反對黨-恐釀決策失誤)
 
-Thus top 10: 1,2,3,8,12,14,15,26,4, (maybe also 6? but no). Let's pick also  (??) maybe  (??) Actually we have 10: 1,2,3,8,12,14,15,26,4, (??) need one more. Could include  (??) maybe  (??)  (??) maybe there is also something about "世界盃｜西班牙機師廣播謊稱阿根廷奪冠" we already have as 4. Another could be "世界盃｜西班牙於決賽期間「測得3次地震」" we have as 12. Another could be "世界盃｜西班牙百萬人慶奪冠　功臣費倫托利斯頭戴「特朗普式」帽" we have as 14. Could also include "世界盃｜西班牙機師廣播謊稱..." we already. Maybe include "世界盃｜西班牙於決賽期間..." we have.
+4. **Turkey Officially Applies to Join EU’s SEPA Payment System**
+   *[國際]*
+   Turkey has submitted an application to join the Single Euro Payments Area (SEPA), a move Turkish exporters say could significantly boost bilateral trade with the EU.
+   [Read more](https://www.hk01.com/即時國際/60372261/土耳其正式申請加入sepa-出口商-可使雙方關係達完全不同水平)
 
-What about "世界盃｜西班牙機師廣播謊稱..." we have. Another could be "世界盃｜西班牙於決賽期間..." we have.
+5. **FIFA Investigates Argentina Players for Post-World Cup Brawl**
+   *[國際]*
+   FIFA has launched a disciplinary probe into Argentina’s players following a post-match brawl with Spain in the 2026 World Cup final. Players may face fines or suspensions.
+   [Read more](https://www.hk01.com/即時國際/60372209/世界盃-阿根廷輸波職球員動粗-fifa啟動調查-恐面臨罰款和禁賽)
 
-Maybe include "世界盃｜西班牙百萬人慶奪冠..." we have.
+6. **South Korean Influencer Accused of Racial Discrimination After Using Messi Jersey as Rag**
+   *[國際]*
+   A South Korean influencer who claimed racial discrimination during the World Cup faced backlash after a video showed her using a Lionel Messi jersey as a cleaning rag. Critics called the act racist.
+   [Read more](https://www.hk01.com/即時國際/60372219/6月才遭-拉眼角-歧視-韓國女網紅拿美斯球衣當抹布-球迷怒批)
 
-Ok we have 9; need one more: maybe include "特朗普的本錢：美國人開始「接受」一場伊朗「持久戰」？" we have as 26. Already.
+7. **Hong Kong Family Involved in Fatal Car Crash in Hokkaido, Japan**
+   *[國際]*
+   A Hong Kong family of four was involved in a fatal car crash in Hokkaido’s Furano region on 20 July, resulting in one death and five injuries. The 53-year-old mother was the sole fatality.
+   [Read more](https://www.hk01.com/即時國際/60372171/港人家庭北海道富良野自駕遊遇車禍-1死5傷)
 
-Add maybe "美退伍軍人抗議特朗普移民政策　紐約ICE大樓前縱火被捕" we have as 2.
+8. **China and Philippines Clash at Second Thomas Shoal – Both Nations Summon Ambassadors**
+   *[國際]*
+   Tensions escalated between China and the Philippines after a clash near Second Thomas Shoal, with both sides accusing each other of provocations. China urged the Philippines to stop "illegal activities."
+   [Read more](https://www.hk01.com/即時國際/60372141/中菲仁愛礁衝突-兩國互召大使-北京-促菲律賓停止滋事挑釁)
 
-Maybe include "美國夢不再？移民政策收緊學費昂貴　印度青年掀「赴歐留學潮」" we have as 3.
+9. **UK’s New PM Andy Burnham Seen as Cautious on China Policy**
+   *[國際]*
+   Britain’s new Prime Minister Andy Burnham, appointed after Labour’s victory, is expected to adopt a pragmatic approach toward China, avoiding major confrontations due to limited leverage.
+   [Read more](https://www.hk01.com/國際分析/60372138/andy-burnham-英國新首相對華不會也沒能力-大動干戈)
 
-Maybe include "新首相貝安德：希望vs現實　英國已變成天氣差食物難吃的意大利？" we have as 8.
+10. **Spanish Pilot’s Fake World Cup Win Announcement Sparks Global Backlash**
+   *[國際]*
+   A Spanish airline pilot falsely announced Argentina’s victory in the World Cup final over the intercom, leading to jubilant celebrations before passengers realized it was a hoax.
+   [Read more](https://www.hk01.com/環球趣聞/60372098/世界盃-西班牙機師廣播謊稱阿根廷奪冠-球迷狂歡後知被耍-有片)
 
-Maybe include "世界盃｜西班牙機師廣播謊稱阿根廷奪冠　球迷狂歡後知被耍｜有片" we have as 4.
+---
 
-Now we still need one more: maybe include "世界盃｜西班牙於決賽期間「測得3次地震」　完場瞬間震感最強烈" we have as 12.
+### **🔬 Technology Highlights**
+**Key Themes:**
+- **AI Disruption:** Hong Kong’s travel book industry is collapsing due to AI-generated content, while South Korea’s stock market faces a crash after AI-driven speculation.
+- **Smart Tech Challenges:** A water pipe leak in Shau Kei Wan took 8 hours to locate, exposing gaps in Hong Kong’s smart infrastructure.
+- **Consumer Tech:** Apple’s upcoming iPhone 18 Pro Max may feature Sony-exclusive camera sensors, while Nothing’s Phone 4b and Ear 3a earbuds launch in Hong Kong.
+- **Travel Tech:** Hong Kong travelers to Japan are advised on eSIM vs. physical SIM choices, with speed tests revealing significant upload differences.
 
-Now count: 1,2,3,4,8,12,14,15,26 = 9. Need a 10th: perhaps "世界盃｜西班牙百萬人慶奪冠　功臣費倫托利斯頭戴「特朗普式」帽" we have as 14 (already). Actually we counted 14. Let's recount: list numbers:
-
-1 (Trump Netanyahu)
-2 (Veteran ICE arson)
-3 (Indian youth Europe)
-4 (World Cup broadcaster lie)
-8 (UK PM)
-12 (World Cup earthquakes)
-14 (World Cup celebrations)
-15 (Harvard investigation)
-26 (Iran conflict)
-We need one more: maybe "世界盃｜西班牙於決賽期間「測得3次地震」" we already have as 12. Could add "世界盃｜西班牙機師廣播謊稱..." we have as 4.
-
-Maybe include "世界盃｜西班牙百萬人慶奪冠..." as 14.
-
-We still need a 10th distinct story: perhaps "世界盃｜西班牙於決賽期間「測得3次地震」" is 12, we have. Another could be "世界盃｜西班牙機師廣播謊稱..." already.
-
-What about "世界盃｜西班牙於決賽期間「測得3次地震」" we counted. Maybe include "世界盃｜西班牙於決賽期間「測得3次地震」" no.
-
-Maybe include "世界盃｜西班牙於決賽期間「測得3次地震」" only once.
-
-Other international stories: maybe "世界盃｜西班牙機師廣播謊稱阿根廷奪冠　球迷狂歡後知被耍｜有片" we have.
-
-Also there is "世界盃｜西班牙於決賽期間「測得3次地震」　完場瞬間震感最強烈" we have.
-
-Also there is "世界盃｜西班牙百萬人慶奪冠　功臣費倫托利斯頭戴「特朗普式」帽" we have.
-
-We still need a 10th: maybe include "世界盃｜西班牙機師廣播謊稱..."? Already.
-
-Maybe include "世界盃｜西班牙於決賽期間「測得3次地震」" already.
-
-Maybe include "世界盃｜西班牙百萬人慶奪冠..." already.
-
-Ok we still missing one; maybe include "世界盃｜西班牙於決賽期間「測得3次地震」" is same.
-
-Let's look at other international items not yet selected: there is also "世界盃｜西班牙於決賽期間「測得3次地震」" we have; "世界盃｜西班牙百萬人慶奪冠" we have; "世界盃｜西班牙機師廣播謊稱阿根廷奪冠" we have; "世界盃｜西班牙於決賽期間「測得3次地震」" duplicates.
-
-Other international: "世界盃｜西班牙機師廣播謊稱阿根廷奪冠　球迷狂歡後知被耍｜有片" (4). "世界盃｜西班牙於決賽期間「測得3次地震」　完場瞬間震感最強烈" (12). "世界盃｜西班牙百萬人慶奪冠　功臣費倫托利斯頭戴「特朗普式」帽" (14). That's three world cup stories.
-
-Maybe choose only one world cup story as top, but we need 10 total. Could replace two world cup with other items: maybe include "世界盃｜西班牙機師廣播謊稱..." and "世界盃｜西班牙於決賽期間「測得3次地震」" and keep one more like "世界盃｜西班牙百萬人慶奪冠". That's three.
-
-Now we need one more international story: maybe include "世界盃｜西班牙機師廣播謊稱..." already.
-
-Let's see other international items: there is "世界盃｜西班牙於決賽期間「測得3次地震」" we counted. There's also "世界盃｜西班牙百萬人慶奪冠" we counted. There's also "世界盃｜西班牙機師廣播謊稱阿根廷奪冠" counted. There's also "世界盃｜西班牙於決賽期間「測得3次地震」" duplicate.
-
-What about "世界盃｜西班牙於決賽期間「測得3次地震」"? done.
-
-Other international: "世界盃｜西班牙機師廣播謊稱阿根廷奪冠　球迷狂歡後知被耍｜有片" done.
-
-Maybe include "世界盃｜西班牙於決賽期間「測得3次地震」" done.
-
-Ok maybe we need a non-world cup story: there is "世界盃｜西班牙機師廣播謊稱..." etc. Actually all world cup.
-
-Other international: "世界盃｜西班牙於決賽期間「測得3次地震」" etc.
-
-There's also "世界盃｜西班牙機師廣播謊稱阿根廷奪冠" etc.
-
-We still have "世界盃｜西班牙於決賽期間「測得3次地震」" etc.
-
-Let's check list again for any other international not world cup:
-
-1. 特朗普稱內塔尼亞胡到紐約參加聯大會議不被拘捕　與市長看法相悖
-2. 美退伍軍人抗議特朗普移民政策　紐約ICE大樓前縱火被捕
-3. 美國夢不再？移民政策收緊學費昂貴　印度青年掀「赴歐留學潮」
-4. 世界盃｜西班牙機師廣播謊稱阿根廷奪冠　球迷狂歡後知被耍｜有片
-5? actually 5 is Hong Kong.
-6 tech.
-7 Hong Kong.
-8 新首相貝安德：希望vs現實　英國已變成天氣差食物難吃的意大利？
-9 tech.
-10 Hong Kong.
-11 Hong Kong.
-12 世界盃｜西班牙於決賽期間「測得3次地震」　完場瞬間震感最強烈
-13 Hong Kong.
-14 世界盃｜西班牙百萬人慶奪冠　功臣費倫托利斯頭戴「特朗普式」帽
-15 美司法部對哈佛大學中國助
+**Featured Stories:**
+- [iPhone 18 Pro Max Leak: Sony to Supply Exclusive Camera Sensors](https://www.hk01.com/數碼生活/60371732/傳iphone-18-pro-max鏡頭由sony包辦-後置三鏡48mp-搭可變光圈)
+- [Nothing Phone 4b Review: Big Battery, Upgraded Flashlight](https://www.hk01.com/數碼生活/60371914/nothing-phone-4b實測-大電升級閃燈更實用-同場試聽ear-3a耳機)
+- [Deep Mode ≠ Eye Protection: Experts Warn Against Overuse](https://www.hk01.com/實用教學/60372016/深色模式-護眼-拆解黑底白字陷阱-散光過度使用恐致眼乾頭痛)
 
 ---
 *This digest is auto-generated by [agents-radar](https://github.com/stevenko2002/agents-radar).*
