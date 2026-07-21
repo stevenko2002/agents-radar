@@ -1,52 +1,76 @@
 {
   "zh": {
     "ai-cli": [
-      "llama.cpp b10075 Hexagon后端支持",
-      "llama.cpp b10069 Adreno OpenCL优化",
-      "PR #25934 Hexagon CLAMP操作上线",
-      "PR #25847 WebGPU深度卷积内核",
-      "PR #25903 SYCL并行编译提速6-12分钟",
-      "--pin-hotexperts防止MoE热页换出"
+      "Claude Code v2.1.216 修复长会话性能瓶颈与文件系统隔离问题",
+      "Gemini CLI v0.52.0 修复认证回退与工具权限控制",
+      "Kimi Code CLI v0.20.0 修复 StrReplaceFile 链式编辑计数错误",
+      "OpenCode v1.18.4 为 Kimi 模型添加自适应思考控制",
+      "Pi v0.9.1-rc 修复多个 release-blocker 问题",
+      "llama.cpp b10075 为 Hexagon 后端新增 CLAMP 算子"
     ],
     "ai-agents": [
-      "OpenClaw Issues 354 PRs 500活跃",
-      "PR #111404修复Telegram位置干扰",
-      "PR #110179解决Vertex认证回退",
-      "PR #111901插件声明式工具支持",
-      "PR #111938cron任务30天老化",
-      "PR #89096macOS LaunchAgent端口重启"
+      "OpenClaw 今日 474 条 Issues 与 500 条 PR 保持高互动频率",
+      "社区关注点集中在会话状态、消息丢失与安全问题",
+      "今日已有 104 条 PR 被合并或关闭",
+      "修复 stuck session recovery 与消息投递可靠性",
+      "加入 Masked Secrets 能力防止 API Key 泄露",
+      "整体处于活跃开发阶段"
     ],
     "ai-trending": [
-      "TensorFlow 196K stars",
-      "PyTorch 101K stars",
-      "vLLM 8.6K stars支持连续批处理",
-      "OmniRoute 1107 stars聚合500模型",
-      "code-review-graph 1833 stars本地代码图",
-      "transcribe.cpp 395 stars语音转写推理"
+      "ai-agent-book、OmniRoute、ktransformers 单日新增星数均超千颗",
+      "AI 智能体/工作流、本地化 MCP 网关成为焦点",
+      "传统深度学习框架仍保持高活跃度",
+      "多个高星仓库呈爆发式增长",
+      "社区对可插拔、私有化、低成本需求快速上升",
+      "智能体和应用为上层提供稳固底座"
     ],
     "ai-web": [
-      "Anthropic AI for Science资助5万美元",
-      "OpenAI Safety Alignment长时程模型",
-      "两主题线基础科学与生物科技",
-      "Claude积分支持罕见病研究",
-      "OpenAI长时序对齐探讨",
-      "官方同步UTC+0早晨发布"
+      "Anthropic 推出 AI for Science 稀有疾病研究资助计划最高 5 万美元",
+      "OpenAI 官方索引页挂出 Safety Alignment Long Horizon Models 链接",
+      "两家公司均在安全/伦理议题上加码",
+      "发布时间集中在 UTC+0 早晨",
+      "主题聚焦 AI-driven scientific acceleration",
+      "长时段对齐纳入技术路线图首要讨论"
     ],
     "ai-hn": [
-      "Kimi K3 Qwen 3.8模型竞争",
-      "Anthropic解体争议分析",
-      "AI政治选举负面影响讨论",
-      "Claude Fable 5推出关注",
-      "AI电影生成工具开源",
-      "Flathub封禁AI生成内容监管"
+      "Kimi K3、Qwen 3.8 与 Anthropic 潜在动荡引发热议",
+      "OpenAI 发布长周期模型安全对齐框架",
+      "Gurley 论证开源模型是市场竞争必然趋势",
+      "AI 电影生成 pipeline 可在本地跑出可看短片",
+      "自运行交易框架 The0 支持自托管",
+      "社区对模型能力提升持谨慎乐观态度"
+    ],
+    "ai-arxiv": [
+      "提出可通过文本提示控制感知相似度维度的度量",
+      "系统考察 LLMs 在面对不同语言形式信念表达时的反应",
+      "通过软前缀探讨上下文对三段论推理稳定性的影响",
+      "基于查询难度的口头分析实现轻量级 LLM 路由",
+      "利用密集视觉表示构建 Patch-Policy 提升机器人学习效率",
+      "提出自适应安全边框学习方法避免导航过保守"
     ],
     "ai-hf": [
-      "Gemma-4-31B-it 1198万下载",
-      "Qwen3.6-35B-A3B 200万下载",
-      "Bonsai 27B 1bit/2bit量化",
-      "百度Unlimited-OCR 212万下载",
-      "HauhauCS Qwen3.6多模态能力",
-      "MoonshotAI Kimi-K2.7代码模型"
+      "google/gemma-4-31B-it 图文双模理解生成质量接近顶尖闭源模型",
+      "baidu/Unlimited-OCR 高精度通用 OCR 适用票据场景文字识别",
+      "zai-org/GLM-5.2 中英双语 MoE 语言模型强指令遵循",
+      "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF 9B 参数 GGUF 量化模型",
+      "nvidia/Nemotron-3-Embed-1B-BF16 专注句子嵌入",
+      "openbmb/MiniCPM-RobotManip/Track 视觉-语言-动作融合"
+    ],
+    "ai-community": [
+      "AI 生成代码的法律归属问题引发开发者深度思考",
+      "部署 CrewAI 到 AWS Bedrock 遇到文档与调试挑战",
+      "AI 代码执行器 bug 导致重复执行有效代码",
+      "MCP 协议入门解释帮助初学者理解 AI 模型交互",
+      "本地部署无法解决提示注入与权限提升风险",
+      "AI 编程助手能提升新手开发速度但需警惕技能退化"
+    ],
+    "ai-steam": [
+      "Steam 热门游戏榜单今日更新",
+      "特价游戏包括经典 RPG 与独立游戏",
+      "社区互动活跃度持续上升",
+      "新作与 DLC 发布频率稳定",
+      "用户评价对销量影响显著",
+      "平台活动与折扣信息同步更新"
     ]
   },
   "en": {}
