@@ -29,6 +29,8 @@ const REPORT_FILES = [
   "ai-community-en",
   "hk01",
   "hk01-en",
+  "steam",
+  "steam-en",
   "ai-weekly",
   "ai-weekly-en",
   "ai-monthly",

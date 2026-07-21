@@ -453,6 +453,7 @@ async function main(): Promise<void> {
     ["ai-arxiv", "ai-arxiv.md", "ai-arxiv-en.md"],
     ["ai-hf", "ai-hf.md", "ai-hf-en.md"],
     ["ai-community", "ai-community.md", "ai-community-en.md"],
+    ["ai-steam", "steam.md", "steam-en.md"],
   ] as const) {
     const zh = readReport(zhFile);
     const en = readReport(enFile);
