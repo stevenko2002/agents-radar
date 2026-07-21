@@ -108,6 +108,7 @@ async function fetchAllData(
     trendingData,
     hnData,
     hk01Data,
+    steamData,
     phData,
     arxivData,
     hfData,
