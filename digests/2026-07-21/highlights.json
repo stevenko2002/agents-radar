@@ -1,0 +1,53 @@
+{
+  "zh": {
+    "ai-cli": [
+      "llama.cpp b10075 Hexagon后端支持",
+      "llama.cpp b10069 Adreno OpenCL优化",
+      "PR #25934 Hexagon CLAMP操作上线",
+      "PR #25847 WebGPU深度卷积内核",
+      "PR #25903 SYCL并行编译提速6-12分钟",
+      "--pin-hotexperts防止MoE热页换出"
+    ],
+    "ai-agents": [
+      "OpenClaw Issues 354 PRs 500活跃",
+      "PR #111404修复Telegram位置干扰",
+      "PR #110179解决Vertex认证回退",
+      "PR #111901插件声明式工具支持",
+      "PR #111938cron任务30天老化",
+      "PR #89096macOS LaunchAgent端口重启"
+    ],
+    "ai-trending": [
+      "TensorFlow 196K stars",
+      "PyTorch 101K stars",
+      "vLLM 8.6K stars支持连续批处理",
+      "OmniRoute 1107 stars聚合500模型",
+      "code-review-graph 1833 stars本地代码图",
+      "transcribe.cpp 395 stars语音转写推理"
+    ],
+    "ai-web": [
+      "Anthropic AI for Science资助5万美元",
+      "OpenAI Safety Alignment长时程模型",
+      "两主题线基础科学与生物科技",
+      "Claude积分支持罕见病研究",
+      "OpenAI长时序对齐探讨",
+      "官方同步UTC+0早晨发布"
+    ],
+    "ai-hn": [
+      "Kimi K3 Qwen 3.8模型竞争",
+      "Anthropic解体争议分析",
+      "AI政治选举负面影响讨论",
+      "Claude Fable 5推出关注",
+      "AI电影生成工具开源",
+      "Flathub封禁AI生成内容监管"
+    ],
+    "ai-hf": [
+      "Gemma-4-31B-it 1198万下载",
+      "Qwen3.6-35B-A3B 200万下载",
+      "Bonsai 27B 1bit/2bit量化",
+      "百度Unlimited-OCR 212万下载",
+      "HauhauCS Qwen3.6多模态能力",
+      "MoonshotAI Kimi-K2.7代码模型"
+    ]
+  },
+  "en": {}
+}
