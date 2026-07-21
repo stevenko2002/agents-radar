@@ -90,6 +90,7 @@ async function fetchAllData(
   trendingData: TrendingData;
   hnData: HnData;
   hk01Data: Hk01Data;
+  steamData: SteamData;
   phData: PhData;
   arxivData: ArxivData;
   hfData: HfData;
@@ -183,6 +184,7 @@ async function fetchAllData(
     trendingData,
     hnData,
     hk01Data,
+    steamData,
     phData,
     arxivData,
     hfData,
@@ -317,6 +319,7 @@ async function main(): Promise<void> {
     trendingData,
     hnData,
     hk01Data,
+    steamData,
     phData,
     arxivData,
     hfData,
