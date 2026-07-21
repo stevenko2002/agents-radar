@@ -993,15 +993,15 @@ ${specialsText}
 
 Generate a concise "Steam Highlights" summary:
 
-1. **Top Sellers** — List the 25 most popular games. For each:
+1. **Top Sellers** — List all ${data.topSellers.length} games provided above. For each:
    - Game name and price
    - Link to store page
 
-2. **Best Deals** — List the 25 best discounted games. For each:
+2. **Best Deals** — List all ${data.specials.length} discounted games provided above. For each:
    - Game name, discounted price, and discount percentage
    - Link to store page
 
-Style: concise, gaming-focused. Keep all store links.
+Style: concise, gaming-focused. Keep all store links. List exactly the games provided — do not add or invent games.
 `;
   }
 
@@ -1017,14 +1017,14 @@ ${specialsText}
 
 請生成一份簡潔的「Steam 遊戲速報」摘要：
 
-1. **熱門遊戲** — 列出 25 款最熱門的遊戲。每條包含：
+1. **熱門遊戲** — 列出上方提供的全部 ${data.topSellers.length} 款遊戲。每條包含：
    - 遊戲名稱和價格
    - 商店頁面連結
 
-2. **特價遊戲** — 列出 25 款折扣最吸引人的遊戲。每條包含：
+2. **特價遊戲** — 列出上方提供的全部 ${data.specials.length} 款折扣遊戲。每條包含：
    - 遊戲名稱、特價、折扣百分比
    - 商店頁面連結
 
-語言要求：中文，簡潔專業，保留所有商店連結。
+語言要求：中文，簡潔專業，保留所有商店連結。只列出上方提供的遊戲，不要自行補充或虛構。
 `;
 }
