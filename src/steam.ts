@@ -35,14 +35,14 @@ export async function fetchSteamData(): Promise<SteamData> {
     const topSellers = (data.top_sellers?.items || []).slice(0, MAX_ITEMS).map((g: any) => ({
       id: g.id,
       name: g.name || "Unknown",
-      price: g.final_price ? `HK$${(g.final_price / 100).toFixed(1)}` : "Free",
+      price: g.final_price ? `¥${(g.final_price / 100).toFixed(2)}` : "Free",
       url: `https://store.steampowered.com/app/${g.id}/`,
     }));
     
     const specials = (data.specials?.items || []).slice(0, MAX_ITEMS).map((g: any) => ({
       id: g.id,
       name: g.name || "Unknown",
-      price: g.final_price ? `HK$${(g.final_price / 100).toFixed(1)}` : "Free",
+      price: g.final_price ? `¥${(g.final_price / 100).toFixed(2)}` : "Free",
       discount: g.discount_percent || 0,
       url: `https://store.steampowered.com/app/${g.id}/`,
     }));

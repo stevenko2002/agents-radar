@@ -1005,7 +1005,7 @@ Style: concise, gaming-focused. Keep all store links. List exactly the games pro
 `;
   }
 
-  return `你是一位遊戲分析師，負責整理 Steam 商店趨勢。以下是 ${dateStr} Steam 香港區的數據。
+  return `你是一位遊戲分析師，負責整理 Steam 商店趨勢。以下是 ${dateStr} Steam 中國區的數據。
 
 ## 熱門遊戲（${data.topSellers.length} 款）
 ${topSellersText}
