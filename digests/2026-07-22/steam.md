@@ -1,78 +1,32 @@
 # Steam 游戏速报 2026-07-22
 
-> 数据来源: [Steam](https://store.steampowered.com) | 热门 10 款, 特价 10 款 | 生成时间: 2026-07-21 22:16 UTC
+> 数据来源: [Steam](https://store.steampowered.com) | 热门 10 款, 特价 10 款 | 生成时间: 2026-07-22 01:03 UTC
 
 ---
 
-**Steam 遊戲速報（2026‑07‑22）**
+**熱門遊戲**  
+1. Palworld - ¥75.60 https://store.steampowered.com/app/1623730/  
+2. Call of Duty®: Modern Warfare® 4 - ¥298.00 https://store.steampowered.com/app/4435490/  
+3. Season 4 Battlefield Pro - Battlefield™ 6 and REDSEC - ¥138.00 https://store.steampowered.com/app/4600470/  
+4. Grand Theft Auto V Enhanced - ¥74.50 https://store.steampowered.com/app/3240220/  
+5. Grand Theft Auto V Enhanced - ¥74.50 https://store.steampowered.com/app/3240220/  
+6. Assassin's Creed Black Flag Resynced - ¥248.00 https://store.steampowered.com/app/3751950/  
+7. Red Dead Redemption 2 - ¥69.75 https://store.steampowered.com/app/1174180/  
+8. Wallpaper Engine - ¥22.90 https://store.steampowered.com/app/431960/  
+9. MECCHA CHAMELEON - ¥26.00 https://store.steampowered.com/app/4704690/  
+10. Assassin's Creed Black Flag Resynced - ¥248.00 https://store.steampowered.com/app/3751950/  
 
----
-
-### 熱門遊戲（10 款）
-
-1. **Palworld** - ¥75.60  
-   https://store.steampowered.com/app/1623730/
-
-2. **Grand Theft Auto V Enhanced** - ¥74.50  
-   https://store.steampowered.com/app/3240220/
-
-3. **Grand Theft Auto V Enhanced** - ¥74.50  
-   https://store.steampowered.com/app/3240220/
-
-4. **Call of Duty®: Modern Warfare® 4** - ¥298.00  
-   https://store.steampowered.com/app/4435490/
-
-5. **Season 4 Battlefield Pro - Battlefield™ 6 and REDSEC** - ¥138.00  
-   https://store.steampowered.com/app/4600470/
-
-6. **Assassin's Creed Black Flag Resynced** - ¥248.00  
-   https://store.steampowered.com/app/3751950/
-
-7. **Red Dead Redemption 2** - ¥69.75  
-   https://store.steampowered.com/app/1174180/
-
-8. **Wallpaper Engine** - ¥22.90  
-   https://store.steampowered.com/app/431960/
-
-9. **Forza Horizon 6** - ¥298.00  
-   https://store.steampowered.com/app/2483190/
-
-10. **MECCHA CHAMELEON** - ¥26.00  
-    https://store.steampowered.com/app/4704690/
-
----
-
-### 特價遊戲（10 款）
-
-1. **Palworld** - ¥75.60 (-30%)  
-   https://store.steampowered.com/app/1623730/
-
-2. **Grand Theft Auto V Enhanced** - ¥74.50 (-50%)  
-   https://store.steampowered.com/app/3240220/
-
-3. **Grand Theft Auto V Enhanced** - ¥74.50 (-50%)  
-   https://store.steampowered.com/app/3240220/
-
-4. **Red Dead Redemption 2** - ¥69.75 (-75%)  
-   https://store.steampowered.com/app/1174180/
-
-5. **Tainted Grail: The Fall of Avalon** - ¥76.00 (-50%)  
-   https://store.steampowered.com/app/1466060/
-
-6. **Resident Evil 4** - ¥49.50 (-75%)  
-   https://store.steampowered.com/app/2050650/
-
-7. **Warhammer 40,000: Space Marine 2** - ¥74.70 (-70%)  
-   https://store.steampowered.com/app/2183900/
-
-8. **DIVE or DIE - Children of Rain** - ¥58.40 (-20%)  
-   https://store.steampowered.com/app/3590290/
-
-9. **Resident Evil Requiem** - ¥278.40 (-20%)  
-   https://store.steampowered.com/app/3764200/
-
-10. **Pathogenic** - ¥31.99 (-20%)  
-    https://store.steampowered.com/app/3808690/
+**特價遊戲**  
+1. Palworld - ¥75.60 (-30%) https://store.steampowered.com/app/1623730/  
+2. Grand Theft Auto V Enhanced - ¥74.50 (-50%) https://store.steampowered.com/app/3240220/  
+3. Grand Theft Auto V Enhanced - ¥74.50 (-50%) https://store.steampowered.com/app/3240220/  
+4. Red Dead Redemption 2 - ¥69.75 (-75%) https://store.steampowered.com/app/1174180/  
+5. Hades II - ¥75.60 (-30%) https://store.steampowered.com/app/1145350/  
+6. Resident Evil 4 - ¥49.50 (-75%) https://store.steampowered.com/app/2050650/  
+7. DIVE or DIE - Children of Rain - ¥58.40 (-20%) https://store.steampowered.com/app/3590290/  
+8. ZeroSpace - ¥142.20 (-10%) https://store.steampowered.com/app/1605850/  
+9. Tainted Grail: The Fall of Avalon - ¥76.00 (-50%) https://store.steampowered.com/app/1466060/  
+10. Resident Evil Requiem - ¥278.40 (-20%) https://store.steampowered.com/app/3764200/
 
 ---
 *本日报由 [agents-radar](https://github.com/stevenko2002/agents-radar) 自动生成。*
