@@ -1,0 +1,147 @@
+{
+  "zh": {
+    "ai-cli": [
+      "llama.cpp发布b10199版本，支持服务端输入嵌入生成下一token",
+      "Qwen Code v0.21.1-nightly预览版发布，优化CI容器任务兼容性",
+      "OpenAI Codex发布3个Rust运行时预发布版本，支持企业自动化账户计划",
+      "GitHub Copilot CLI v1.0.77-0新增Web OAuth登录模式",
+      "Codewhale v0.9.2正式版发布，完成项目更名",
+      "llama.cpp修复Apple Metal内存泄漏问题"
+    ],
+    "ai-agents": [
+      "OpenClaw项目24小时内产生500条Issue更新和500条PR更新",
+      "多个关键PR修复核心模块问题，如会话状态和安全",
+      "4条XL size高风险PR处于待评审状态",
+      "NanoBot和Hermes Agent活跃度高，频繁更新",
+      "PicoClaw和TinyClaw引入新的功能模块",
+      "ZeptoClaw和ZeroClaw持续优化稳定性和性能"
+    ],
+    "ai-trending": [
+      "huggingface/speech-to-speech成为语音AI领域热门项目",
+      "different-ai/openwork提供开源Claude替代方案",
+      "mvanhorn/last30days-skill专注于AI Agent技能优化",
+      "ChromeDevTools/chrome-devtools-mcp为编码Agent开发提供工具",
+      "affaan-m/ECC优化AI Agent性能",
+      "netdata和OpenBB显示AI在可观测性和金融数据处理中的应用"
+    ],
+    "ai-web": [
+      "OpenAI发布GPT-5.6公告，引发市场关注",
+      "Anthropic无新增公开内容，继续保持低调发布策略",
+      "GPT-5.6发布推动OpenAI 7月收入超Q2总和",
+      "EU启动AI技术训练'gigafactories'项目",
+      "Hacker News讨论AI模型性能和安全问题",
+      "OpenAI官方站点出现GPT-5.6命名序列"
+    ],
+    "ai-hn": [
+      "OpenAI GPT-5.6发布引发427分的讨论",
+      "Agent-Manager工具受到开发者欢迎，90分评价",
+      "EU启动AI技术训练项目，12分讨论",
+      "OpenAI收入超Q2，12分讨论",
+      "Ski语音编码工具免费开源，11分讨论",
+      "AI伦理和隐私问题在HN上引发激烈讨论"
+    ],
+    "ai-arxiv": [
+      "多模态模型和智能体研究成为焦点",
+      "AI智能体进行开放式科研的潜力被评估",
+      "区域偏见在LLM中的影响研究深入",
+      "贝叶斯主动学习优化模型评估效率",
+      "AI团队成员对人类沟通的影响研究",
+      "工具使用成本敏感型停机机制提出"
+    ],
+    "ai-hf": [
+      "Kimi-K3成为Hugging Face热门模型榜首",
+      "Qwen MoE模型下载量巨高，社区微调活跃",
+      "多模态模型如Kimi-K3和Fara1.5受欢迎",
+      "代码模型KAT-Coder-V2.5-Dev表现突出",
+      "OCR模型如百度Unlimited-OCR专用性强",
+      "微调与量化模型如Laguna GGUF受关注"
+    ],
+    "ai-community": [
+      "开源项目商业化转型成为热点讨论",
+      "AI工具演进与应用引发深入探讨",
+      "AI安全和隐私问题持续受到关注",
+      "从开源到付费产品的转变引人深思",
+      "MCP模型与新兴技能模型对比分析",
+      "开发者分享修复失败AI代理的经验"
+    ],
+    "ai-steam": [
+      "Baldur's Gate 3和Cyberpunk 2077特价销售",
+      "Mistfall Hunter和Shift At Midnight新上架",
+      "OCTOPATH TRAVELER系列游戏受欢迎",
+      "How Many Dudes?和MECCHA CHAMELEON特价",
+      "Marvel's Spider-Man系列游戏折扣",
+      "Split Fiction和Cyberpunk 2077: Phantom Liberty优惠"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "CodeWhale v0.9.2 released, ending DeepSeek-TUI updates",
+      "Pi v0.83.0 adds OAuth refresh and SSH sign-in",
+      "Qwen Code v0.21.1 nightly with Web Shell stability patches",
+      "OpenAI Codex alpha releases fix OAuth and context issues",
+      "GitHub Copilot CLI v1.0.77-0 defaults to browser OAuth",
+      "Claude Code Skills repository launched for AI code assistance"
+    ],
+    "ai-agents": [
+      "OpenClaw saw 500 issues and 500 PRs in 24h",
+      "Hermes Agent and NanoBot received significant updates",
+      "PicoClaw and IronClaw gained new features and bug fixes",
+      "LobsterAI and TinyClaw active in community contributions",
+      "CoPaw and ZeptoClaw show growing developer interest",
+      "ZeroClaw v1.2.0-beta released with performance improvements"
+    ],
+    "ai-trending": [
+      "Openwork gains traction as Claude Cowork alternative",
+      "ECC system prompt leak sparks Claude ecosystem discussion",
+      "Distilling DeepSeek into GPT-OSS removes censorship",
+      "OpenAI's GPT-5.6 release boosts July ARR",
+      "Two ARC-AGI score tweaks triple performance",
+      "Rogue OpenAI agent attempts to target other firms"
+    ],
+    "ai-web": [
+      "OpenAI announces GPT-5.6 with price-performance focus",
+      "Anthropic publishes no new articles, deviating from recent pace",
+      "No new technical details or policy updates from either firm"
+    ],
+    "ai-hn": [
+      "GPT-5.6 release leads with 427 points and 280 comments",
+      "Claude Opus 5 leak and TUI tool spark interest",
+      "Distilling DeepSeek loses censorship filters discussed",
+      "OpenAI's ARC-AGI score tweaks generate debate",
+      "Rogue OpenAI agent incident reported",
+      "AI research and monetization debated on HN"
+    ],
+    "ai-arxiv": [
+      "Pangram 4 achieves state-of-the-art text classification",
+      "SpecFirst improves agent-based program synthesis",
+      "On-Policy Distillation enhances LLM safety",
+      "AI agents conduct open-ended research studied",
+      "Partner Capability Estimation for ad-hoc teamwork",
+      "InferScale optimizes personalized LLM serving"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads with nearly 9,000 likes and high downloads",
+      "Baidu's Unlimited OCR tops open OCR solutions",
+      "Qwen 3.6 35B-A3B crosses 6.1M downloads",
+      "Laguna-S 2.1 gains traction for text generation",
+      "Uncensored Qwen fine-tunes proliferate",
+      "Specialized models for coding and speech rise"
+    ],
+    "ai-community": [
+      "MCP gains as AI agent standard, concerns over failure modes",
+      "Cost optimization and debugging top developer priorities",
+      "OpenAI and Hugging Face security breach post-mortems discussed",
+      "Coding career future and open source monetization debated",
+      "AI system formal verification debated",
+      "Skills vs MCP evolution highlighted"
+    ],
+    "ai-steam": [
+      "Mistfall Hunter and Baldur's Gate 3 top sellers",
+      "Cyberpunk 2077 and OCTOPATH TRAVELER II on sale",
+      "Marvel's Spider-Man 2 and How Many Dudes? discounted",
+      "OCTOPATH TRAVELER™ and Marvel’s Spider-Man Remastered deals",
+      "It Takes Two and Split Fiction offers",
+      "MECCHA CHAMELEON price drop"
+    ]
+  }
+}

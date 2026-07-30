@@ -1,6 +1,6 @@
 {
   "anthropic": {
-    "lastChecked": "2026-07-29T22:16:15.966Z",
+    "lastChecked": "2026-07-30T22:15:58.143Z",
     "seenUrls": {
       "https://www.anthropic.com/news/responsible-scaling-policy-v3": "2026-02-25T23:57:06.000Z",
       "https://www.anthropic.com/research/deprecation-updates-opus-3": "2026-02-25T20:58:11.000Z",
@@ -437,7 +437,7 @@
     }
   },
   "openai": {
-    "lastChecked": "2026-07-29T22:16:19.222Z",
+    "lastChecked": "2026-07-30T22:17:24.654Z",
     "seenUrls": {
       "https://openai.com/index/arvind-kc-chief-people-officer/": "2026-07-25T07:19:31.944Z",
       "https://openai.com/index/put-ai-to-work-for-your-product-team/": "2026-07-29T03:13:44.572Z",
@@ -503,9 +503,9 @@
       "https://openai.com/index/unrolling-the-codex-agent-loop/": "2026-06-24T20:57:13.104Z",
       "https://openai.com/index/harness-engineering/": "2026-06-10T09:44:43.184Z",
       "https://openai.com/index/first-proof-submissions/": "2026-07-11T08:11:39.480Z",
-      "https://openai.com/index/confidence-building-measures-for-artificial-intelligence/": "2026-05-31T20:06:12.457Z",
-      "https://openai.com/research/index/": "2026-07-08T20:03:15.943Z",
-      "https://openai.com/news/research/": "2026-07-15T20:04:18.473Z",
+      "https://openai.com/index/confidence-building-measures-for-artificial-intelligence/": "2026-07-30T01:22:07.536Z",
+      "https://openai.com/research/index/": "2026-07-30T01:22:09.600Z",
+      "https://openai.com/news/research/": "2026-07-30T01:22:09.381Z",
       "https://openai.com/index/new-result-theoretical-physics/": "2026-07-11T08:11:06.915Z",
       "https://openai.com/index/advancing-independent-research-ai-alignment/": "2026-06-12T20:11:37.206Z",
       "https://openai.com/index/introducing-deep-research/": "2026-07-25T07:21:25.253Z",
@@ -1157,11 +1157,11 @@
       "https://openai.com/index/daybreak-securing-the-world/": "2026-07-25T07:03:59.312Z",
       "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/": "2026-07-02T06:28:47.433Z",
       "https://openai.com/index/how-agents-are-transforming-work/": "2026-07-28T02:05:16.270Z",
-      "https://openai.com/index/previewing-gpt-5-6-sol/": "2026-07-25T07:01:12.680Z",
+      "https://openai.com/index/previewing-gpt-5-6-sol/": "2026-07-30T19:39:17.431Z",
       "https://openai.com/index/hp-frontier-partnership/": "2026-07-01T23:23:03.958Z",
       "https://openai.com/index/introducing-genebench-pro/": "2026-07-25T06:56:29.525Z",
       "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/": "2026-07-06T16:31:15.664Z",
-      "https://openai.com/index/gpt-5-6/": "2026-07-23T23:57:34.198Z",
+      "https://openai.com/index/gpt-5-6/": "2026-07-30T22:14:52.380Z",
       "https://openai.com/index/unlocking-self-improvement-gpt-red/": "2026-07-29T21:26:11.607Z",
       "https://openai.com/index/why-teens-deserve-access-safe-ai/": "2026-07-28T19:08:47.489Z",
       "https://openai.com/index/separating-signal-from-noise-coding-evaluations/": "2026-07-16T15:59:29.772Z",
@@ -1172,7 +1172,7 @@
       "https://openai.com/index/a-scorecard-for-the-ai-age/": "2026-07-28T16:59:49.857Z",
       "https://openai.com/index/safety-alignment-long-horizon-models/": "2026-07-29T20:06:07.786Z",
       "https://openai.com/index/david-velez-robin-vince-join-openai-boards/": "2026-07-29T11:22:21.018Z",
-      "https://openai.com/index/introducing-openai-presence/": "2026-07-28T21:34:56.550Z",
+      "https://openai.com/index/introducing-openai-presence/": "2026-07-30T08:26:02.273Z",
       "https://openai.com/index/health-in-chatgpt/": "2026-07-28T23:51:31.207Z",
       "https://openai.com/index/how-news-organizations-are-using-ai/": "2026-07-28T08:55:08.840Z",
       "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/": "2026-07-29T19:16:23.246Z",
@@ -1183,7 +1183,8 @@
       "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai/": "2026-07-28T02:04:56.101Z",
       "https://openai.com/business/guides-and-resources/how-openai-uses-codex/": "2026-07-28T02:04:55.166Z",
       "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/": "2026-07-29T22:16:15.889Z",
-      "https://openai.com/index/chatgpt-for-academic-researchers/": "2026-07-29T19:51:02.218Z"
+      "https://openai.com/index/chatgpt-for-academic-researchers/": "2026-07-29T19:51:02.218Z",
+      "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/": "2026-07-30T21:37:07.904Z"
     }
   }
 }
