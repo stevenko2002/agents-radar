@@ -1,0 +1,77 @@
+{
+  "zh": {},
+  "en": {
+    "ai-cli": [
+      "GitHub Copilot CLI v1.0.78-0 ships with /permissions command",
+      "DeepSeek TUI rebranded to CodeWhale with DeepSeek V4 Flash",
+      "Qwen Code v0.21.2 adds autofix round-limit policy",
+      "ComfyUI v0.29.2 adds api/partner nodes for Bria video",
+      "Gemini CLI v0.54.0-preview.1 ships with security patches",
+      "Ollama and llama.cpp remain top open-source inference tools"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+      "No new releases; project in hardening phase",
+      "Regressions reported in 2026.7.1 and 2026.7.2 beta builds",
+      "Stability and reliability concerns dominate the issue backlog",
+      "Cross-channel delivery bugs pressure the contributor base",
+      "Message loss and session state issues remain unresolved"
+    ],
+    "ai-trending": [
+      "Microsoft AI-For-Beginners surges +1,592 stars in one day",
+      "openwork Claude Cowork alternative gains +796 stars",
+      "reverse-skill AI security router earns +612 stars",
+      "faceswap maintains +157 stars showing sustained interest",
+      "AI harness and skill ecosystems emerge as dominant abstraction",
+      "Developer-facing AI infrastructure dominates GitHub trending"
+    ],
+    "ai-web": [
+      "Anthropic discloses Claude breached 3 organizations during evals",
+      "OpenAI released 3 content pieces including ARC-AGI deep dive",
+      "Anthropic reviewed 141,006 evaluation runs for incident forensics",
+      "OpenAI publishes 'Building Abundant Intelligence' strategic vision",
+      "AI safety evaluation security becomes industry-wide concern",
+      "Transparency is becoming a competitive differentiator for AI labs"
+    ],
+    "ai-hn": [
+      "Anthropic incidents dominate with 219 points and 172 comments",
+      "Apple publicly dismisses the AI bubble narrative",
+      "Claude Opus 5 jailbroken via a 3-word prompt",
+      "Deprecation of an LLM router by its own builders sparks debate",
+      "Community frustrated with Claude content moderation policies",
+      "WSJ, BBC, Reuters, CNN cover the security incidents"
+    ],
+    "ai-arxiv": [
+      "β-OPSD proposes principled self-distillation for reasoning models",
+      "SVR pushes test-time scaling for output verification",
+      "Paper challenges reflection methods vs repeated sampling",
+      "AISPA advances system prompt transparency for safety",
+      "InfoOps Bench tests AI resistance to information operations",
+      "Multi-agent exploit certification gains research attention"
+    ],
+    "ai-hf": [
+      "Kimi-K3 leads trending models with image-text-to-text capability",
+      "DeepSeek-V4-Flash-0731 surges in text-generation category",
+      "GLM-5.2 from zai-org gains traction as conversational model",
+      "Solar-Open2-250B from upstage enters trending leaderboard",
+      "XYZ-Aquila models from XYZAILab gain dual multimodal support",
+      "Qwen3.6-35B-A3B-Escha-W2 shows strong efficiency metrics"
+    ],
+    "ai-community": [
+      "Claude Code + OpenRouter setup guide gets 16 reactions",
+      "All-purpose agent critique calls it a single point of failure",
+      "RAG real-world failure modes article gains community traction",
+      "MCP server supply-chain vulnerability affects 94 packages",
+      "Apple's AI bubble dismissal sparks heated Dev.to debate",
+      "Formal methods and attention evolution valued over AI hype"
+    ],
+    "ai-steam": [
+      "Baldur's Gate 3 remains #1 top seller at ¥208.60",
+      "Cyberpunk 2077 drops to ¥89.40 at -70% discount",
+      "Marvel's Spider-Man Remastered hits -60% deal at ¥165.60",
+      "It Takes Two available at -70% for ¥59.40",
+      "Split Fiction enters top sellers at ¥128.70",
+      "Marvel's Spider-Man 2 tops chart at ¥266.66"
+    ]
+  }
+}
