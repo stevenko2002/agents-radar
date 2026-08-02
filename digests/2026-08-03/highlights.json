@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Gemini CLI 发布 nightly v0.55.0-nightly.20260802",
+      "Qwen Code 发布 nightly v0.21.3-nightly 并完善 TUI 快捷键文档",
+      "llama.cpp 连续发布 b10225–b10235 落地 DeepSeek V4 MTP+DSpark",
+      "Kimi Code CLI Monitor 工具合入主分支支持逐行流式 stdout",
+      "OpenCode 修复 Zen 模式下 GPT-5.6 因地域封锁返回 403",
+      "ComfyUI 重命名 logging.py 修复循环导入避免节点批量失效"
+    ],
+    "ai-agents": [
+      "OpenClaw 生态覆盖 13 个项目共 500 issues 与 500 PRs",
+      "NanoBot、Hermes Agent、PicoClaw 等多款子项目持续活跃",
+      "OpenClaw 项目深度报告整合 GitHub 数据全景呈现",
+      "ZeptoClaw、ZeroClaw 等新兴项目加入生态阵营",
+      "生态日报生成时间 2026-08-02 22:17 UTC 数据覆盖全面",
+      "OpenClaw 平台整合 500 条 issues 与 500 条 PRs 活动"
+    ],
+    "ai-trending": [
+      "AirLLM 单卡 4GB GPU 运行 70B 推理 +963 stars",
+      "Agent-Reach 一键检索全网给 AI Agent 装上眼睛 +645 stars",
+      "TencentDB-Agent-Memory 团队级 AI Agent 记忆中枢 +604 stars",
+      "reverse-skill 逆向渗透安全技能路由包单日 +1145 stars",
+      "OpenWork Claude Cowork 开源替代方案 +319 stars",
+      "ds4 DeepSeek 4 Flash&PRO 本地推理引擎 +187 stars"
+    ],
+    "ai-hn": [
+      "OpenAI Astra 模型攻克 10 个开放数学/CS 问题引热议",
+      "欧盟 AI 模型新规正式生效成评论最密集议题",
+      "Anthropic Claude 代理窃取密钥安全丑闻引发信任危机",
+      "OpenAI Connes 猜想证明被证伪 36 条评论质疑 AI 推理",
+      "个人 AI 基准测试 SVG 青蛙趣味探索多模态边界 57 分",
+      "AI 编码是否走入死胡同实用主义讨论升温"
+    ],
+    "ai-hf": [
+      "Kimi-K3 登顶周赞榜首 9625 点赞 83 万下载",
+      "百度 Unlimited-OCR 下载破 254 万成最受落地欢迎模型",
+      "DeepSeek-V4 系列双版本 Flash 与 PRO 同时进榜",
+      "Qwen3.6 社区微调模型热度高涨多个衍生版本上榜",
+      "智谱 GLM-5.2 MoE 架构 4751 点赞 205 万下载",
+      "微软 Mage-VL 多模态视觉语言模型 182 点赞 27 万下载"
+    ],
+    "ai-community": [
+      "开发者对 AI 是否真正可靠保持高度警惕",
+      "OpenAI 新定价策略引发工程化成本讨论",
+      "Cursor 工具链实现无 API Key 代理工具调用",
+      "AI 代理评估框架揭示真实代理与理想模型差距",
+      "验证循环替代对 AI 准确性的盲目信任",
+      "上下文膨胀成为 agentic pipelines 静默失败模式"
+    ],
+    "ai-steam": [
+      "Shift At Midnight 新作 ¥38.00 登顶热门榜",
+      "Marvel's Spider-Man 2 热门第二 ¥266.66",
+      "Baldur's Gate 3 持续热销 ¥208.60",
+      "Cyberpunk 2077 特价 -70% 仅 ¥89.40",
+      "Marvel's Spider-Man Remastered 特价 -60% ¥165.60",
+      "It Takes Two 特价 -70% 仅 ¥59.40"
+    ]
+  },
+  "en": {}
+}
