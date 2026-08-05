@@ -1,0 +1,51 @@
+# ArXiv AI 研究日报 2026-08-06
+
+> 数据来源: [ArXiv](https://arxiv.org/) (cs.AI, cs.CL, cs.LG) | 共 50 篇论文 | 生成时间: 2026-08-05 23:02 UTC
+
+---
+
+用户现在需要我根据给的50篇2026年8月4日发布的AI论文做一份研究日报，首先得严格按要求来，四个部分：今日速览、重点论文（分四个主题类，每篇要标题加链接、作者缩写、一句话说明）、研究趋势信号、值得精读。
+首先先搞今日速览，得抓最核心的方向，首先看今天论文里的点：比如多模态LLM的并行扩展、测试时推理缩放的新方法、LLM的社会推理与对齐、还有工具增强推理、递归自我改进这些？对，要3-5句话，概括最值得关注的方向。比如开头说今日投稿聚焦LLM推理效率、对齐安全、多模态与智能体能力三个核心方向，然后提一下ParVL的多模态并行扩展解决了之前的串行开销问题，TurnSight解决了工具推理的细粒度信用分配，还有WorldCup的无泄漏评估、递归自我改进的基准，还有量子与LLM的分离证明？对，凑个4句差不多。
+然后是重点论文，要选8-15篇，分四个主题：🧠大语言模型、🤖智能体与推理、🔧方法与框架、📊应用。每个主题里挑重要的。
+首先🧠大语言模型这个类别，能选哪些？首先ParVL（多模态架构扩展，解决之前串行的问题），然后When Attention Goes Blind那个ALiBi的缺陷，这个很重要，很多人用ALiBi不知道这个下溢问题，然后Logic Before Language那个预训练用形式推导提升可压缩性和能力，还有Omega-S那个微调的韧性惩罚，不用存旧权重就能防灾难性遗忘，还有Intertemporal Preference Steering那个Qwen3的时间偏好操控，还有那个Separating quantum circuits from classical LLMs，证明经典和量子的分离，这个也是架构相关的？对，还有那个Cross-Model KV Cache Transfer，跨模型复用KV缓存，这个也是LLM推理效率相关的，属于架构训练对齐里的？等下分清楚：
+🧠 大语言模型（架构、训练、对齐、评估）类：
+1. ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs 链接是http://arxiv.org/abs/2608.04010v1，作者是Yang Yang, Qinyu Zhao, Mouxiang Chen et al. 说明：提出多模态LLM的并行扩展与可扩展计算分配方案，突破传统仅扩展参数或串行推理的 overhead 限制，对多模态大模型落地有直接价值。
+2. When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings 链接http://arxiv.org/abs/2608.03994v1，作者Christopher Schröder, Lukas Gienapp, Ferdinand Schlatt et al. 说明：首次揭示ALiBi位置编码的线性偏置缩放浮点下溢缺陷，会导致注意力头部分失效，为使用ALiBi的模型训练与部署提供了关键的避坑指南。
+3. Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility 链接http://arxiv.org/abs/2608.03930v1，作者Jo-Ku Cheng, Nikolaos Aletras, Marco Valentino 说明：提出用形式演绎数据进行预预训练，让模型在自然语言习得前先掌握逻辑推导能力，既提升下游任务表现又增强模型可压缩性，为小模型训练提供了新范式。
+4. Omega-S: A Functional Resilience Index for LLM Fine-Tuning 链接http://arxiv.org/abs/2608.03887v1，作者Alberto Acedo 说明：推出仅需权重矩阵即可计算的微调韧性惩罚项Omega-S，无需存储旧权重或任务数据就能缓解灾难性遗忘，可直接嵌入现有训练流程，大幅降低持续学习的成本。
+5. Intertemporal Preference Steering in Qwen3 via Contrastive Activation Addition 链接http://arxiv.org/abs/2608.03892v1，作者Michal Mráz, Justin Shenk 说明：在Qwen3-32B中发现时间horizon的线性表征，可通过对比激活添加调控模型的短期/长期偏好，为LLM对齐中的价值时序偏好调控提供了可解释的技术路径。
+6. Separating quantum circuits from classical LLMs 链接http://arxiv.org/abs/2608.03962v1，作者Srinivasan Arunachalam, Arkopal Dutt, Hari Krovi et al. 说明：从理论层面证明了低深度量子计算与经典Transformer/扩散语言模型架构的无条件分离，明确了当前经典LLM无法模拟的低复杂度量子任务边界。
+7. Cross-Model KV Cache Transfer in LLM Families: A Closed-Form Linear Mapping for Prefill Reuse 链接http://arxiv.org/abs/2608.03893v1，作者Taekyung Heo, Rasoul Shafipour, Ritchie Zhao et al. 说明：提出同系列LLM间的跨模型KV缓存迁移方案，通过闭式线性映射实现Prefill阶段的计算复用，可大幅降低模型切换、级联推理时的首字延迟，对生产部署有极高实用价值。
+对，这个类7篇，够了。
+然后是🤖 智能体与推理（规划、工具使用、多智能体、思维链）类，选哪些？首先TurnSight（工具推理的细粒度自蒸馏），然后ReflectRL（用负轨迹反思提升推理），然后SocietyBench（社会事件推理的基准），WorldCup Arena（无泄漏的LLM预测评估），还有PAST-Bench（递归自我改进的个人智能体基准），还有A game theory for foundation models那个（基础模型的对齐博弈论），还有那个TACT？不，TACT是应用里的？哦对，还有那个Should We Type or Talk to LLM Agents？是输入模态的，不过属于智能体交互？或者先挑核心的：
+1. TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning 链接http://arxiv.org/abs/2608.04007v1，作者Changle Qu, Sunhao Dai, Hengyi Cai et al. 说明：提出面向工具增强推理的轮级事后自蒸馏方法，突破传统轨迹级监督的细粒度信用分配限制，在长周期工具交互场景下显著提升LLM的推理准确率。
+2. ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning 链接http://arxiv.org/abs/2608.03972v1，作者Jinhe Bi, Chennan Zhou, Zengjie Jin et al. 说明：提出利用专家模型的错误负轨迹进行反思训练的方法，解决专家模型在难题上失效时传统轨迹引导方法失效的问题，提升了LLM在复杂推理任务上的泛化能力。
+3. PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents 链接http://arxiv.org/abs/2608.04003v1，作者Shuhan Xue, Zixin Ding, Yichen Shen et al. 说明：首个针对个人智能体递归自我改进能力的基准测试，验证了智能体跨会话积累经验、演化能力的效果，为下一代自主进化智能体的研究提供了评估框架。
+4. SocietyBench: Forecasting Counterfactual Social-World Evolution 链接http://arxiv.org/abs/2608.04009v1，作者Zhenran Wang, Zhonghan Bian, Jinsong Li et al. 说明：推出面向LLM社会推理能力的反事实社会事件预测基准，填补了当前LLM评估仅关注任务完成、忽视社会事件演化预测能力的空白。
+5. A game theory for foundation models shows new paths to rational cooperation through similarity inference 链接http://arxiv.org/abs/2608.03958v1，作者Alexander Meulemans, Maciej Wołczyk, Marissa A. Weis et al. 说明：提出面向基础模型的博弈论框架，通过相似性推理实现多智能体的理性合作，为多LLM系统的安全对齐与协作提供了理论支撑。
+6. WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament 链接http://arxiv.org/abs/2608.04008v1，作者Zhenran Wang, Zhonghan Bian, Jinsong Li et al. 说明：设计基于2026世界杯实时赛事的无泄漏LLM预测评估框架，彻底避免了传统回顾式基准的数据 memorization 问题，为LLM现实世界预测能力提供了更可靠的评估方式。
+这个类6篇，够了。
+然后是🔧 方法与框架（新技术、基准测试、效率优化）类，选哪些？首先Test-Time Scaling in Reasoning LLMs那个（测试时缩放的综述），然后Interpretable Adaptive Sampling for LLM Test-Time Scaling（可解释的自适应测试时采样），然后Agogic（音乐生成的性能定时token），然后string2string Studio（交互式字符串算法平台），然后Video-DeepResearch（多模态深度研究智能体），然后SciRet（科学RAG的计算感知评估），还有那个Information-Geometric Forward Policy Training in GFlowNets（GFlowNet的信息几何训练），还有那个Sparse Weight Decomposition for Efficient Circuit Extraction（稀疏权重分解的可解释电路提取），哦还有那个Latent Reward Registers for Diffusion Preference Alignment（扩散模型对齐的潜在奖励寄存器），还有那个Robust Low-Tubal-Rank Tensor Completion那个？不，那个是张量补全，可能没那么核心。挑重要的：
+1. Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility 链接http://arxiv.org/abs/2608.04001v1，作者Mohsen Hariri, Weicong Chen, Nahal Shahini et al. 说明：首份系统梳理测试时推理缩放（Test-Time Scaling）技术的综述，统一了不同推理算法（如链式思考、多数投票、蒙特卡洛树搜索等）的定义与评估标准，解决了该领域术语混乱、可比性差的问题。
+2. Interpretable Adaptive Sampling for LLM Test-Time Scaling 链接http://arxiv.org/abs/2608.03961v1，作者Mobina Kashaniyan, Ali Jannesari 说明：提出可解释的自适应测试时采样方法，根据问题难度动态分配推理计算量，替代固定预算的采样方案，在保证准确率的同时大幅降低无效计算开销。
+3. Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent 链接http://arxiv.org/abs/2608.03979v1，作者Zhen Fang, Yu Zeng, Wenxuan Huang et al. 说明：将多模态深度研究智能体从静态图像拓展到连续视频流场景，识别了当前模型的多模态偏置与时空 grounding 两大核心瓶颈，为下一代多模态研究智能体的设计指明了方向。
+4. SciRet: A Compute-Aware Empirical Study of Retrieval and Reranking for Scientific RAG 链接http://arxiv.org/abs/2608.03860v1，作者Kaysarul Anas Apurba, Md. Hasibul Hasan, Rofiqul Alam Shehab et al. 说明：首个面向科学RAG的计算感知实证研究，在不同规模语料库下验证了检索与重排序模块的性能-开销权衡，为科学领域RAG系统的落地提供了可复用的评估基准。
+5. Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation 链接http://arxiv.org/abs/2608.03999v1，作者Junhao Chen, Mingjin Chen, Jingjia Mao et al. 说明：提出面向LLM原生符号音乐生成的性能定时音乐token，在控制模型、数据、预算不变的前提下剥离了tokenization方案的影响，为音乐生成模型的表征研究提供了干净的对照基准。
+6. Sparse Weight Decomposition for Efficient Circuit Extraction 链接http://arxiv.org/abs/2608.03913v1，作者Chuanhao Yan, Xuhan Huang, Yawen Duan et al. 说明：提出稀疏权重分解方法，无需训练稀疏模型即可从 dense Transformer 中提取可解释电路，解决了传统电路提取方法计算开销大、保真度低的两大痛点，推动了LLM可解释性研究的发展。
+这个类6篇，也够了。
+然后是📊 应用（垂直领域、多模态、代码生成、其他落地）类，选哪些？首先CARE-X（医疗影像VLM），然后BanglaWild（孟加拉语场景文本识别），然后MultiGlobeQA（多语言地理空间推理基准），然后ADMITBench（工业LLM建议的安全性评估框架），然后CRS-Triage（临床分诊的置信度感知方法），然后Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?（代码优化的LLM应用），然后TACT（英语自适应辅导的LLM应用），还有那个Equivariant Music Transformer（ equivariant的音乐Transformer），还有那个Assessment of Conditional Diffusion Model for Histopathology（病理图像生成的评估），还有那个Operationally Feasible Synthetic Power-Grid Scenarios（电力系统场景生成），挑核心的：
+1. CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement 链接http://arxiv.org/abs/2608.03890v1，作者Mercy Prasanna Ranjit, Anirban Porya, Sathvik Joel et al. 说明：提出面向临床可用胸部X光VLM的框架，通过辅助监督、奖励对齐和工具增强测量实现发现分类、空间定位与解剖测量一体化，突破了当前医学VLM仅能做报告生成的局限，具备临床落地价值。
+2. Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss? 链接http://arxiv.org/abs/2608.03983v1，作者Hailong Jiang, Feng Yu, Emran Hossain et al. 说明：验证了LLM可以从C/C++代码的异构上下文恢复编译器丢失的语义优化机会，生成符合契约的优化代码，为LLM辅助编译器优化提供了实证支撑。
+3. MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning 链接http://arxiv.org/abs/2608.03882v1，作者Martin Böckling, Elizaveta Nosova, Heiko Paulheim et al. 说明：推出多语言、全球多元的地理空间推理基准，覆盖不同文化背景下的地理知识，揭示了当前LLM在几何拓扑计算上的普遍短板，为地理相关AI应用提供了评估标准。
+4. ADMITBench: A Safety-Governed Reference Framework for Evaluating the Admissibility of Industrial LLM Advisories 链接http://arxiv.org/abs/2608.03866v1，作者Yash Misra, Javal Vyas, Siddharth Gutta et al. 说明：推出工业场景LLM建议的安全性评估框架，通过版本化的安全契约验证建议是否基于可用证据、符合操作许可，为LLM在高风险工业场景的落地提供了安全评估标准。
+5. BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models 链接http://arxiv.org/abs/2608.03884v1，作者Sadab Shiper, Tawsif Tashwar Dipto, Mir Md Inzamam et al. 说明：首个真实场景孟加拉语场景文本识别基准，同时评估传统OCR和VLM的性能，填补了低资源语言场景文本识别领域的评估空白，推动OCR技术在多语言场景的普及。
+6. Equivariant Music Transformer 链接http://arxiv.org/abs/2608.03920v1，作者Zixun Guo, Simon Dixon 说明：提出等变音乐Transformer，解决标准音乐Transformer对时间平移、音高移调不变的等变性问题，生成的音乐表征更符合人类的音乐认知规律，推动了AI音乐生成的可解释性发展。
+这个类6篇，总共重点论文7+6+6+6=25？哦用户说8-15？哦对，我选多了，得精简，每个类选3-4篇，总共12篇左右就行。哦对，用户要求8-15篇，所以得砍。比如大语言模型类选4篇：ParVL、ALiBi缺陷、Omega-S、跨模型KV缓存转移。然后智能体与推理类选4篇：TurnSight、ReflectRL、PAST-Bench、WorldCup Arena。然后方法与框架类选3篇：Test-Time Scaling综述、可解释自适应测试时采样、SciRet。然后应用类选3篇：CARE-X、工业LLM建议安全评估、代码语义优化。哦这样就4+4+3+3=14篇，符合要求。对，刚才选太多了，要精简到8-15，所以每个类挑最核心的。
+接下来是研究趋势信号，100-200字，从今天的论文里看新兴方向。比如什么？首先，测试时推理缩放的技术标准化，还有LLM的细粒度可控对齐（比如时间偏好、价值对齐），还有多模态与垂直场景的深度融合（医疗、工业、科学），还有LLM可解释性与安全评估的体系化，还有递归自我改进的智能体研究 emerging？对，凑个150字左右：“今日投稿凸显三大新兴研究方向：一是LLM测试时推理缩放的规范化与自适应，从固定预算转向按难度动态分配计算，同时统一评估标准；二是垂直场景的LLM安全与可控对齐，覆盖工业、医疗、社会推理等高敏感领域，强调可解释、可审计的决策机制；三是自主进化智能体的基础能力研究，聚焦递归自我改进、多模态深度研究等长期能力，相关基准与理论框架正在快速完善。”
+然后是值得精读，2-3篇，要说明理由。比如选哪几篇？首先Test-Time Scaling那个综述，因为现在测试时缩放是热方向，很多方法乱起名，这个综述统一了定义，适合入门。然后TurnSight，因为工具增强推理是LLM落地的核心能力，这个解决了长周期工具交互的细粒度信用分配，方法实用。然后CARE-X？或者PAST-Bench？或者那个ALiBi的缺陷？哦ALiBi那个也很重要，很多人在用，但是不知道那个下溢问题。或者选Test-Time Scaling综述、TurnSight、CARE-X？理由的话：
+1. 《Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility》：当前测试时推理缩放领域术语混杂、方法可比性差，该论文首次系统梳理了不同推理范式的定义、评估维度与复现要点，是该领域研究的必读入门文献，可帮助研究者快速把握技术脉络。
+2. 《TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning》：工具使用是LLM从“对话模型”转向“实用智能体”的核心能力，该论文提出的轮级自蒸馏方法有效解决了长周期工具交互中信用分配难、训练效率低的痛点，方法设计简洁且实验验证充分，对智能体训练实践有直接参考价值。
+3. 《When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings》：ALiBi是当前主流长文本模型广泛采用的位置编码方案，该论文首次揭示其
+
+---
+*本日报由 [agents-radar](https://github.com/stevenko2002/agents-radar) 自动生成。*
