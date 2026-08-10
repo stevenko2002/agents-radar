@@ -1,0 +1,53 @@
+# Steam 游戏速报 2026-08-11
+
+> 数据来源: [Steam](https://store.steampowered.com) | 热门 10 款, 特价 10 款 | 生成时间: 2026-08-10 22:15 UTC
+
+---
+
+# Steam 遊戲速報（2026-08-11 中國區）
+## 熱門遊戲（共10款）
+1. **Cyberpunk 2077** - ¥298.00
+   https://store.steampowered.com/app/1091500/
+2. **Cyberpunk 2077: Ultimate Edition** - ¥411.24
+   https://store.steampowered.com/app/32470/
+3. **Shift At Midnight** - ¥38.00
+   https://store.steampowered.com/app/3722330/
+4. **Big Walk** - ¥58.50
+   https://store.steampowered.com/app/1478500/
+5. **Wallpaper Engine** - ¥22.90
+   https://store.steampowered.com/app/431960/
+6. **Split Fiction** - ¥128.70
+   https://store.steampowered.com/app/2001120/
+7. **Cyberpunk 2077: Phantom Liberty** - ¥149.00
+   https://store.steampowered.com/app/2138330/
+8. **It Takes Two** - ¥59.40
+   https://store.steampowered.com/app/1426210/
+9. **Big Walk and PEAK** - ¥67.50
+   https://store.steampowered.com/app/78920/
+10. **PEAK** - ¥16.50
+    https://store.steampowered.com/app/3527290/
+
+## 特價遊戲（共10款）
+1. **Big Walk** - ¥58.50（-25%）
+   https://store.steampowered.com/app/1478500/
+2. **PEAK** - ¥16.50（-50%）
+   https://store.steampowered.com/app/3527290/
+3. **Split Fiction** - ¥128.70（-35%）
+   https://store.steampowered.com/app/2001120/
+4. **It Takes Two** - ¥59.40（-70%）
+   https://store.steampowered.com/app/1426210/
+5. **IRON NEST: Heavy Turret Simulator** - ¥44.25（-25%）
+   https://store.steampowered.com/app/2950790/
+6. **Pax Autocratica** - ¥87.98（-17%）
+   https://store.steampowered.com/app/1067360/
+7. **Machine Party** - ¥28.05（-15%）
+   https://store.steampowered.com/app/4108000/
+8. **ReStory: Chill Electronics Repairs** - ¥49.50（-10%）
+   https://store.steampowered.com/app/3812600/
+9. **Escape the Backrooms** - ¥29.60（-20%）
+   https://store.steampowered.com/app/1943950/
+10. **Tom Clancy's Ghost Recon® Wildlands** - ¥10.40（-95%）
+    https://store.steampowered.com/app/460930/
+
+---
+*本日报由 [agents-radar](https://github.com/stevenko2002/agents-radar) 自动生成。*
