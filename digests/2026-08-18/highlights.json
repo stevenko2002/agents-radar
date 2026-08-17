@@ -1,0 +1,70 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.234新增环境变量与selection:clear键位，修复MCP注入与内存泄漏",
+      "OpenAI Codex 0.148.0-alpha.21新增Windows沙盒加固与TUI性能优化，含诊断工具",
+      "Qwen Code v0.21.13新增Web Shell拖拽粘贴附件与对话分支，修复MIME兼容",
+      "Gemini CLI v0.56.0-nightly修复TypeScript编译与TUI无限卡死，合入关键PR",
+      "llama.cpp b10455-b10472修复AMD APU显存误判，新增Granite滑窗注意力支持",
+      "Pi v0.9.9修复shell卡死bug，支持DeepSeek V4分时动态定价与嵌套技能"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.234 adds project dir env var",
+      "Codex rust-v0.148.0-alpha.21 pre-release shipped",
+      "Gemini CLI v0.56.0.20260817 nightly out",
+      "Kimi CLI ships --starting-prompt flag in PR #864",
+      "Pi fixes Anthropic refusal fallback in PR #8258",
+      "Pi fixes nested markdown skill discovery in PR #8255"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs updated today",
+      "91 PRs merged despite no new releases",
+      "OpenClaw #120404: memory-flush schema compliance fix",
+      "Agent ecosystem spans 13+ projects tracked",
+      "Maintainer focus on session state reliability",
+      "Multi-channel support gaps discussed in community"
+    ],
+    "ai-trending": [
+      "Strix AI pentesting tool: +656 stars today",
+      "AlexsJones/llmfit: +239 stars, Rust model selector",
+      "akitaonrails/ai-memory: +207 stars, agent memory",
+      "AI cybersecurity skills: +156 stars",
+      "Three trending repos written in Rust",
+      "Agent-native infrastructure leads GitHub trending"
+    ],
+    "ai-web": [
+      "OpenAI joins Ports Pike Project maritime initiative",
+      "Anthropic published zero new content today",
+      "Only one new OpenAI announcement in update",
+      "Focus shifts to enterprise vertical partnerships",
+      "No model or product updates from either lab",
+      "Maritime logistics AI tooling may follow"
+    ],
+    "ai-hn": [
+      "AI;DR critique tops HN at 409 points, 243 comments",
+      "OpenAI GPT 5.6 Sol vision model release buzz",
+      "Anthropic open source stance debated",
+      "Llama.cpp v0.1.0 release trending",
+      "Fake AI manipulation think tank exposed",
+      "Voice AI and agent tools gain traction"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 10,688 weekly likes",
+      "Kimi-K3 tops downloads at 2.16M this week",
+      "DeepSeek-V4-Flash massive 1.97M downloads",
+      "MiniMax-H3 dominates video generation category",
+      "Muse-Glimmer-30B emerges as VLM contender",
+      "GGUF and NVFP4 quant variants in high demand"
+    ],
+    "ai-community": [
+      "AI-assisted code audit gaps flagged by developers",
+      "MCP eval testing blind spots discussed",
+      "OpenAI-Hugging Face security breach coverage",
+      "Amazon rare book AI training concerns raised",
+      "Sudden LLM retirements break production systems",
+      "Hidden token costs plague agent workflows"
+    ]
+  }
+}
