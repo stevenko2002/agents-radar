@@ -1,0 +1,32 @@
+# Steam 游戏速报 2026-08-23
+
+> 数据来源: [Steam](https://store.steampowered.com) | 热门 10 款, 特价 10 款 | 生成时间: 2026-08-22 22:15 UTC
+
+---
+
+**熱門遊戲**  
+1. How to Fish - ¥20.46 - https://store.steampowered.com/app/4001890/  
+2. Phantom Blade Zero - ¥268.00 - https://store.steampowered.com/app/4115450/  
+3. Black Myth: Wukong - ¥187.60 - https://store.steampowered.com/app/2358720/  
+4. Phantom Blade Zero - ¥268.00 - https://store.steampowered.com/app/4115450/  
+5. Call of Duty®: Modern Warfare® 4 - ¥298.00 - https://store.steampowered.com/app/4435490/  
+6. Call of Duty®: Modern Warfare® III - ¥74.50 - https://store.steampowered.com/app/3595270/  
+7. Call of Duty®: Modern Warfare® 4 - ¥298.00 - https://store.steampowered.com/app/4435490/  
+8. Survival Log - ¥39.10 - https://store.steampowered.com/app/4164790/  
+9. Wallpaper Engine - ¥22.90 - https://store.steampowered.com/app/431960/  
+10. How to Fish X Gamble With Your Friends - ¥48.11 - https://store.steampowered.com/app/83697/  
+
+**特價遊戲**  
+1. How to Fish - ¥20.46 (-38%) - https://store.steampowered.com/app/4001890/  
+2. Black Myth: Wukong - ¥187.60 (-30%) - https://store.steampowered.com/app/2358720/  
+3. Kingdom Come: Deliverance II - ¥91.20 (-60%) - https://store.steampowered.com/app/1771300/  
+4. DAVE THE DIVER - ¥40.00 (-50%) - https://store.steampowered.com/app/1868140/  
+5. Persona 5 Royal - ¥80.40 (-70%) - https://store.steampowered.com/app/1687950/  
+6. Persona 3 Reload - ¥93.80 (-65%) - https://store.steampowered.com/app/2161700/  
+7. Survival Log - ¥39.10 (-15%) - https://store.steampowered.com/app/4164790/  
+8. Zombie Army 4: Dead War - ¥8.40 (-95%) - https://store.steampowered.com/app/694280/  
+9. Total War: WARHAMMER III - ¥44.70 (-85%) - https://store.steampowered.com/app/1142710/  
+10. Vacation Cafe Simulator - ¥69.30 (-10%) - https://store.steampowered.com/app/3196440/
+
+---
+*本日报由 [agents-radar](https://github.com/stevenko2002/agents-radar) 自动生成。*
