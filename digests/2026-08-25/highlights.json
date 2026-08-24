@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code发布AWS Bedrock部署示例",
+      "Claude Code社区聚焦Fable 5灰显等三大核心问题",
+      "OpenAI Codex发布两个SDK版本引入改进async runtime",
+      "Gemini CLI发布v0.56.0-nightly预览版",
+      "Gemini CLI修复GIT_CONFIG环境变量脱敏导致Git解析失败",
+      "Gemini CLI P1级Bug集中在子代理状态误报成功"
+    ],
+    "ai-agents": [
+      "OpenClaw发布v2026.8.1-beta.3引入GPT-5.6模型支持",
+      "OpenClaw单日1000条Issue/PR更新社区活跃度极高",
+      "OpenClaw稳定性风险聚焦消息丢失等四大领域",
+      "OpenClaw PR流水线健康75条PR合并/关闭",
+      "多个XL重构型PR已落地架构治理向纵深推进",
+      "用户痛点聚焦企业级自托管与多模态交互"
+    ],
+    "ai-trending": [
+      "OpenAI Codex单日近2000 stars对决Claude Code",
+      "ollama已支持Kimi-K2.6、GLM-5.2等国产新模型",
+      "langchain自我定位升级为Agent Engineering Platform",
+      "hermes-agent强调随用户共同进化的个性化方向",
+      "learn-claude-code从零构建nano claude-code教学项目",
+      "ECC Agent Harness覆盖Skills等核心模块"
+    ],
+    "ai-web": [
+      "Anthropic Economics团队追踪Claude全球使用情况",
+      "Claude在15个目标中成功设计14个蛋白质结合剂",
+      "Fable 5生物学安全机制优化降级请求减少约85%",
+      "Claude未来文本将自动嵌入不可感知水印信息",
+      "Claude在NMR和LC-MS数据分析任务中表现突出",
+      "Anthropic强化生命科学与伦理AI领域布局"
+    ],
+    "ai-hn": [
+      "Anthropic Claude大规模服务中断引发可靠性讨论",
+      "OpenAI大幅降价被开发者视为价格战信号",
+      "Sander Dieleman探讨连续扩散语言模型新范式",
+      "神秘模型Ox-Alpha实为智谱GLM社区对命名不满",
+      "Sebastian Raschka深度拆解Claude文本水印机制",
+      "Claude Code绕过Kindle导出限制引发关注"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B点赞12505下载264万成社区微调基础",
+      "DeepSeek-V4-Flash-0731下载327万推理效率高",
+      "MiniMax-H3点赞4416下载446万为强大图文到视频生成模型",
+      "Qwen3.8-27B-GGUF量化版下载超700万便于本地部署",
+      "JonathanColetti去审查版Qwen广受极客开发者欢迎",
+      "Ornith-1.5-35B-A3B为MoE模型推理成本可控"
+    ],
+    "ai-community": [
+      "揭示AI代理性能瓶颈根源在内存机制而非推理逻辑",
+      "帮助开发者识别避免AI项目过度复杂架构陷阱",
+      "强调测试通过不代表业务逻辑或契约符合预期",
+      "分享真实项目中使用Claude Code编程实用技巧",
+      "低成本大规模执行代理任务暴露单元测试盲点",
+      "提醒部署RAG模型时需重点验证信息准确性"
+    ],
+    "ai-steam": [
+      "How to Fish以¥20.46登顶热门游戏榜首",
+      "Phantom Blade Zero定价¥268.00备受关注",
+      "Black Myth: Wukong以30%折扣促销价¥187.60",
+      "GTA V Enhanced以56%折扣仅需¥98.56",
+      "NBA 2K27定价¥298.00登热门榜",
+      "Euro Truck Simulator 2以75%折扣仅需¥22.00"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenCode v1.18.22 fixes device-login URL handling",
+      "Pi v0.84.3 adds native PowerShell tool",
+      "OpenAI Codex ships v0.149.1 + alpha patches",
+      "Copilot CLI shows data-retention warnings",
+      "Claude Code, Gemini CLI tracked among 12 tools",
+      "Managed AWS Bedrock credentials added to Codex"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.8.1-beta.3 supports GPT-5.6 family",
+      "Adds Puppeteer-compatible CDP relay for Chrome",
+      "500 issues updated in past 24 hours",
+      "500 PRs touched, 425 still open",
+      "Backlog leans to P1 reliability defects",
+      "Issue closure velocity just ~5%"
+    ],
+    "ai-trending": [
+      "OpenAI codex tops trending at +1,990 stars",
+      "Hermes-agent gains +899 today",
+      "awesome-gpt-image-2 biggest gainer +2,442",
+      "free-claude-code pools 1.3B+ tokens",
+      "awesome-agent-skills lists 1,000+ skills",
+      "andrej-karpathy-skills harness gains +491"
+    ],
+    "ai-web": [
+      "Fable 5 safeguards cut biology fallbacks 85%",
+      "Text watermarking meets EU AI Act deadline",
+      "Protein design binder success hits 22-35%",
+      "Anthropic posts 4 new articles today",
+      "OpenAI adds only metadata-only entry",
+      "Anthropic Economic Index tracks AI adoption"
+    ],
+    "ai-hn": [
+      "Xiaomi CPU claim tops HN at 645 points",
+      "CUDA targets RISC-V at Hot Chips 2026",
+      "GPT-5.6 Sol price cut sparks debate",
+      "Repeated Claude outages raise reliability fears",
+      "Backdoor skepticism in open-weight models",
+      "Continuous diffusion language models explored"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B sweeps 20 of 30 trending slots",
+      "MiniMax-H3 video model: 4.4M downloads",
+      "DeepSeek-V4-Flash keeps strong momentum",
+      "Ornith-1.5 MoE family gains traction",
+      "Focus shifts to local Qwen3.8 deployment",
+      "Lightricks LTX-2.5 heats up video gen"
+    ],
+    "ai-community": [
+      "Dev.to doubts test and benchmark reliability",
+      "Agents' real problem is memory, not reasoning",
+      "$0.49 test runs 170 goals, finds 10 bugs",
+      "Robot comment classifier sparks Lobsters talk",
+      "Over-engineering checklist draws 10 comments",
+      "Field tests expose eval blind spots"
+    ],
+    "ai-steam": [
+      "How to Fish tops Hong Kong sellers",
+      "Phantom Blade Zero lists at ¥268",
+      "Black Myth: Wukong discounted 30%",
+      "GTA V Enhanced hits -56% deal",
+      "Euro Truck Simulator 2 at -75% off",
+      "Cult of the Lamb -60% on sale"
+    ]
+  }
+}
