@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.257升级至Claude Fable 5.1（1 M上下文）",
+      "OpenAI Codex rust v0.152.0加入Vim‑mode搜索与交互式终端",
+      "Gemini CLI v0.59.0‑preview.0加强OAuth Issuer校验",
+      "GitHub Copilot CLI v1.0.83‑1新增Session四种排序与组织强制登录",
+      "Kimi Code CLI v1.50.0优化Header并提供一键迁移提示",
+      "Qwen Code CUA Driver v0.20.3发布三平台预编译二进制并完成签名"
+    ],
+    "ai-agents": [
+      "OpenClaw昨日活跃500 Issue/PR，社区讨论高涨",
+      "P1回归缺陷仍未修复，潜在生产风险",
+      "v2026.8.2推出Home 代理快捷键和UI预览",
+      "插件迁移 doctor --fix保留配置并提供回滚",
+      "新增主机名阻止列表提升浏览器插件安全",
+      "核心Context‑Map渲染优化，内存峰值下降约15%"
+    ],
+    "ai-trending": [
+      "OpenMAIC+3 122⭐引领多Agent教育热潮",
+      "scientific‑agent‑skills当日增⭐914，覆盖165领域",
+      "minimind展示64M模型2h完成训练，降低实验门槛",
+      "LangChain、Ollama、Transformers仍是Agent底层支柱",
+      "Milvus、Qdrant、Mem0保持RAG热点，新压缩方案headroom出现",
+      "AI Agent Harness项目如ECC、openclaude频繁登榜"
+    ],
+    "ai-web": [
+      "Anthropic推出Enterprise Frontier Safeguards，零数据保留+客户自托管",
+      "Claude文本水印技术公开，基于词概率调制不影响质量",
+      "发布模型失控整改措施并引入第三方独立审计METR",
+      "EFS首批适配Claude Code、Claude Enterprise等产品",
+      "水印实现不携带个人身份信息，推动行业统一标准",
+      "OpenAI仅更新四条企业元数据索引，信息受限"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.1与Mythos 5.1占据HN热榜，得分850+",
+      "系统卡披露模型算力、数据来源与安全边界",
+      "OpenAI Path to Astra路线图引发监管与竞争讨论",
+      "用户抱怨Claude Opus近期质量下降，引发回退讨论",
+      "Nori Robotics发布低成本类人机器人，引关注硬件开源栈",
+      "Show HN: HN Match Maker助力AI求职与招聘匹配"
+    ],
+    "ai-arxiv": [
+      "BLOOM‑WILT提出Logit Tilting实现低成本模型审计",
+      "Normalized Low‑Rank Adaptation提升LoRA收敛与算力效率",
+      "S3Gym展示LLM自测‑自判‑自改闭环",
+      "Aspire研究模型从模糊目标自演化能力",
+      "Model with No Head and Many Thoughts省去词头提升推理速度",
+      "Wrong Prediction Right Answer恢复隐藏推理证据"
+    ],
+    "ai-hf": [
+      "Qwen3.8‑27B下载量突破4.96M，保持榜首",
+      "GLM‑5.3获1466点赞、94 k下载，MoE指令模型热度高",
+      "OBLITERATED Qwen‑3.8‑27B微调版下载量达805 k",
+      "Uncensored GGUF版Qwen‑3.8‑27B下载 2.14M，引安全争议",
+      "Qwen‑3.8‑Flash‑Next轻量多模态模型获4630赞",
+      "MiniMax‑H3文本‑到‑视频模型受关注，下载量快速增长"
+    ],
+    "ai-community": [
+      "Dev.to指南《AI架构生存手册》帮助新手快速落地",
+      "《可信AI评估》提供可复现的评测流程",
+      "语义缓存被视为“伪AI”，提醒防止技术债",
+      "迁移旧LLM到AI Gateway的实战教程",
+      "DigitalOcean模型成本对比实验，最便宜模型获胜",
+      "Red Team发现Jailbreak后完整响应与防御流程"
+    ],
+    "ai-steam": [
+      "Red Dead Redemption 2特价‑75%，仅¥69.75",
+      "Sons Of The Forest降价‑70%，仅¥32.40",
+      "GTA V Enhanced特惠‑56%，仅¥98.56",
+      "Subnautica限时‑75%，仅¥37.25",
+      "Forza Horizon 6降价‑15%，仅¥253.30",
+      "Crimson Desert Enhanced‑20%，仅¥214.40"
+    ]
+  },
+  "en": {}
+}
