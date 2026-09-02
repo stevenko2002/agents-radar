@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.258 修复 macOS12 回滚",
+      "OpenAI Codex rust v0.153.0‑alpha.6 增加 REPL 元数据",
+      "Gemini CLI v0.59.0‑nightly 加强 Web Fetch 防 SSRF",
+      "GitHub Copilot CLI v1.0.83‑3 支持 Claude fable‑5.1",
+      "OpenCode v1.18.27 请求超时提升至5 min",
+      "Ollama v0.33.3‑rc1 引入提示缓存计数"
+    ],
+    "ai-agents": [
+      "OpenClaw 500 Issue/PR 高活跃度",
+      "子代理超时误判已修复 #126924",
+      "Gateway 状态管理防止会话丢失 #136146",
+      "沙盒插件安全加强 sessionActions #110102",
+      "CLI 参数校验阻止未知 proxy preset #136158",
+      "UI 性能优化降低长会话卡顿 #136396"
+    ],
+    "ai-trending": [
+      "Agent 工具 pony tail、atlas、hermes‑agent 超3k星",
+      "VoiceStudio 本地语音生成 +834星",
+      "RAG 项目 ragflow、mem0、qdrant 持续热度",
+      "Ollama、transformers、timesfm 框架星增长",
+      "Rust 项目 atlas、pdf‑inspector 受热捧",
+      "Lightricks/LTX‑2.5 文本‑到‑视频 +1.2k星"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Enterprise Frontier Safeguards (EFS)",
+      "EFS 实现零数据保留与实时误用检测",
+      "数据存储在客户自选云 完全可控",
+      "首批支撑 Claude Code、Claude Enterprise",
+      "Anthropic 发布《AI 劳动市场再培训》报告",
+      "OpenAI 今日无新内容 进入发布空窗"
+    ],
+    "ai-hn": [
+      "Meta Muse Spark 1.3 性能接近顶级引热议",
+      "GLM‑5.3 Uncensored 去审查争议激辩",
+      "Show HN Aura：Rust 编写自动化故障修复代理",
+      "Show HN Kit：轻量 Claude‑style 代码生成工具",
+      "Z 本地向量搜索层提供离线检索能力",
+      "社区聚焦 AI 代理安全与内容溯源"
+    ],
+    "ai-arxiv": [
+      "LLM‑as‑judge 提出八大攻击‑扰动框架",
+      "全局位宽分配方案降低量化损伤",
+      "SFT‑RL 标注预算最优分配理论",
+      "Fisher‑几何解释对齐脆弱性并调优",
+      "机制设计引入 AI 对齐新理论",
+      "CordisBench 基准评估 Agent 生命周期推理"
+    ],
+    "ai-hf": [
+      "Qwen3.8‑27B 27B 参数下载量领跑",
+      "GLM‑5.3 获 1.5k 点赞中文对话模型",
+      "Lightricks/LTX‑2.5 文本‑到‑视频 1.2M 下载",
+      "MiniMax‑H3 1080p 视频生成 5.5M 下载",
+      "Qwen3.8‑Flash‑Next 推理速率提升 2‑3×",
+      "10+ GGUF/FP8 量化模型登榜"
+    ],
+    "ai-community": [
+      "AI 代理安全可观测性讨论热烈",
+      "生产力提升与成本权衡成焦点",
+      "OpenAI Astra 与 Gemini 安全 Gate 受关注",
+      "Pair Programming 三工具对比文章热读",
+      "Execution Trees 调试模型提升定位效率",
+      "AI 网关性能瓶颈导致 400ms 延迟"
+    ],
+    "ai-steam": [
+      "GTA V Enhanced 特价降56%",
+      "Red Dead Redemption 2 降价75%",
+      "Onimusha: Way of the Sword 多次上榜",
+      "NBA 2K27 价位保持¥298",
+      "BOMBANANA! 特价降38%",
+      "Forza Horizon 5 降价60%"
+    ]
+  },
+  "en": {}
+}
