@@ -1,0 +1,77 @@
+{
+  "zh": {},
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.259 adds org-wide MCP servers",
+      "OpenAI Codex v0.153.1 gets GPT-6-Astra API support",
+      "Copilot CLI v1.0.83-4 adds MCP OAuth via CIMD",
+      "Qwen Code v0.23.0 shows git-state hints in UI",
+      "llama.cpp adds Metal sparse Flash Attention",
+      "Ollama and llama.cpp ship GBNF grammar fixes"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.1 adds Mermaid diagram rendering",
+      "OpenClaw sees 500 issues and PRs in 24 hours",
+      "SQLite and memory-core stability remain top concerns",
+      "Codex plugin node_modules issue resolved",
+      "Active stabilization phase after v2026.8.x",
+      "Mermaid enlarge previews on mobile apps"
+    ],
+    "ai-trending": [
+      "Anthropic skills repo anchors Agent Skills movement",
+      "Ponytail indie skill gains +2,138 stars daily",
+      "Caveman claims 65% token reduction",
+      "Humanizer strips AI-sounding traces from text",
+      "Magnitude powers self-hosted inference locally",
+      "TimesFM expands to time-series forecasting"
+    ],
+    "ai-web": [
+      "OpenAI publishes GPT-6 Astra safety overview page",
+      "Anthropic releases India Country Brief for Claude",
+      "India ranks #2 in Claude.ai global usage share",
+      "Indian users delegate more complex professional tasks",
+      "Per-capita AI adoption remains low in India",
+      "Both companies balance expansion with safety frameworks"
+    ],
+    "ai-hn": [
+      "GPT-6 Astra launch generates 985 HN points",
+      "Coordinated outage hits ChatGPT, Claude, and Grok",
+      "Astra sparks AGI-era debate across community",
+      "New reasoning technique alarms AI safety experts",
+      "ARC-AGI-3 benchmark data fuels controversy",
+      "Tensions rise between OpenAI and Anthropic"
+    ],
+    "ai-arxiv": [
+      "Post-training pipeline achieves coding competition gold",
+      "Co-cliff extracts rewards from first mistake only",
+      "LLMs can now control their own attention",
+      "FrB100-40 SAT benchmark solved after 20 years",
+      "Low-resource style-transfer method introduced",
+      "Gradient lower bounds and 2-bit weight decoding advance"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 5.25M+ downloads",
+      "GLM-5.3-Flash gains 517K downloads fast",
+      "MiniMax-H3 video model surpasses 5M downloads",
+      "GLM-5.3 full variant draws Chinese research interest",
+      "Qwen3.8-Flash-Next combines vision and efficiency",
+      "Qwen3.8 family dominates Hugging Face rankings"
+    ],
+    "ai-community": [
+      "Self-improving agents stall — search strategy broken",
+      "Developer glossary covers MCP and agentic loops",
+      "Forensic receipts shift from trusted to proven",
+      "Cheap-model routing evaluation shows mixed results",
+      "Rumor of bug surfaces real exploits online",
+      "US amicus brief raises stakes in copyright case"
+    ],
+    "ai-steam": [
+      "Onimusha Way of the Sword dominates top 3 spots",
+      "NBA 2K27 holds strong at mid-tier pricing",
+      "RDR2 drops 75% to just ¥69.75",
+      "Bombana! tops deals at -38% discount",
+      "Sons Of The Forest down 70%",
+      "Final Fantasy VII Remake trilogy edition sells well"
+    ]
+  }
+}
