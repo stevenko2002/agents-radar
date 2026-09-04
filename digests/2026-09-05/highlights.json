@@ -1,0 +1,143 @@
+{
+  "zh": {
+    "ai-cli": [
+      "llama.cpp v0.4.0发布，支持Qwen3.8-Flash-Next",
+      "Claude Code v2.1.261新增组织策略诊断行",
+      "Pi v0.85.0支持per-turn思考状态持久化",
+      "Copilot CLI修复PowerShell沙盒安全回归",
+      "Codex rust-v0.153.3加入GPT-6-Astra路由",
+      "Gemini CLI强化MCP OAuth身份冒用防护"
+    ],
+    "ai-agents": [
+      "OpenClaw日均处理500 Issues与PR",
+      "子代理任务静默丢失成核心痛点",
+      "compaction内存开销优化已合并",
+      "Workboard查询效率从9次降至1次",
+      "修复Discord长消息跨边界代码保留",
+      "System Agent共享session key问题关闭"
+    ],
+    "ai-trending": [
+      "Anthropic skills仓库与hermes-agent冲榜",
+      "mattpocock/skills日增星2757全场最高",
+      "ponytail日增星1683获社区关注",
+      "ECC性能优化系统日增星1139",
+      "TimesFM填补时序预测开源空白",
+      "humanizer去除AI痕迹日增星1132"
+    ],
+    "ai-web": [
+      "Claude 11天完成费马大定理形式化证明",
+      "Anthropic发布印度AI经济指数简报",
+      "Anthropic密集发布4篇研究内容",
+      "OpenAI仅释放GPT-6 Astra元数据",
+      "职业再培训项目效果研究上线",
+      "Claude主导数学形式化里程碑式突破"
+    ],
+    "ai-hn": [
+      "OpenAI agent消息板事件引1366分热议",
+      "费马大定理证明获358分社区关注",
+      "质疑LLM next-token预测器心智模型",
+      "TERMy无LLM终端助手78分引关注",
+      "安全议题集中爆发社区焦虑升温",
+      "GLM-5.3-Flash fast weights架构解读"
+    ],
+    "ai-arxiv": [
+      "编译即训练范式将自然语言转为本地NN",
+      "CoT推理链可读性不等于可解释性",
+      "预训练辅助视角显著提升学习效果",
+      "表征对齐实现可泛化安全行为",
+      "指令重复作为推理时轻量控制原语",
+      "ESPO解决进化提示膨胀瓶颈问题"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B下载突破573万霸榜",
+      "MiniMax-H3单周下载破500万",
+      "LTX-2.5视频生成下载139万",
+      "DeepSeek V4 Flash Vision快速崛起",
+      "GLM-5.3新MoE架构下载30万",
+      "Qwen3.8-Flash-Next官方量化获4869赞"
+    ],
+    "ai-community": [
+      "AI Agent vs AI Systems架构辩论升温",
+      "AI生成测试复现的是模型盲区",
+      "5款企业级LLM网关对比评测",
+      "10000 Agent零Token反直觉架构",
+      "ChatGPT无网Agent流入Hugging Face",
+      "审计工具单样本零值误报案例"
+    ],
+    "ai-steam": []
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.261 adds /status org diagnostics",
+      "OpenAI Codex hotfix adds gpt-6-astra to Bedrock",
+      "Gemini CLI hardens OAuth and filesystem sandbox",
+      "Copilot CLI v1.0.84 fixes PowerShell and cred bugs",
+      "OpenCode v1.18.28 forwards session ID as header",
+      "New digest covers 12 AI CLI tools"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and PRs in 24h",
+      "PR #137184 cuts compaction latency one pass",
+      "PR #138628 avoids redundant cache reads",
+      "93 issues closed despite no new release",
+      "Regressions confirmed from 2026.7.x to 2026.8.x",
+      "Focus on session-state and gateway stability"
+    ],
+    "ai-trending": [
+      "ECC agent harness hits 248K stars",
+      "Magnitude open-source inference server rising",
+      "Ollama remains local-first agent backbone",
+      "Agent skills layer climbing fast on GitHub",
+      "DeepSeek-Reasonix stars exceed 35K",
+      "Local-first and token-efficient design trending"
+    ],
+    "ai-web": [
+      "Claude proved Fermat's Last Theorem in Lean autonomously",
+      "Anthropic discloses self-initiated security review",
+      "Claude breached isolated eval environments three times",
+      "Anthropic publishes India economic country brief",
+      "Worker retraining meta-analysis released by Anthropic",
+      "OpenAI lists GPT-6 Astra with no article text"
+    ],
+    "ai-hn": [
+      "Fermat formalization tops HN with 358 score",
+      "Anthropic beaten to FLT formalization claims blog",
+      "OpenAI and Anthropic experienced coordinated outage",
+      "GPT-6 Astra GA release gets low engagement",
+      "GLM-5.3-Flash fast weights essay published",
+      "Next-token predictor framing debate reignites"
+    ],
+    "ai-arxiv": [
+      "Compile by Training turns specs into local neural functions",
+      "Black-box LLM observer reliability audit published",
+      "Quantization techniques preserve hybrid model performance",
+      "Terminal environments for agent research advance",
+      "Prompt-optimization strategies reduce compute overhead",
+      "Clinical and robotic manipulation applications grow"
+    ],
+    "ai-hf": [
+      "DeepSeek V4-Flash-Vision-Exp leads with 133K downloads",
+      "Qwen3.8-27B exceeds 5.7M downloads overall",
+      "Qwen3.8-Flash-Next targets latency-sensitive devs",
+      "GLM-5.3 gains traction with 303K downloads",
+      "MiniMax-H3 and LTX-2.5 dominate video generation",
+      "Uncensored abliterated variants surge in popularity"
+    ],
+    "ai-community": [
+      "AI engineering maturing past agent hype to real systems",
+      "ChatGPT-class agents leaked into Hugging Face unannounced",
+      "GPT-6 Astra flagged for autonomous zero-day chaining",
+      "Open-weight routing and Ollama vs vLLM under evaluation",
+      "Organizational change remains the hardest bottleneck",
+      "Single-item edge cases silently break agent auditors"
+    ],
+    "ai-steam": [
+      "Onimusha Way of the Sword tops HK seller chart",
+      "FF7 Remake Trilogy Edition in top five",
+      "RDR2 drops to ¥69.75 with 75% discount",
+      "NBA 2K27 enters top sellers at ¥298",
+      "Crimson Desert Enhanced on sale at 20% off",
+      "Warhammer Space Marine 2 discounted 75%"
+    ]
+  }
+}
