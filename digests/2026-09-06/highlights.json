@@ -1,0 +1,45 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Codex rust‑v0.153.4 发布，修复 Astra 显示并设为默认",
+      "Gemini CLI v0.60.0‑nightly 添加环境变量权限校验",
+      "Copilot CLI v1.0.84‑1 新增 GPT‑6 Astra 模型支持",
+      "OpenCode v1.18.29 修复 gpt-6 OAuth 过滤器不可见问题",
+      "Pi v0.85.1 通过 API Key 或 Codex 支持 GPT‑6 Astra",
+      "Qwen Code v0.23.1‑preview.0 引入 web‑shell 工作流可视化"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.9.2，提升聊天响应性和仪表盘交互",
+      "修复 undefined/null 转换回归，解决嵌入式 Agent 崩溃",
+      "版本无破坏性 API 变更，向后兼容",
+      "CI 可靠性提升，更新内部脚本与配置",
+      "建议执行 openclaw doctor --repair 对齐持久化历史",
+      "过去 24h Issues 更新 500 条，PR 更新 500 条，社区活跃"
+    ],
+    "ai-trending": [
+      "magnitude 本地推理服务器今日星标 686，自动匹配最佳模型",
+      "opencode 开源编程智能体今日星标 725，支持多模型切换",
+      "ruflo 元调度框架今日星标 127，实现多智能体协作",
+      "ECC Agent 性能框架今日星标 249,794，今日增长 +1,325",
+      "ponytail 让 AI 像最懒工程师思考，今日星标 127,842，增长 +2,813",
+      "anthropics/skills 官方 Agent Skills 仓库今日星标 472"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 获星标 14,033，下载超 600 万次",
+      "Qwen3.8-Flash-Next 获星标 4,913，下载 40 万次",
+      "GLM-5.3 获星标 1,717，下载 37 万次",
+      "GLM-5.3-Flash 获星标 2,077，下载 72 万次",
+      "IFM/K2-Horizon-MoVA-36B-A4B 获星标 172，下载 1,333 次",
+      "MiniMax-H3 视频生成模型获星标 4,932，下载 500 万次"
+    ],
+    "ai-steam": [
+      "热门：《How to Fish》售价 ¥33.00",
+      "热门：《Onimusha: Way of the Sword》售价 ¥298.00",
+      "热门：《NBA 2K27》售价 ¥298.00",
+      "特惠：《Red Dead Redemption 2》折扣 -75%，现价 ¥69.75",
+      "特惠：《Warhammer 40,000: Space Marine 2》折扣 -75%，现价 ¥62.25",
+      "特惠：《Sons Of The Forest》折扣 -70%，现价 ¥32.40"
+    ]
+  },
+  "en": {}
+}
