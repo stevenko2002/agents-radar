@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.263 修复 Bug 提升可靠性",
+      "Qwen Code 预览版v0.23.1-preview.1新增可视化工作流",
+      "Ollama v0.34.0-rc1集成ChatGPT Desktop支持",
+      "llama.cpp b10828完美支持Spark2_5模型",
+      "OpenCode修复启动重复请求提升速度"
+    ],
+    "ai-agents": [
+      "OpenClaw社区活跃度高Issues 378条PR 293条待合并",
+      "聚焦Windows启动失败内存泄漏等关键问题",
+      "merged多项性能优化PR提升网关吞吐"
+    ],
+    "ai-web": [
+      "OpenAI新增5篇内容聚焦'Alien Mind'概念探讨",
+      "Anthropic暂无实质性更新内容发布"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B下载量破600万成榜首",
+      "DeepSeek-V4-Flash-Vision等多模态模型升热"
+    ],
+    "ai-community": [
+      "LangChain去魅实跐引发广泛讨论",
+      "RAG管线成本与架构取舍成为焦点"
+    ],
+    "ai-trending": [
+      "Agent技能包社区集中爆发 trending榜单领先",
+      "开源推理服务器magnitude迅速上榜获赞"
+    ],
+    "ai-hn": [
+      "OpenAI'An Alien Mind'引发273分深度讨论",
+      "GPT-6 Astra机械臂实时控制引起关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Ollama v0.34.0-rc1 ships ChatGPT Desktop macOS integration",
+      "GitHub Copilot CLI v1.0.82: WSL2, BYOK issues open",
+      "llama.cpp: 7 releases add Spark2_5ForCausalLM support",
+      "Qwen Code v0.23.1-preview.1 adds Web Shell visualization",
+      "Ollama PR tackles 2-year-old /metrics Prometheus request",
+      "llama.cpp embeds web UI via CMake, fixes CUDA races"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs in last 24 hours",
+      "No new OpenClaw releases during this period",
+      "Subagent coordination improvements advance in PRs",
+      "v2026.9.1-beta.1 tied to post-upgrade regressions",
+      "Core issues: session state, crash loops, message loss",
+      "Memory search and plugin extensibility progressing"
+    ],
+    "ai-trending": [
+      "affaan-m/ECC breakout: +1,486 stars today",
+      "NousResearch hermes-agent +520; model-runtime blur",
+      "magnitudedev/magnitude +604 local inference server",
+      "mattpocock/skills +2,206: de facto skill library",
+      "Agent harness meta-layer dominates trending list",
+      "openai/skills: official skill catalog for Codex"
+    ],
+    "ai-web": [
+      "OpenAI published 5 new articles on Sept 6",
+      "Anthropic recorded no new publications",
+      "OpenAI narrative shifts toward cognitive framing",
+      "Only metadata captured; no full article text",
+      "OpenAI titles emphasize research acceleration",
+      "OpenAI explores nature of advanced AI cognition"
+    ],
+    "ai-hn": [
+      "'An Alien Mind' tops HN with 273 points",
+      "GPT-6 Astra robot arm demo scores 229",
+      "Community debates 'alien' cognition plausibility",
+      "OpenAI research acceleration view: 87 points",
+      "OpenAI dominates HN; other items under 50",
+      "Thread on OpenAI alignment monitoring practices"
+    ],
+    "ai-hf": [
+      "Qwen family dominates HF weekly-likes list",
+      "TimesFM-3.0 emerges for time-series forecasting",
+      "GGUF community fine-tunes surge for local use",
+      "DeepSeek-V4-Flash-Vision gains multimodal traction",
+      "gpt2 remains baseline: 14.6M downloads",
+      "bert-base-uncased leads with 52M downloads"
+    ],
+    "ai-community": [
+      "MCMC: 1953 algorithm still relevant under AI",
+      "Multi-agent browsers need shared state, leases",
+      "Deleting 180k lines uncovers socket leaks",
+      "RBAC, token budgets key for production agents",
+      "Vector stores vs Postgres infrastructure debate",
+      "Benchmark honesty conversation gains traction"
+    ],
+    "ai-steam": [
+      "How to Fish tops Steam sellers at ¥33",
+      "Red Dead Redemption 2 at 75% off — ¥69.75",
+      "GTA V Enhanced 56% off at ¥98.56",
+      "NBA 2K27 third-best seller at ¥298",
+      "Onimusha: Way of the Sword #2 at ¥298",
+      "Sons Of The Forest 70% off at ¥32.40"
+    ]
+  }
+}
