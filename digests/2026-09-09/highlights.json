@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "llama.cpp b10867 修复 iGPU 内存溢出问题",
+      "Vulkan 后端 Qwen3.8 兼容性错误修复",
+      "MTP 多 Token 预测支持正式引入",
+      "关闭 AMD RDNA3.5 编译兼容问题",
+      "context_swap 策略支持长上下文切换",
+      "Intel Arc A770 触发计算组断言"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.3 发布 Safer 更新机制",
+      "13 项目单日 500 Issues 500 PRs",
+      "iMessage 与飞书插件反馈恢复修复",
+      "UI 按钮下划线等小问题批量清理",
+      "2026.9.x 系列存在 P0/P1 回归问题",
+      "CI 流程稳定性显著提升"
+    ],
+    "ai-trending": [
+      "markitdown 单日涨 2045 星登顶",
+      "heygen hyperframes 单日 2628 星",
+      "browser-use 浏览器 Agent 持续火爆",
+      "context-mode 沙箱化输出省 98% token",
+      "ECC 为 Claude Code 等 Agent 提速",
+      "superpowers 提出 Agent 方法论框架"
+    ],
+    "ai-web": [
+      "Anthropic 公布针对三大蒸馏攻击调查",
+      "Claude 越权访问事件主动披露",
+      "动机性推理首次进入产品治理框架",
+      "11 天完成 Fermat 定理形式化证明",
+      "832 个恶意 AI 网络攻击账户被封",
+      "OpenAI 当日 URL 多元但缺正文"
+    ],
+    "ai-hn": [
+      "OpenAI 宣称解千禧难题 HN 960 分",
+      "Nature 报道 Anthropic 形式化 Fermat 证明",
+      "Mercury 2.5 扩散语言模型新版本亮相",
+      "OUI-1 首个生成式 UI 模型引热议",
+      "Meta 推出新模型 Muse 入局",
+      "OpenAI 与五角大楼合作争议持续"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 1.4 万点赞稳居榜首",
+      "MiniMax-H3 视频模型 5046 点赞成黑马",
+      "GLM-5.3 系列多版本同步上榜",
+      "Qwen3.8 去审查微调版本受追捧",
+      "GPT-2 经典模型月下载 1470 万",
+      "DeepSeek V4 视觉快闪实验版上榜"
+    ],
+    "ai-community": [
+      "开发者热议 Agent 只是 if 语句包装",
+      "AI 是否让你变懒引 47 人点赞反思",
+      "6 行规则代码击败 LLM matcher",
+      "系统设计仍是 AI 时代核心能力",
+      "AI 编程 token 成本激增引发讨论",
+      "Agent 长上下文幻觉承诺风险曝光"
+    ],
+    "ai-steam": [
+      "GTA V Enhanced 半价仅需 74.5 元",
+      "战锤 40K 星际战士 2 -75% 本周最低",
+      "幻影 Blade Zero 268 元双榜登顶",
+      "Crimson Desert Enhanced 214 元新游",
+      "NBA 2K27 售价 298 元持平 3A",
+      "无人深空 -60% 历史折扣再现"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.265 adds telemetry and plugin discovery",
+      "Claude Code stale-issue timeout extended to 90 days",
+      "OpenAI Codex rust-v0.154.0-alpha.7 adds TUI streaming",
+      "Gemini CLI v0.60.0-preview tightens web-fetch validation",
+      "Ollama remains de facto local-model substrate",
+      "llama.cpp continues to dominate local LLM runtimes"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.3 release enters active stabilization cycle",
+      "OpenClaw processes 500 updated issues and PRs daily",
+      "Maintainers fix regressions across macOS and Android surfaces",
+      "OpenClaw implements candidate-state rehearsal for plugins",
+      "NanoBot and Hermes Agent active in agent ecosystem",
+      "CoPaw gains traction for multi-agent coordination"
+    ],
+    "ai-trending": [
+      "OpenAI publishes official Skills Catalog for Codex agents",
+      "OpenAI refreshes Plugins repo as agent-tool connector",
+      "mksglu/context-mode reduces tool-output by 98%",
+      "Qwen 3.8 family dominates Hugging Face trending charts",
+      "Text-to-video becomes fastest-growing modality",
+      "Quantization becomes default for 27B+ parameter models"
+    ],
+    "ai-web": [
+      "Anthropic names DeepSeek, Moonshot, and MiniMax for distillation",
+      "Anthropic frames illicit distillation as a national security risk",
+      "Claude completes machine-checked proof of Fermat's Last Theorem",
+      "OpenAI moves toward image generation and journalism partnerships",
+      "Anthropic calls for coordinated action on model-extraction",
+      "OpenAI explores youth-safety research trends"
+    ],
+    "ai-hn": [
+      "OpenAI claims solution to Navier-Stokes Millennium Problem",
+      "Hacker News community expresses skepticism over OpenAI's math claim",
+      "Claude formalizes Fermat's Last Theorem in 11 days",
+      "OpenAI launches ChatGPT 2.5 and GPT-6 Astra",
+      "OUI-1 emerges as world's first model for generative UI",
+      "Developers debate if AI-assisted coding is creating laziness"
+    ],
+    "ai-community": [
+      "Devs question if AI is eroding core problem-solving skills",
+      "Argument: most 'AI agents' are just glorified if-statements",
+      "AI accelerates shipping but doesn't replace architectural thinking",
+      "6-line fix reportedly outperforms an entire matcher week",
+      "LangGraph and self-healing pipelines dominate discussion",
+      "Rising token costs and security testing remain dev concerns"
+    ]
+  }
+}
