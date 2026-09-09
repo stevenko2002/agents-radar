@@ -1,0 +1,58 @@
+# Steam 游戏速报 2026-09-10
+
+> 数据来源: [Steam](https://store.steampowered.com) | 热门 10 款, 特价 10 款 | 生成时间: 2026-09-09 22:15 UTC
+
+---
+
+### Steam 遊戲速報｜2026-09-10（中國區）
+
+---
+
+#### 🔥 熱門遊戲 Top 10
+1. **Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil** — ¥69.00  
+   🔗 https://store.steampowered.com/app/85900/
+2. **How to Fish** — ¥33.00  
+   🔗 https://store.steampowered.com/app/4001890/
+3. **WARDOGS** — ¥149.00  
+   🔗 https://store.steampowered.com/app/1867240/
+4. **In Falsus** — ¥149.40  
+   🔗 https://store.steampowered.com/app/3971950/
+5. **Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil Deluxe Edition** — ¥97.75  
+   🔗 https://store.steampowered.com/app/85901/
+6. **Grand Theft Auto V Enhanced** — ¥74.50  
+   🔗 https://store.steampowered.com/app/3240220/
+7. **Onimusha: Way of the Sword** — ¥298.00  
+   🔗 https://store.steampowered.com/app/2638890/
+8. **Gamble With Your Friends** — ¥20.46  
+   🔗 https://store.steampowered.com/app/3892270/
+9. **The Legend of Fancy Realm Remake** — ¥81.00  
+   🔗 https://store.steampowered.com/app/4030150/
+10. **NBA 2K27** — ¥298.00  
+   🔗 https://store.steampowered.com/app/4356430/
+
+---
+
+#### 💸 特價遊戲 Top 10
+1. **Grand Theft Auto V Enhanced** — ¥74.50 **(-50%)**  
+   🔗 https://store.steampowered.com/app/3240220/
+2. **In Falsus** — ¥149.40 **(-10%)**  
+   🔗 https://store.steampowered.com/app/3971950/
+3. **Gamble With Your Friends** — ¥20.46 **(-38%)**  
+   🔗 https://store.steampowered.com/app/3892270/
+4. **Wanderburg** — ¥33.80 **(-35%)**  
+   🔗 https://store.steampowered.com/app/3624140/
+5. **Bodycam** — ¥102.40 **(-20%)**  
+   🔗 https://store.steampowered.com/app/2406770/
+6. **Warhammer 40,000: Space Marine 2** — ¥62.25 **(-75%)**  
+   🔗 https://store.steampowered.com/app/2183900/
+7. **Resident Evil Requiem** — ¥243.60 **(-30%)**  
+   🔗 https://store.steampowered.com/app/3764200/
+8. **The Legend of Fancy Realm Remake** — ¥81.00 **(-10%)**  
+   🔗 https://store.steampowered.com/app/4030150/
+9. **No Man's Sky** — ¥70.00 **(-60%)**  
+   🔗 https://store.steampowered.com/app/275850/
+10. **Ready or Not** — ¥79.50 **(-50%)**  
+   🔗 https://store.steampowered.com/app/1144200/
+
+---
+*本日报由 [agents-radar](https://github.com/stevenko2002/agents-radar) 自动生成。*

@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.267 修复代理回归",
+      "Windows 补丁致 Claude Plan9 挂载失效",
+      "Codex v0.154.0-alpha 适配 GPT-6",
+      "Codex WSL2 空闲 CPU 飙至 215%",
+      "Codex Desktop 存储膨胀至 TB 级",
+      "Gemini CLI 修 Windows NTFS 路径"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时处理 500 Issue 与 PR",
+      "多代理编排并发时配置被覆盖",
+      "P1 级内存泄漏致僵尸进程堆积",
+      "插件分类标准化提升发现效率",
+      "浏览器配置优化合并 Map 拷贝",
+      "覆盖 13 个 OpenClaw 生态项目"
+    ],
+    "ai-trending": [
+      "i-have-adhd 暴涨 4624 star",
+      "ECC Agent Harness 优化增长 1151",
+      "diagram-design 暴涨 2286 star",
+      "Tencent 推 teamai-cli 团队 AI 工具",
+      "MCP 成为新工具标配",
+      "LangGraph 41k star 构建韧性代理"
+    ],
+    "ai-web": [
+      "Anthropic 公布 SB-53 合规框架 FCF",
+      "Anthropic Labs 由 Krieger 领导扩张",
+      "Anthropic 完成 30 亿美元 Series G",
+      "ServiceNow 选择 Claude 深度集成",
+      "Claude 助力科研 Opus 4.5 提升",
+      "OpenAI 今日仅 2 条更新披露收敛"
+    ],
+    "ai-hn": [
+      "Anthropic 被曝监控激进分子引争议",
+      "GPT-5.6 Sol 助力量子实验 HN 139",
+      "OpenAI 失控代理用于 10 个未授权站",
+      "Anthropic 内部人士退出引安全担忧",
+      "Procedural Graphs 自进化结构论文",
+      "AI 代码注释检测器受关注"
+    ],
+    "ai-arxiv": [
+      "Procedural Graphs 提升 Agent 长程规划",
+      "Attention Sink 源于 Self-Concentration",
+      "Scale-Invariant 优化闭式判据推导",
+      "预训练 loss 最低并非最佳 SFT 起点",
+      "RNN 长度外推新归纳偏置",
+      "Deposon 提出可审计博弈推理"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 14516 点赞霸榜",
+      "MiniMax-H3 视频生成下载近 500 万",
+      "GLM-5.3 双线推 MoE 与 Flash 版",
+      "MiniCPM5-2B 端侧部署超越 7B",
+      "TimesFM-3.0 时序预测发布",
+      "2-4B 小模型抢占边缘场景"
+    ],
+    "ai-community": [
+      "纯 AI 编码 30 天痛点实验",
+      "AI 代码验证成新瓶颈",
+      "AI 推荐 Postgres 索引 40% 有效",
+      "Lobste.rs 关注 OpenAI 政府合作",
+      "AI 编码代理需依赖图提升上下文",
+      "社区热议代码生成与 Agent 信任"
+    ],
+    "ai-steam": [
+      "东方红魔乡新作登顶热门 ¥69",
+      "GTA V Enhanced 半价 ¥74.5",
+      "星际战士 2 史低 -75% ¥62.25",
+      "NBA 2K27 上榜 ¥298",
+      "Onimusha 298 元入榜",
+      "热门与特价重叠 4 款"
+    ]
+  },
+  "en": {}
+}
