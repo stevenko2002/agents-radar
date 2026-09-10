@@ -1,0 +1,77 @@
+{
+  "zh": {},
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.268 adds managed-gateway pricing parity",
+      "OpenAI Codex v0.154.0 adds GPT-6-Astra and --worktree",
+      "GitHub Copilot CLI v1.0.84-4 refactors plugin management",
+      "Qwen Code v0.23.3 expands reasoning presets for Kimi/DeepSeek",
+      "12 AI CLI tools covered including Claude, Codex, Gemini",
+      "Cross-tool comparison highlights latest releases across ecosystem"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.6.35 LTS release with security hardening",
+      "426 issues and 500 PRs updated in last 24 hours",
+      "244 PRs merged or closed in single day",
+      "Enhanced security boundaries for providers and channel adapters",
+      "13 OpenClaw ecosystem projects tracked including NanoBot, Hermes",
+      "Final June 2026 Extended Stable release with no breaking changes"
+    ],
+    "ai-trending": [
+      "ayghri/i-have-adhd gains +3,854 stars for agent skills",
+      "Agent-skill optimization emerges as breakout trend today",
+      "OmniRoute and caveman tackle cost and latency control",
+      "Local inference matures with colibri, picollm, llmfit",
+      "RAG shifts to memory, graphs, vectorless reasoning",
+      "Portable skills/harness layer for Claude Code, Codex, Cursor"
+    ],
+    "ai-web": [
+      "Anthropic raises $13B Series F at $183B valuation",
+      "Claude Opus 4.5 launched at $5/$25 per M tokens",
+      "Enterprise deals: Deloitte 470k, Cognizant 350k users",
+      "Up to 1M Google Cloud TPUs for compute expansion",
+      "$50B US AI infrastructure investment announced",
+      "Nuclear-safeguards classifier 96% accuracy deployed with DOE"
+    ],
+    "ai-hn": [
+      "OpenAI re-enabling 'allow training' setting frustrates users",
+      "Researcher claims OpenAI trained on private conversations",
+      "Mathematicians demand proof OpenAI didn't use their work",
+      "Industry shifts to agentic workflows with new Agents API",
+      "Anthropic tech reportedly weaponized by state actors",
+      "Internal whistleblowers warn of existential risks from AI"
+    ],
+    "ai-arxiv": [
+      "Layer-selective unlearning proposed for robust LLMs",
+      "RD-Forget framework manages long-term agent memory",
+      "Data mixing improves multilingual reasoning generalization",
+      "JarvisGUI enables cross-device GUI agents with task composition",
+      "Quantum computing intersects ML for classification tasks",
+      "KV-cache optimization and unlearning focus in LLM research"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 14k likes, 7.3M downloads",
+      "LTX-2.5 and MiniMax-H3 push multimodal video generation",
+      "GGUF quantizations dominate for local inference deployment",
+      "MiniCPM5-2B gains traction for low-resource deployment",
+      "GLM-5.3 trending with 1.8k likes, 552k downloads",
+      "TimesFM and VibeVoice-ASR advance specialized domains"
+    ],
+    "ai-community": [
+      "AI outperforming developers in coding tasks sparks debate",
+      "Hidden agent costs: security, observability, debugging challenges",
+      "Localizing LLMs with Ollama gains community interest",
+      "CauterRule tool manages repeated AI agent loops",
+      "Debate on AI agent autonomy boundaries intensifies",
+      "Shift from coding assistant to autonomous agent discussed"
+    ],
+    "ai-steam": [
+      "WARDOGS tops Hong Kong sellers at ¥149",
+      "GTA V Enhanced 50% off at ¥74.50",
+      "No Man's Sky 60% off at ¥70",
+      "Space Marine 2 75% off at ¥62.25",
+      "Onimusha: Way of the Sword at ¥298",
+      "Phantom Blade Zero at ¥268"
+    ]
+  }
+}
