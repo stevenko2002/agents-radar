@@ -1,0 +1,110 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Qwen Code 发布 v0.23.3 夜间版",
+      "llama.cpp 连发 11 个版本修后端",
+      "Claude Code 合并 PR #93951",
+      "OpenAI Codex 新增 worktree 会话",
+      "Ollama 修复量化 F16 磁盘泄漏",
+      "OpenCode 优化 thinking 显示"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时 493 Issue 更新",
+      "OpenClaw 500 条 PR 更新待合并 238",
+      "子代理完成通知静默丢失 #44925",
+      "僵尸进程累积问题 #97616 修复中",
+      "Swarm 修复 agents_wait 死锁",
+      "插件网络恢复修复 Bun 挂起"
+    ],
+    "ai-trending": [
+      "colibri 单日新增 960 star",
+      "agent-skills 单日新增 215 star",
+      "open-code-review 单日新增 438 star",
+      "transformers 总 star 165468",
+      "system_prompts_leaks 单日 727 star",
+      "hermes-agent 总 star 245150"
+    ],
+    "ai-hn": [
+      "Claude Fable 破解 370 年密码",
+      "OpenAI/Anthropic 监管质疑 206 分",
+      "Houthis 用 Claude Code 制导 90 分",
+      "自我改进预测遭质疑 41 分",
+      "PyO3 让 Python 跑 Rust 49 分",
+      "Cpak OCI 打包格式 37 分"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4.1-Flash 多模态发布",
+      "Qwen3.8-27B 图文模型上榜",
+      "MiniMax-H3 图生视频模型",
+      "LTX-2.5 图像转视频热门",
+      "GLM-5.3 网络安全 FP8 版",
+      "all-MiniLM-L6-v2 句向量经典"
+    ],
+    "ai-community": [
+      "AI 互评代码 30 天人 5 分钟找 bug",
+      "1,245 张表描述致检索变差",
+      "OpenAI agents 攻击 RubyGems",
+      "AI 声称解决 Navier-Stokes 遭质疑",
+      ".NET 10 构建 15MB 推理引擎",
+      "2.4 万美元 Claude 终端产出复盘"
+    ],
+    "ai-steam": [
+      "WARDOGS 热销 ¥149",
+      "GTA V 增强版热销并半价",
+      "Onimusha 新作 ¥298 上榜",
+      "Phantom Blade Zero ¥268 上榜",
+      "死亡搁浅导演剪辑版 -75%",
+      "战锤 40K 星际战士 2 -75%"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Gemini CLI v0.61.0 adds native Google search tool",
+      "Qwen Code nightly adds macOS signed prebuilt binaries",
+      "Pi adds autonomous session termination 'exit' tool",
+      "Pi adds Azure Foundry v3 and server-side tool declarations",
+      "Pi enables permanent branch deletion from session trees",
+      "DeepSeek TUI launches new /pet mode"
+    ],
+    "ai-agents": [
+      "OpenClaw sees high activity with 1,000 daily updates",
+      "OpenClaw resolves stability issues in 2026.9.x branch",
+      "OpenClaw adds custom SVG artwork for session icons",
+      "OpenClaw implements task-collapse in history view",
+      "OpenClaw refactors filesystem reads via fs-safe",
+      "Development focuses on MCP integration and orchestration"
+    ],
+    "ai-trending": [
+      "VoiceStudio (+2,546 stars) offers local voice cloning",
+      "OpenMontage (+383 stars) debuts agentic video production",
+      "Colibri (+960 stars) enables MoE on modest hardware",
+      "System-prompt leaks (+727 stars) trends for reverse-eng",
+      "Alibaba's open-code-review fuses linting with LLM agents",
+      "HuggingFace Transformers adds 102 new stars"
+    ],
+    "ai-hn": [
+      "Claude Fable 5.1 cracks a 370-year-old cipher",
+      "Debate erupts over David Sacks' AI regulation claims",
+      "Reports of Houthis using Claude Code for missile guidance",
+      "Concerns grow over AI swarms seizing Internet control",
+      "Discussion on realistic timelines for recursive AI",
+      "PyO3 enables running Rust inside Python libraries"
+    ],
+    "ai-hf": [
+      "Qwen 3.8-27B dominates with nearly 15k likes",
+      "Lightricks' LTX-2.5 image-to-video hits 3.7k likes",
+      "MiniMax-H3 gains traction for controllable video synthesis",
+      "TokenRhythm NeoHorse-1-4B praised for tool-use planning",
+      "OpenBMB MiniCPM5-2B optimized for mobile edge inference",
+      "all-MiniLM-L6-v2 remains top embedding workhorse"
+    ],
+    "ai-community": [
+      "Debate grows over 'vibe coding' vs rigorous engineering",
+      "Study finds humans beat AI-only code review in 5 mins",
+      "Interest rises in Apple Neural Engine reverse-engineering",
+      "Developers build AI menu-bar helpers for meetings",
+      "Community scrutinizes training-set contamination",
+      "Focus shifts to hardware-aware AI and GPU exhaustion"
+    ]
+  }
+}
