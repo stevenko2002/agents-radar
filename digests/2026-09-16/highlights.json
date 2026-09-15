@@ -1,0 +1,61 @@
+{
+  "zh": {},
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex ships rust-v0.155.0-alpha.7 pre-release",
+      "Gemini CLI v0.60.0 stable released",
+      "Gemini CLI v0.61.0-preview.0 adds nightly builds",
+      "Copilot CLI v1.0.84-9 adds agent context tools",
+      "Qwen Code ships cua-driver-rs-v0.20.9",
+      "Ollama launches a new v0 release"
+    ],
+    "ai-agents": [
+      "OpenClaw: 471 issues and 500 PRs updated in 24h",
+      "No new OpenClaw releases tagged today",
+      "171 PRs merged/closed, mostly refactors",
+      "PR #149045 compacts xai test matrices",
+      "PR #149043 compacts audit redaction matrix",
+      "329 open PRs, 296 active issues remain"
+    ],
+    "ai-trending": [
+      "alibaba/open-code-review +2,751 stars, #1 today",
+      "JustVugg/colibri +2,035 stars, disk MoE engine",
+      "VoiceStudio fully-local voice stack +2,081 stars",
+      "pacifio/atlas manages multiple coding agents",
+      "pi and agent-skills tackle multi-agent mgmt",
+      "Agent infrastructure dominates today's trending"
+    ],
+    "ai-hn": [
+      "OpenAI buys smartphone-camera maker for $300M",
+      "Hugging Face $100M billing dispute with OpenAI",
+      "Police sweep of 19k Flock cameras sparks outrage",
+      "Mandatory AI kill-switches debated (84 pts)",
+      "GRP-Obliteration unaligns LLMs with one prompt",
+      "Anthropic regulatory-capture loop scrutinized"
+    ],
+    "ai-arxiv": [
+      "Plan injection evades CoT monitoring",
+      "Bellman Policy Optimization: critic-free RL",
+      "Frozen LLM routes skills without metadata",
+      "One-step flow compresses multi-step reasoning",
+      "Many-agent harnesses scale scientific tasks",
+      "New benchmarks: mental-health, Alzheimer's, wildlife"
+    ],
+    "ai-hf": [
+      "MiniMax-H3 dominates video generation",
+      "LTX-2.5 hits millions of downloads",
+      "Qwen3.8-27B is most-liked model on hub",
+      "DeepSeek-V4.1-Flash: 325k downloads, 2,677 likes",
+      "Edge0-35B-A3B MoE climbs popularity charts",
+      "MiniCPM5-2B: 271k downloads, low memory footprint"
+    ],
+    "ai-community": [
+      "The Quiet Weight of AI-era work (47 hearts)",
+      "AI didn't remove engineering work (39 hearts)",
+      "Prevent AI assistants repeating fixed mistakes",
+      "Dario Amodei's call to slow AI debated",
+      "Agent workflow reliability scrutinized",
+      "Mental-health strain of adapting to AI tools"
+    ]
+  }
+}
