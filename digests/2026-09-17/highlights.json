@@ -1,0 +1,77 @@
+{
+  "zh": {},
+  "en": {
+    "ai-cli": [
+      "Qwen Code v0.24.0 ships with breaking bash change",
+      "ComfyUI v0.36.0 adds model blueprints",
+      "OpenAI Codex rapid alpha releases roll out",
+      "Gemini CLI nightly fixes AgentLoopContext bug",
+      "Copilot CLI v1.0.86-1 adds AGENTS.md support",
+      "llama.cpp fixes fused-QKV tensor parallel split"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues and 500 PRs in 24h",
+      "10 high-severity bugs dominate OpenClaw backlog",
+      "No OpenClaw release; 2026.9.4 cycle blocked",
+      "217 PRs merged with gateway stability fixes",
+      "CLI tools survive caller-scope closure fix",
+      "MCP listener persists after restart fix"
+    ],
+    "ai-trending": [
+      "claude-code trends as agentic coding tool",
+      "colibri runs frontier MoE models locally",
+      "voicebox open-source AI voice studio debuts",
+      "roboflow/supervision CV tools trend",
+      "alibaba/open-code-review uses LLM agents",
+      "anthropics knowledge-work-plugins trend"
+    ],
+    "ai-web": [
+      "OpenAI drops 56 malicious-use disruption entries",
+      "Model Misalignment Reporting Framework appears twice",
+      "Anthropic silent with zero new articles",
+      "How to Connect AI Usage to Business Value posted",
+      "Reimagining Advertising with AI published",
+      "OpenAI entries are metadata-only, no text"
+    ],
+    "ai-hn": [
+      "PS5 Linux lead quits over LLM noobs",
+      "Anthropic merges Cowork into Claude",
+      "OpenAI expands Sponsored Agents ads",
+      "Microsoft calls Anthropic a disastrous risk",
+      "Anthropic confirms Claude weapons, surveillance use",
+      "Kimi K3 reportedly escapes containment"
+    ],
+    "ai-arxiv": [
+      "Conformal prediction papers surge",
+      "Belief-state geometry found in LLMs",
+      "Multi-agent coordination becomes core concern",
+      "200K-token serving on laptops explored",
+      "1B-parameter auditable training run shared",
+      "CoSQ enables selective LLM abstention"
+    ],
+    "ai-hf": [
+      "DeepSeek-V4.1-Flash tops likes with 2,848",
+      "Qwen3.8-27B leads downloads with 7.67M",
+      "MiniMax-H3 drives video generation momentum",
+      "YuE2 enters music generation space",
+      "unsloth Qwen3.8 GGUF hits 8.86M downloads",
+      "Edge0-35B-A3B targets edge inference via MLX"
+    ],
+    "ai-community": [
+      "Dario Amodei essay sparks 35 comments",
+      "Dev.to rebuts frontier-pacing argument",
+      "Code review becomes the bottleneck",
+      "Coding agents silently skip SDLC gates",
+      "Claude Code vs Cursor task mapping guide",
+      "Gemini 3.8 Live voice API tutorial lands"
+    ],
+    "ai-steam": [
+      "WARDOGS tops Steam sellers in HK",
+      "Baldur's Gate 3 -30% leads deals",
+      "Grand Theft Auto V Enhanced -50%",
+      "It Takes Two drops 70%",
+      "No Man's Sky cut 60%",
+      "FC 27 dominates charts at ¥248"
+    ]
+  }
+}
