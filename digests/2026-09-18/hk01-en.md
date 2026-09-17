@@ -1,0 +1,78 @@
+# HK01 News Digest 2026-09-18
+
+> Source: [HK01](https://www.hk01.com) | 30 articles | Generated: 2026-09-17 22:16 UTC
+
+---
+
+**Today's Key News**
+
+---
+
+### Top Stories – 港聞 (Hong Kong News)  
+*(10 most important local stories)*  
+
+1. **[港聞] 董建華逝世｜周日香港殯儀館出殡　上午禁車由渣華道右轉入英皇道**  
+   Former Chief Executive Tung Chee‑hwa will lie in state at North Point Funeral Home on Saturday and a public funeral will be held on Sunday, with traffic restrictions around the ceremony.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/社會新聞/60391152/董建華逝世-周日香港殯儀館出殡-上午禁車由渣華道右轉入英皇道)
+
+2. **[港聞] 多圖｜維園旅發局中秋綵燈匯亮燈　羅淑佩示範靚位擺甫士打卡**  
+   The Tourism Board’s first “International Mid‑Autumn Festival Lights Exhibition” opens at Victoria Park, with nightly illumination from 6:30 pm to 11 pm through 27 Sept.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/社會新聞/60391137/多圖-維園旅發局中秋綵燈匯亮燈-羅淑佩示範靚位擺甫士打卡)
+
+3. **[港聞] 旺角通菜街倫常血案　六旬母稱自衛揮刀　38歲兒胸中刀命危**  
+   A 64‑year‑old mother stabbed her 38‑year‑old son in the chest during an alleged self‑defence incident at a residential block in Mong Kok, leaving him in critical condition.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/突發/60391144/旺角通菜街倫常血案-六旬母稱自衛揮刀-38歲兒胸中刀命危)
+
+4. **[港聞] 朱振國離世｜警校畢業各散分區情誼未變　同期：約定送別好兄弟**  
+   Police constable Zhong Zhenguo, who died after being slashed in the neck while apprehending a suspect in 2005, was remembered by his former classmates for his lasting camaraderie.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/突發/60391121/朱振國離世-警校畢業各散分區情誼未變-同期-約定送別好兄弟)
+
+5. **[港聞] 施政報告｜議員憶警察治港質疑　李家超論管治：唔想局長唔叻過我**  
+   During Chief Executive John Lee’s policy address, a legislator referenced past criticism of police governance, prompting Lee to stress he does not want bureaucrats to outshine him.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/政情/60390952/施政報告-議員憶警察治港質疑-李家超論管治-唔想局長唔叻過我)
+
+6. **[港聞] 杏花邨謀殺｜丈夫到警署自首　用廚房刀襲妻　多處中刀當場斃命**  
+   A 53‑year‑old woman was fatally stabbed multiple times by her husband at their flat in Amah Cove; the husband surrendered to police and was detained for murder.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/突發/60390842/杏花邨謀殺-丈夫到警署自首-用廚房刀襲妻-多處中刀當場斃命)
+
+7. **[港聞] 施政報告｜鼓勵生育不如改善生活？市民向特首談拒生：睇唔到將來**  
+   In response to low birth rates, Chief Executive Lee presented 11 measures to boost fertility, but residents told him they are reluctant to have children due to uncertainty about the future.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/社會新聞/60390854/施政報告-鼓勵生育不如改善生活-市民向特首談拒生-睇唔到將來)
+
+8. **[港聞] 朱振國離世｜妻不原諒刀手　女移澳碩士畢業　憶父「好錨」自己**  
+   The wife of slain constable Zhong Zhenguo remains unforgiving toward his attacker, while their daughter, now a graduate in Australia, recalls her father’s kindness to his family.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/突發/60390784/朱振國離世-妻不原諒刀手-女移澳碩士畢業-憶父-好錨-自己)
+
+9. **[港聞] 24/7 FITNESS擴展全球健身版圖　將運動融入日常生活**  
+   The 24/7 fitness chain continues its global expansion, reflecting a surge in Hong Kong’s gym membership numbers and the growing trend of integrating regular exercise into daily life.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/社會新聞/60388269/24-7-fitness擴展全球健身版圖-將運動融入日常生活)
+
+10. **[港聞] 施政報告2026．五年規劃｜22個重點KPI　北都大學城　11招谷生育**  
+    The latest five‑year plan sets out 22 key performance indicators, including the development of a Northern Metropolis University Town and 11 initiatives to address the territory’s low birth rate.  
+    [Link](https://www.hk01.comhttps://www.hk01.com/issue/10430/施政報告2026-五年規劃-22個重點kpi-北都大學城-11招谷生育)
+
+---
+
+### Top Stories – 國際 (International)  
+*(10 most important international stories)*  
+
+1. **[國際] FBI指阿里抄襲Anthropic後　美政府網站被發現用中國AI搜尋工具**  
+   After the FBI accused Alibaba of “malicious” plagiarism of US competitor Anthropic, a US federal government website was found to be using Alibaba’s Chinese‑language AI search service.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/即時國際/60391170/fbi指阿里抄襲anthropic後-美政府網站被發現用中國ai搜尋工具)
+
+2. **[國際] 美國制裁伊朗加密貨幣交易所　指處理霍爾木茲海峽「安全通行費」**  
+   The US on 17 Sept sanctioned Iranian‑linked crypto exchange BitBank, alleging it facilitated “security tolls” for vessels navigating the Strait of Hormuz.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/即時國際/60391164/美國制裁伊朗加密貨幣交易所-指處理霍爾木茲海峽-安全通行費)
+
+3. **[國際] 歐盟擬限制15歲以下用社交媒體　13歲以下禁開帳號**  
+   The EU announced plans to restrict social‑media use for under‑15s, banning accounts for children under 13 and requiring parental supervision for 13‑ to 15‑year‑olds.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/即時國際/60391159/歐盟擬限制15歲以下用社交媒體-13歲以下禁開帳號)
+
+4. **[國際] 戴安娜胞弟回憶錄曝英王冷漠發言「很快忘記她」　王室罕出面駁斥**  
+   Charles Spencer’s forthcoming memoir claims King Charles III was “cold” after Princess Diana’s 1997 crash, saying he “moved on quickly”; the royal family responded unusually to refute the allegation.  
+   [Link](https://www.hk01.comhttps://www.hk01.com/即時國際/60391073/戴安娜胞弟回憶錄曝英王冷漠發言-很快忘記她-王室罕出面駁斥)
+
+5
+
+---
+*This digest is auto-generated by [agents-radar](https://github.com/stevenko2002/agents-radar).*

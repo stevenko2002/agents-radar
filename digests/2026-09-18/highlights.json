@@ -1,0 +1,126 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.274新增内存临界警告",
+      "OpenAI Codex连发4个Rust alpha版本",
+      "Gemini CLI修复MAX_TURNS误报成功bug",
+      "Copilot CLI v1.0.86-2修复Figma MCP错误",
+      "Qwen Code v0.24.0新增ACP权限会话隔离",
+      "Kimi CLI修复OAuth超时与重复工具调用"
+    ],
+    "ai-agents": [
+      "OpenClaw日处理500个Issue和500个PR",
+      "项目处于发布冻结，无新版本",
+      "修复Google Chat取消发送仍发消息",
+      "修复MCP loopback配对节点单回合停止",
+      "会话列表标题解析缓存性能改进",
+      "防止缺失Codex插件误禁健康连接"
+    ],
+    "ai-trending": [
+      "阿里open-code-review日增3290星",
+      "腾讯WeKnora知识平台日增1123星",
+      "ECC智能体优化日增1173星，总26万星",
+      "alphaXiv将编程Agent转为研究Agent",
+      "colibri轻量MoE推理引擎日增872星",
+      "TencentCloud/Octop自托管AI日增386星"
+    ],
+    "ai-web": [
+      "Claude优化生物分子建模速度提升4倍",
+      "Anthropic推出生命科学验证计划LSVP",
+      "低内存模式单GPU预测万token大分子",
+      "百万美元蛋白质设计赛联合Adaptyv Bio",
+      "LSVP支持Mythos/Opus/Sonnet受控访问",
+      "OpenAI Astra For Law页面正文未公开"
+    ],
+    "ai-hn": [
+      "Fowler《我不喜欢LLM》192分登顶HN",
+      "OpenAI Astra for Law获172分163评",
+      "OpenAI模型失调报告框架引发治理争议",
+      "Bend语言用证明阻断AI错误获159分",
+      "Infinite-Parameter LLMs突破固定参数",
+      "LLM分类即特征工程，实务派强烈共鸣"
+    ],
+    "ai-arxiv": [
+      "Infinite-Parameter LLMs动态权重生成",
+      "CERA-MoA联合演化路由增强混合Agent",
+      "高阶MoE专家剪枝缓解内存瓶颈",
+      "LLM奖励攻击内部表征可被监控",
+      "零样本力感知机器人触觉操控",
+      "双下降现象的最小作用原理解释"
+    ],
+    "ai-hf": [
+      "Edge0-35B仅3B激活MoE边缘模型周榜第一",
+      "Qwen3.8-27B以15524赞稳居总榜最高",
+      "DeepSeek-V4.1-Flash新锐，去审查微调跟进",
+      "MiniMax-H3与LTX-2.5推升视频生成热度",
+      "Qwen3.8-27B-GGUF下载量820万次",
+      "NeoHorse-1-4B专注Agentic轻量部署"
+    ],
+    "ai-community": [
+      "AI复现旧bug：32次运行0%代码重用",
+      "$150安卓手机构建AI编程导师KODA",
+      "AI规划170次变更重复犯相同3个错误",
+      "MCP服务器工具投毒攻击无人修补",
+      "开发者2026转向本地优先AI与隐私硬件",
+      "ChatGPT联创System One无文本新范式"
+    ],
+    "ai-steam": [
+      "Trails in the Sky 2nd登顶热销¥268",
+      "Baldur's Gate 3七折特价¥208.60",
+      "GTA V Enhanced半价特价¥74.50",
+      "No Man's Sky四折特价¥70",
+      "It Takes Two三折特价¥59.40",
+      "Diablo IV Lord of Hatred七五折¥208.50"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "llama.cpp ships 14 nightlies with MoE fixes",
+      "Codex alpha builds add sandboxing and OAuth",
+      "Copilot CLI v1.0.86-2 has Auto model regression",
+      "Gemini CLI fixes subagent MAX_TURNS bug",
+      "Claude Code v2.1.274 adds memory usage warnings",
+      "Qwen Code desktop v0.24.0 released"
+    ],
+    "ai-agents": [
+      "CoPaw leads: 41 PRs, health score 9",
+      "ZeroClaw: 50 issues, 50 PRs in 24h",
+      "Ecosystem shifting to security hardening",
+      "PicoClaw and ZeptoClaw target edge hardware",
+      "NanoClaw and Moltis address cloud parity",
+      "OpenClaw serves as architectural backbone"
+    ],
+    "ai-web": [
+      "Anthropic models optimized ~4x faster",
+      "LSVP grants biologists Claude model access",
+      "$1M protein-design competition launched",
+      "OpenAI publishes Astra For Law page",
+      "Low-memory mode handles >10k tokens",
+      "Claude optimized 30+ models in ~4 weeks"
+    ],
+    "ai-hn": [
+      "Martin Fowler's 'I Don't Like LLMs' debate",
+      "Infinite-Parameter LLMs paper scores 84",
+      "Bend blocks AI mistakes via proofs",
+      "OpenAI reports concerning model behaviors",
+      "Local LLM server benchmarking featured",
+      "Developer wariness on rapid AI deployment"
+    ],
+    "ai-arxiv": [
+      "Reward hacking detectable in representations",
+      "Agentic AI safety research dominates",
+      "MoE infinite-parameter adaptation explored",
+      "Tool-call-aware KV cache management",
+      "Sparse autoencoders aid interpretability",
+      "Embodied AI: force-aware video generation"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B: 15,524 likes, 7.46M downloads",
+      "DeepSeek-V4.1-Flash image-text-to-text debuts",
+      "MiniMax-H3 and LTX-2.5 drive video momentum",
+      "YuE2 and Tencent AuK rise in audio",
+      "Edge0-35B-A3B MoE edge preview",
+      "BERT and MiniLM show stable production use"
+    ]
+  }
+}
