@@ -1,0 +1,74 @@
+# Steam 游戏速报 2026-09-21
+
+> 数据来源: [Steam](https://store.steampowered.com) | 热门 10 款, 特价 10 款 | 生成时间: 2026-09-20 22:15 UTC
+
+---
+
+# Steam 遊戲速報（2026-09-21 中國區）
+
+## 一、熱門遊戲
+
+1. **EA SPORTS FC™ 27** — ¥248.00  
+   https://store.steampowered.com/app/4080220/
+
+2. **WARDOGS** — ¥149.00  
+   https://store.steampowered.com/app/1867240/
+
+3. **Baldur's Gate 3** — ¥208.60  
+   https://store.steampowered.com/app/1086940/
+
+4. **EA SPORTS FC™ 27** — ¥248.00  
+   https://store.steampowered.com/app/4080220/
+
+5. **How to Fish** — ¥33.00  
+   https://store.steampowered.com/app/4001890/
+
+6. **Grand Theft Auto V Enhanced** — ¥74.50  
+   https://store.steampowered.com/app/3240220/
+
+7. **Grand Theft Auto V Enhanced** — ¥74.50  
+   https://store.steampowered.com/app/3240220/
+
+8. **Party Animals** — ¥49.00  
+   https://store.steampowered.com/app/1260320/
+
+9. **Trails in the Sky 2nd Chapter** — ¥268.20  
+   https://store.steampowered.com/app/4225980/
+
+10. **Split Fiction** — ¥128.70  
+    https://store.steampowered.com/app/2001120/
+
+## 二、特價遊戲
+
+1. **Baldur's Gate 3** — ¥208.60（-30%）  
+   https://store.steampowered.com/app/1086940/
+
+2. **Grand Theft Auto V Enhanced** — ¥74.50（-50%）  
+   https://store.steampowered.com/app/3240220/
+
+3. **No Man's Sky** — ¥70.00（-60%）  
+   https://store.steampowered.com/app/275850/
+
+4. **Far Cry® 6** — ¥29.80（-90%）  
+   https://store.steampowered.com/app/2369390/
+
+5. **Split Fiction** — ¥128.70（-35%）  
+   https://store.steampowered.com/app/2001120/
+
+6. **Trails in the Sky 2nd Chapter** — ¥268.20（-10%）  
+   https://store.steampowered.com/app/4225980/
+
+7. **It Takes Two** — ¥59.40（-70%）  
+   https://store.steampowered.com/app/1426210/
+
+8. **FINAL FANTASY VII REMAKE INTERGRADE** — ¥49.50（-75%）  
+   https://store.steampowered.com/app/1462040/
+
+9. **Party Animals** — ¥49.00（-50%）  
+   https://store.steampowered.com/app/1260320/
+
+10. **FINAL FANTASY VII REBIRTH** — ¥74.40（-70%）  
+    https://store.steampowered.com/app/2909400/
+
+---
+*本日报由 [agents-radar](https://github.com/stevenko2002/agents-radar) 自动生成。*
