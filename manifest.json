@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-19T22:25:52.369Z",
+  "generated": "2026-09-20T22:25:20.600Z",
   "dates": [
+    {
+      "date": "2026-09-21",
+      "reports": [
+        "ai-cli",
+        "ai-cli-en",
+        "ai-agents",
+        "ai-agents-en",
+        "ai-trending",
+        "ai-trending-en",
+        "ai-hn",
+        "ai-hn-en",
+        "ai-hf",
+        "ai-hf-en",
+        "ai-community",
+        "ai-community-en",
+        "hk01",
+        "hk01-en",
+        "steam",
+        "steam-en"
+      ]
+    },
     {
       "date": "2026-09-20",
       "reports": [
