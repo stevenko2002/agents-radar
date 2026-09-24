@@ -1,0 +1,74 @@
+# Steam 游戏速报 2026-09-25
+
+> 数据来源: [Steam](https://store.steampowered.com) | 热门 10 款, 特价 10 款 | 生成时间: 2026-09-24 22:16 UTC
+
+---
+
+
+
+### Steam 遊戲速報（2026-09-25 中國區）
+
+#### 熱門遊戲
+1. **EA SPORTS FC™ 27** - ¥248.00  
+   https://store.steampowered.com/app/4080220/
+
+2. **Kingdom Rush 6: Genesis TD** - ¥69.30  
+   https://store.steampowered.com/app/4259190/
+
+3. **Total War: WARHAMMER III – Lords of the End Times** - ¥153.00  
+   https://store.steampowered.com/app/80339/
+
+4. **Ultimate Conquest Bundle** - ¥231.93  
+   https://store.steampowered.com/app/26881/
+
+5. **CONTROL Resonant** - ¥268.00  
+   https://store.steampowered.com/app/3669870/
+
+6. **How to Fish** - ¥33.00  
+   https://store.steampowered.com/app/4001890/
+
+7. **WARDOGS** - ¥149.00  
+   https://store.steampowered.com/app/1867240/
+
+8. **Dressmaker** - ¥53.10  
+   https://store.steampowered.com/app/4019220/
+
+9. **Total War: WARHAMMER III - Nagash – Lords of the End Times** - ¥45.00  
+   https://store.steampowered.com/app/3589650/
+
+10. **The Last of Us™ Part II Remastered** - ¥231.15  
+    https://store.steampowered.com/app/2531310/
+
+#### 特價遊戲
+1. **The Last of Us™ Part II Remastered** - ¥231.15（-33%）  
+   https://store.steampowered.com/app/2531310/
+
+2. **Dressmaker** - ¥53.10（-10%）  
+   https://store.steampowered.com/app/4019220/
+
+3. **Split Fiction** - ¥128.70（-35%）  
+   https://store.steampowered.com/app/2001120/
+
+4. **It Takes Two** - ¥59.40（-70%）  
+   https://store.steampowered.com/app/1426210/
+
+5. **Ori and the Will of the Wisps** - ¥9.00（-90%）  
+   https://store.steampowered.com/app/1057090/
+
+6. **FINAL FANTASY VII REMAKE INTERGRADE** - ¥49.50（-75%）  
+   https://store.steampowered.com/app/1462040/
+
+7. **FINAL FANTASY VII REBIRTH** - ¥74.40（-70%）  
+   https://store.steampowered.com/app/2909400/
+
+8. **World Apart** - ¥19.89（-33%）  
+   https://store.steampowered.com/app/4209920/
+
+9. **Persona 5 Royal** - ¥80.40（-70%）  
+   https://store.steampowered.com/app/1687950/
+
+10. **Persona 3 Reload** - ¥80.40（-70%）  
+    https://store.steampowered.com/app/2161700/
+
+---
+*本日报由 [agents-radar](https://github.com/stevenko2002/agents-radar) 自动生成。*

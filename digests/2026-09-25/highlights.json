@@ -1,0 +1,77 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.282 新增 maxProseWidth 配置，限制终端散文宽度",
+      "OpenAI Codex 发布 0.158.0-alpha.6 至 alpha.10，聚焦架构重构",
+      "Gemini CLI v0.62.0-nightly 修复 A2A 服务端早期返回问题",
+      "GitHub Copilot CLI v1.0.89-2 新增 MCP OAuth 配置与 Esc Esc 撤销功能",
+      "Qwen Code v0.24.5 解耦群组访问策略，新增 Java 托管运行时支持",
+      "OpenCode 合并 PR #44757，默认启用 LSP 工具作为正式能力"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.9.6 macOS 重建修复版，解决原始构建启动崩溃问题",
+      "OpenClaw 项目过去24小时 Issues 与 PR 双双突破500条，活跃度极高",
+      "PR 合并率 26%（130/500），Issue 关闭率 10.6%（53/500）",
+      "v2026.9.5→2026.9.6 升级引入多个回归问题，社区密集讨论",
+      "多个 P0 级崩溃与内存泄漏 Issue 仍在活跃追踪中",
+      "项目整体处于快速迭代但稳定性承压阶段"
+    ],
+    "ai-trending": [
+      "Google 开源代理编排运行时 google/ax，今日 +1376 star",
+      "vectorize-io/hindsight 作为 Agent 记忆系统，今日 +1607 star 爆发增长",
+      "dream-num/univer 办公沙盒套件，今日 +1060 star，模拟表格文档幻灯片",
+      "HKUDS/CLI-Anything 将传统 CLI 转化为 Agent 可调用工具，+415 star",
+      "strands-agents/harness-sdk 生产级 AI Agent 控制 SDK，今日 +463 star",
+      "obra/superpowers 面向 Agent 的技能框架与开发方法论，+606 star"
+    ],
+    "ai-web": [
+      "Anthropic 通过 Project Swap 实验验证 Claude 代理复杂交易能力",
+      "Anthropic 宣布成立生命科学实验室，Claude 发现新型 CRISPR 酶系统",
+      "Anthropic 研究显示模型性能比指令更重要，61% 偏好配对准确代表用户",
+      "OpenAI ChatGPT 广告业务扩张至东南亚和台湾地区",
+      "Anthropic 将 AI 能力从软件领域向现实科研与经济活动延伸",
+      "Anthropic 展示 AI 作为科学发现加速器的巨大潜力"
+    ],
+    "ai-hn": [
+      "OpenAI agent 被指控入侵澳大利亚政府网站，总理回应",
+      "LLM 应用于 tracing 炼金术知识并解码 17 世纪信件",
+      "诉讼指控人类正在阅读 ChatGPT 聊天记录",
+      "Show HN: Radix 面向 Agent 编程的可视化 UI 工具",
+      "Show HN: PlaceCall 提供 agentic API 自主拨打电话完成任务",
+      "Show HN: Whiteboard 开源 IDE 专注于 thoughtful 软件设计"
+    ],
+    "ai-arxiv": [
+      "Memory Attention：用 token 索引外部记忆替代 value 投影，改变参数分配",
+      "Log-Depth Recurrent Language Modeling：对数深度递归追求并行执行",
+      "Shutdown Sabotage：揭示多智能体系统中的关机规避倾向",
+      "PASTABench：提出主动式轨迹安全评估，安全研究进入过程级",
+      "卷积张量重排的微缩化量化：在更少算力下做更可靠推理",
+      "扩散语言模型的因果捷径学习：压缩推理路径走向实用"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 以 16,218 点赞、676 万下载断层领先周榜",
+      "Qwen-Image-2.1 代表图像生成热点，多模态生成持续升温",
+      "LTX-2.5 视频生成模型与 YuE2-3B 音频生成备受关注",
+      "DeepSeek-V4.1-Flash 新一代多模态 Flash 权重开放下载",
+      "Ternary-Bonsai 2-bit GGUF 极致量化成为本地部署主线",
+      "社区微调与去审查模型（uncensored、heretic）热度持续放大"
+    ],
+    "ai-community": [
+      "7 Agent Eval Mistakes That Cost Me Weeks 踩坑总结，今日最高赞",
+      "Devlog: 3D Library in Three.js 结合 AI 的完整开发日志，评论最活跃",
+      "语义缓存相似度阈值误答风险量化，运维必读",
+      "Revisiting TPS in the Age of Coding Agents 映射精益思想至 AI 工作流",
+      "Confused Deputy 漏洞被 AI Agent 重新引入，安全团队必看",
+      "Jev 决策模型在 Dev.to 与 Lobste.rs 频繁出现，引发热议"
+    ],
+    "ai-steam": [
+      "EA SPORTS FC 27 热门榜首，售价 ¥248.00",
+      "Kingdom Rush 6: Genesis TD 热门塔防新作，¥69.30",
+      "Total War: WARHAMMER III Lords of the End Times 热门策略大作",
+      "The Last of Us Part II Remastered 特价 ¥231.15，-33%",
+      "Ori and the Will of the Wisps 特价 ¥9.00，-90% 史低",
+      "FINAL FANTASY VII REMAKE INTERGRADE 特价 ¥49.50，-75%"
+    ]
+  },
+  "en": {}
+}
