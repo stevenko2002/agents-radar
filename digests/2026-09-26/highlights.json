@@ -1,0 +1,150 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.283 发布，新增模型白名单管控",
+      "Codex v0.157.0 支持 GPT-6 Sol/Luna 模型",
+      "Ollama v0.40.0-rc0：Apple Silicon 默认走 MLX",
+      "llama.cpp 连发 10 版，修复 Unicode 路径问题",
+      "Copilot CLI v1.0.89-4 引入自动路由层级建议",
+      "DeepSeek TUI 升级宿主架构，修复首启消息丢失"
+    ],
+    "ai-agents": [
+      "OpenClaw 单日 Issues 与 PR 双双触及 500 上限",
+      "2026.9.4→9.5 升级路径故障，P0 崩溃集中爆发",
+      "PR #157972 修复卡住的更新并保护会话数据",
+      "PR #158346 降低流式回复期间 Gateway CPU 开销",
+      "PR #158209 修复标记已读后回复卡顿 10 秒",
+      "2026.9.6 新 worker 引入内存与磁盘问题"
+    ],
+    "ai-trending": [
+      "Paperclip 单日暴涨 1853 stars，登顶趋势榜",
+      "Hindsight 记忆系统 +1652 stars，主打长期记忆",
+      "Google 开源智能体编排运行时 ax，+1386 stars",
+      "NVIDIA 发布 Model-Optimizer 模型压缩库",
+      "Anthropic 开源 Agent Skills 公共技能仓库",
+      "Superpowers 技能框架单日 +465 stars"
+    ],
+    "ai-web": [
+      "Claude 攻克九圈振幅计算，物理学家验证",
+      "Project Swap：模型能力比指令更决定交易结果",
+      "实验显示代理偏好匹配度 61%，交易行为理性",
+      "Anthropic 单日新增 2 篇研究，均属 research",
+      "OpenAI 官网今日无新增内容更新",
+      "Anthropic 借硬核科学成果巩固安全定位"
+    ],
+    "ai-hn": [
+      "美上诉法院维持对 Anthropic 供应链风险认定",
+      "Claude 九圈推理登 HN 热门，100 分 55 评论",
+      "OpenAI 发布 MentalHealthBench 心理健康基准",
+      "OpenAI Agent 攻击 Hugging Face 细节引热议",
+      "OpenAI 500 美元 Pro Max 套餐引发讨论",
+      "AI 换脸广告与澳洲医保入侵引伦理反思"
+    ],
+    "ai-arxiv": [
+      "研究：LLM 智能体可轻易篡改自身执行轨迹",
+      "EvasionBench：普通任务压力下也会规避监控",
+      "被监控持续对话中智能体泄漏用户秘密",
+      "MISVO 让测试时对齐更可控、低损伤",
+      "PoEM 用已有策略预测 RL 后训练结果",
+      "智能体技能编译为有限状态机提升可靠性"
+    ],
+    "ai-hf": [
+      "Qwen-Image-2.1 登榜，点赞数达 2318",
+      "DeepSeek-V4.1-Flash 下载量超 62 万",
+      "Qwen-Image-2.1 无审查 GGUF 下载 71 万",
+      "小米 MiMo-V2.6 Pro/Flash RL 双双上榜",
+      "GGUF 量化模型下载量动辄数十万",
+      "ASR、VAD 等专用小型模型崛起登榜"
+    ],
+    "ai-community": [
+      "实测：升级到更强模型让 34 个答案变差",
+      "开发者用 Gate 闸门替代 Agent 演示式信任",
+      "API 正在迎来 Agent 这一新调用方",
+      "AI 让编码更快、学习更慢引发共鸣",
+      "Vibe coding 被重新定义为压缩的经验",
+      "Agent 技能投毒与提示注入议题升温"
+    ],
+    "ai-steam": [
+      "EA SPORTS FC 27 登顶国区热销榜，¥248",
+      "《奥日与萤火意志》¥9 打 90% 折扣",
+      "《最后生还者 第二部 重制版》¥231.15",
+      "女神异闻录 3/5 皇家版捆绑包 ¥144.72",
+      "《黑暗之魂3》豪华版半价 ¥199",
+      "《双人成行》70% off 仅 ¥59.40"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Ollama v0.40.0-rc0 adds native MLX on Apple Silicon",
+      "Claude Code v2.1.283 adds gateway prompt grouping",
+      "OpenAI Codex v0.157.0 adds GPT-6 Sol and Luna",
+      "GitHub Copilot CLI v1.0.89-4 improves routing",
+      "Pi dual PR adds Codemode and MCP support",
+      "Claude Code adds availableModelsMatch setting"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs in 24h",
+      "OpenClaw ships rapid 2026.9.4 to 2026.9.7 releases",
+      "prepared-model-catalog.worker.js causes P0 regressions",
+      "OpenClaw 2026.9.7 fixes tracker is active",
+      "No new releases today; RC commit 9e584c4 prepared",
+      "13 agent projects covered, including NanoBot"
+    ],
+    "ai-trending": [
+      "Agent harness stack dominates GitHub trending",
+      "google/ax gains 1,386 stars today",
+      "paperclip agent management UI trends",
+      "hindsight agent memory lands trending",
+      "Anthropic releases claude-plugins-official and skills",
+      "NVIDIA/Model-Optimizer gains 360 stars today"
+    ],
+    "ai-web": [
+      "Anthropic releases two new research articles",
+      "Claude computes nine-loop amplitude in N=4 SYM",
+      "Project Swap: Claude agents trade books autonomously",
+      "OpenAI published no new content today",
+      "Anthropic sitemap total reaches 449 articles",
+      "OpenAI sitemap total stands at 1035 articles"
+    ],
+    "ai-hn": [
+      "Anthropic designated supply chain risk tops HN",
+      "Yes, Claude can do nine loops sparks debate",
+      "Meta Muse using OpenAI model draws attention",
+      "30 AI stories tracked in past 24 hours",
+      "Community debates Anthropic supply chain risk",
+      "HN picks deep reads for AI developers"
+    ],
+    "ai-arxiv": [
+      "LLM agents can tamper with execution traces",
+      "Agents evade runtime monitors under pressure",
+      "Paper questions visual-text alignment scores",
+      "Coding agents migrate into robotics tasks",
+      "MISVO enables minimally invasive model steering",
+      "Video diffusion accelerated via trajectory routing"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 16,278 likes",
+      "Qwen3.8-27B reaches 6.58M downloads",
+      "Qwen3.8-Flash-Next trends on Hugging Face",
+      "Lightricks/LTX-2.5 gets 5,101 likes",
+      "DeepSeek-V4.1-Flash hits 3,752 likes",
+      "unsloth/Qwen3.8-27B-GGUF hits 6.94M downloads"
+    ],
+    "ai-community": [
+      "Agents need gates, not endless workflows",
+      "ChatGPT tracks activity on other websites",
+      "Goodbye Google tops Lobste.rs discussion",
+      "Benchmark measures AI belief attribution",
+      "Better model made 34 answers worse, study",
+      "API docs need machine-readable agent version"
+    ],
+    "ai-steam": [
+      "EA SPORTS FC 27 tops Steam HK sellers",
+      "Ori and the Will of the Wisps at ¥9 (-90%)",
+      "Kingdom Rush 6: Genesis TD ranks third",
+      "Persona 3 Reload 70% off at ¥80.40",
+      "The Last of Us Part II Remastered 33% off",
+      "DARK SOULS III Deluxe 50% off at ¥199"
+    ]
+  }
+}

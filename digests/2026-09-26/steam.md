@@ -1,0 +1,56 @@
+# Steam 游戏速报 2026-09-26
+
+> 数据来源: [Steam](https://store.steampowered.com) | 热门 10 款, 特价 10 款 | 生成时间: 2026-09-25 22:15 UTC
+
+---
+
+
+
+### Steam 中國區遊戲速報 (2026-09-26)
+
+#### 熱門遊戲 (Top 10)
+1.  **EA SPORTS FC™ 27** - ¥248.00
+    https://store.steampowered.com/app/4080220/
+2.  **Ori and the Will of the Wisps** - ¥9.00
+    https://store.steampowered.com/app/1057090/
+3.  **Kingdom Rush 6: Genesis TD** - ¥69.30
+    https://store.steampowered.com/app/4259190/
+4.  **CONTROL Resonant** - ¥268.00
+    https://store.steampowered.com/app/3669870/
+5.  **The Last of Us™ Part II Remastered** - ¥231.15
+    https://store.steampowered.com/app/2531310/
+6.  **How to Fish** - ¥33.00
+    https://store.steampowered.com/app/4001890/
+7.  **Total War: WARHAMMER III – Lords of the End Times** - ¥153.00
+    https://store.steampowered.com/app/80339/
+8.  **Persona 3 Reload & Persona 5 Royal Bundle** - ¥144.72
+    https://store.steampowered.com/app/43918/
+9.  **Persona 3 Reload** - ¥80.40
+    https://store.steampowered.com/app/2161700/
+10. **WARDOGS** - ¥149.00
+    https://store.steampowered.com/app/1867240/
+
+#### 特價遊戲 (Deals)
+1.  **Ori and the Will of the Wisps** - ¥9.00 (-90%)
+    https://store.steampowered.com/app/1057090/
+2.  **The Last of Us™ Part II Remastered** - ¥231.15 (-33%)
+    https://store.steampowered.com/app/2531310/
+3.  **Persona 3 Reload** - ¥80.40 (-70%)
+    https://store.steampowered.com/app/2161700/
+4.  **Dressmaker** - ¥53.10 (-10%)
+    https://store.steampowered.com/app/4019220/
+5.  **Persona 5 Royal** - ¥80.40 (-70%)
+    https://store.steampowered.com/app/1687950/
+6.  **DARK SOULS III Deluxe Edition** - ¥199.00 (-50%)
+    https://store.steampowered.com/app/94174/
+7.  **Split Fiction** - ¥128.70 (-35%)
+    https://store.steampowered.com/app/2001120/
+8.  **DARK SOULS™: REMASTERED** - ¥99.00 (-50%)
+    https://store.steampowered.com/app/570940/
+9.  **It Takes Two** - ¥59.40 (-70%)
+    https://store.steampowered.com/app/1426210/
+10. **FINAL FANTASY VII REMAKE INTERGRADE** - ¥49.50 (-75%)
+    https://store.steampowered.com/app/1462040/
+
+---
+*本日报由 [agents-radar](https://github.com/stevenko2002/agents-radar) 自动生成。*
