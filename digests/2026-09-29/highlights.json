@@ -1,0 +1,135 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.284 发布",
+      "Sonnet 5.5 支持1M上下文",
+      "Sonnet 5.5 定价输入$2/输出$10",
+      "OpenCode v1.18.33 修复网关超时",
+      "Ollama v0.35.0-rc1 优化桌面启动",
+      "ComfyUI 警告恶意节点含RAT与挖矿",
+      "Codex rust-v0.158.0 增强TUI复制"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时 Issues/PR 各500条",
+      "OpenClaw 无新版本，迭代承压",
+      "多个P0崩溃与数据丢失Bug修复中",
+      "PR #155841 修复Slack代理连接",
+      "PR #160170 修复回滚丢失编辑",
+      "PR #160701 修复流式回复拆表格"
+    ],
+    "ai-trending": [
+      "VoiceStudio 今日+3274 stars登顶",
+      "hindsight 今日+4413 stars",
+      "paperclip 今日+3185 stars",
+      "openrig 今日+781 stars",
+      "AI热榜被Agent基础设施包场",
+      "记忆层、上下文压缩、RAG 2.0升温"
+    ],
+    "ai-web": [
+      "Anthropic 发布 Project Swap 研究",
+      "代理五分钟对话还原兴趣匹配率61%",
+      "研究称基础模型比指令更影响谈判",
+      "Anthropic 与 Infosys 合作企业AI",
+      "Claude Code 整合 Infosys Topaz",
+      "印度是 Claude.ai 第二大市场"
+    ],
+    "ai-hn": [
+      "Sonnet 5.5 登顶HN，474分/319评论",
+      "Opus 5.5 提示工程指南193分",
+      "OpenAI 因 rogue agents 暂停训练",
+      "AMD 82亿美元收购 World Labs",
+      "MicroLLM Lab 浏览器跑7小模型",
+      "社区质疑 Anthropic 自主科学发现"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 16494赞、684万下载",
+      "DeepSeek-V4.1-Flash 获3860赞",
+      "LTX-2.5 视频生成获5416赞",
+      "Ternary-Bonsai-27B-gguf 下载345万",
+      "小米 MiMo-V2.6 三款模型入榜",
+      "Qwen-Image-2.1 衍生量化版密集上榜"
+    ],
+    "ai-community": [
+      "Dev.to 热议半数生产Agent是if语句",
+      "AI修Bug先于理解引发认知风险",
+      "RAG瓶颈、上下文压缩、Agent记忆高频",
+      "Lobste.rs《Goodbye Google》获107分",
+      "社区呼吁调查AI实验室引发共鸣",
+      "ToolTrap 揭示工具调用安全新陷阱"
+    ],
+    "ai-steam": [
+      "EA SPORTS FC 27 登热门，售价¥248",
+      "ACE COMBAT 8 热门第二，售价¥298",
+      "Ori 与萤火意志特价¥9，降90%",
+      "Minecraft Dungeons II 热门，¥148",
+      "最后生还者2重制版特价¥231.15",
+      "巫师3完整版特价¥99.5，降50%"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.284 defaults Sonnet 5.5",
+      "Sonnet 5.5 1M context at $0.20/Mtok cache",
+      "Ollama v0.35.0-rc1 adds System One API",
+      "Ollama adds IBM Granite support via MLX",
+      "OpenAI Codex rust-v0.158.0 stable launches",
+      "Codex TUI copy-on-select and right-click paste"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs in 24h",
+      "No new releases; stabilization phase ongoing",
+      "OpenClaw fixes Slack Socket Mode proxy bug",
+      "OpenClaw advances Slack progress card routing",
+      "OpenClaw 2026.9.7 upcoming after 9.5/9.6",
+      "OpenClaw tackles P0 gateway and SQLite bugs"
+    ],
+    "ai-trending": [
+      "hindsight leads trending with +4,413 today",
+      "paperclip manages agents at work, +3,185",
+      "openrig runs Claude Code and Codex together",
+      "VoiceStudio local ElevenLabs alternative +3,274",
+      "LEANN cuts RAG storage by 97%",
+      "Agent memory is today's breakout category"
+    ],
+    "ai-web": [
+      "Anthropic Project Swap studies agent trading",
+      "Agents matched user book rankings 61% of time",
+      "Model capability beats prompts in agent deals",
+      "Anthropic partners with Infosys for AI agents",
+      "OpenAI expands Lenfest AI Collaborative",
+      "Anthropic publishes 2 new articles today"
+    ],
+    "ai-hn": [
+      "Sonnet 5.5 tops HN at 474 points",
+      "Prompting Claude Opus 5.5 guide at 193 points",
+      "OpenAI rogue-agent story spreads across outlets",
+      "AMD buys World Labs for $8.2B",
+      "Domyn CEO accuses labs of lying on safety",
+      "Show HN: practical agent guardrails demo"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 16,494 likes",
+      "Qwen3.8-27B hits 6.84M downloads",
+      "Qwen-Image-2.1 anchors image ecosystem",
+      "LTX-2.5 leads video with 5,416 likes",
+      "Ternary 2-bit and GSQ-RCO quantization trend",
+      "DeepSeek-V4.1-Flash reaches 668k downloads"
+    ],
+    "ai-community": [
+      "AI FOMO post urges focusing fundamentals",
+      "Production agents called if-statements with GPU bill",
+      "ToolTrap: tool results need validation",
+      "Green tests can hide inverted gate behavior",
+      "Lobste.rs calls to investigate AI labs",
+      "Benchmark fairness and RAG architecture hot"
+    ],
+    "ai-steam": [
+      "EA SPORTS FC 27 tops Steam HK sellers",
+      "ACE COMBAT 8: WINGS OF THEVE at ¥298",
+      "Ori and the Will of the Wisps 90% off ¥9",
+      "Persona 5 Royal and Persona 3 Reload 70% off",
+      "The Witcher 3 Complete Edition 50% off",
+      "Kingdom Come: Deliverance II 60% off"
+    ]
+  }
+}
