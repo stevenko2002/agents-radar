@@ -1,0 +1,80 @@
+# Steam 游戏速报 2026-09-30
+
+> 数据来源: [Steam](https://store.steampowered.com) | 热门 10 款, 特价 10 款 | 生成时间: 2026-09-29 22:16 UTC
+
+---
+
+
+
+好的，这是为您整理的 Steam 遊戲速報。
+
+---
+
+### **Steam 中國區遊戲速報 (2026-09-30)**
+
+#### **熱門遊戲**
+
+1.  **EA SPORTS FC™ 27** - ¥248.00
+    https://store.steampowered.com/app/4080220/
+
+2.  **Minecraft Dungeons II** - ¥148.00
+    https://store.steampowered.com/app/1912410/
+
+3.  **ACE COMBAT 8: WINGS OF THEVE** - ¥298.00
+    https://store.steampowered.com/app/2288340/
+
+4.  **Ori and the Will of the Wisps** - ¥9.00
+    https://store.steampowered.com/app/1057090/
+
+5.  **How to Fish** - ¥33.00
+    https://store.steampowered.com/app/4001890/
+
+6.  **Kingdom Rush 6: Genesis TD** - ¥69.30
+    https://store.steampowered.com/app/4259190/
+
+7.  **The Witcher 3: Wild Hunt — Remastered** - ¥99.50
+    https://store.steampowered.com/app/292030/
+
+8.  **ACE COMBAT 8: WINGS OF THEVE** - ¥298.00
+    https://store.steampowered.com/app/2288340/
+
+9.  **Phantom Blade Zero** - ¥268.00
+    https://store.steampowered.com/app/4115450/
+
+10. **Phantom Blade Zero** - ¥268.00
+    https://store.steampowered.com/app/4115450/
+
+#### **特價遊戲**
+
+1.  **The Witcher 3: Wild Hunt — Remastered** - ¥99.50 (-50%)
+    https://store.steampowered.com/app/292030/
+
+2.  **Ori and the Will of the Wisps** - ¥9.00 (-90%)
+    https://store.steampowered.com/app/1057090/
+
+3.  **The Last of Us™ Part II Remastered** - ¥231.15 (-33%)
+    https://store.steampowered.com/app/2531310/
+
+4.  **Persona 5 Royal** - ¥80.40 (-70%)
+    https://store.steampowered.com/app/1687950/
+
+5.  **Persona 3 Reload** - ¥80.40 (-70%)
+    https://store.steampowered.com/app/2161700/
+
+6.  **Kingdom Come: Deliverance II** - ¥91.20 (-60%)
+    https://store.steampowered.com/app/1771300/
+
+7.  **Hades** - ¥23.00 (-75%)
+    https://store.steampowered.com/app/1145360/
+
+8.  **Deskrawl: Idle ARPG** - ¥19.60 (-30%)
+    https://store.steampowered.com/app/4623570/
+
+9.  **DARK SOULS III Deluxe Edition** - ¥199.00 (-50%)
+    https://store.steampowered.com/app/94174/
+
+10. **Hades II** - ¥75.60 (-30%)
+    https://store.steampowered.com/app/1145350/
+
+---
+*本日报由 [agents-radar](https://github.com/stevenko2002/agents-radar) 自动生成。*

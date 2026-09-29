@@ -1,0 +1,150 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.285 可禁用 WebFetch",
+      "OpenAI Codex v0.159.1 GPT-6.1 Sol 成默认",
+      "Pi v0.99.0 落地 Codemode + MCP 并行调用",
+      "ComfyUI v0.38.0 加速 Qwen Image 2.1 推理",
+      "GitHub Copilot CLI 五日内连发五个补丁版",
+      "Ollama v0.35.1-rc0 发布候选版"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时新增433 Issues",
+      "v2026.8.33 extended-stable 发布等同LTS",
+      "修复 Bun Gateway 更新子进程爆炸至8462个",
+      "Discord/Mattermost ingress lane 释放修复",
+      "升级9.6后回归问题频发稳定性挑战",
+      "Windows cron Proxy 环境变量传递问题"
+    ],
+    "ai-trending": [
+      "VoiceStudio 今日新增 +4712 领跑热榜",
+      "NVIDIA OpenShell 安全私有 Agent 运行时登榜",
+      "ollama 星标 181,927 本地部署入口",
+      "PageIndex 提出 Vectorless RAG 新路线",
+      "huggingface/transformers 星标 166,826",
+      "vllm 星标 92,957 高吞吐推理引擎"
+    ],
+    "ai-web": [
+      "Anthropic 发布 GLM-5.3 网络安全能力报告",
+      "报告称 GLM-5.3 安全绕过成功率64%-100%",
+      "OpenAI 新增8篇页面含 GPT-6 1 Sol 线索",
+      "Anthropic 征集公众对 AI 的期望与担忧",
+      "OpenAI Devday 2026 回顾页面出现",
+      "OpenAI 澳大利亚市场计划曝光"
+    ],
+    "ai-hn": [
+      "Anthropic IPO 招股书曝光成本激增引热议",
+      "Claude 大规模服务中断与容量饱和",
+      "GLM-5.3 网络安全报告 HN 149分107评论",
+      "OpenAI 超千亿美元新融资引关注",
+      "Hugging Face 漏洞法律诉讼",
+      "Simon Willison 发布 2026 LLM 阶段性回顾"
+    ],
+    "ai-arxiv": [
+      "望远 Transformer 统一多种计算预算无需重训",
+      "环路 MoE 扁平化专家解绑注意力实现深度扩展",
+      "50篇论文聚焦 LLM 架构与智能体效率",
+      "视频扩散模型高效训练与蒸馏",
+      "测试期适应与个性化生成受关注",
+      "3D 毛发重建与 ECG 去噪等应用"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 获 16,564 赞断层领跑",
+      "Qwen-Image-2.1 及 GGUF 量化占榜近半",
+      "Lightricks/LTX-2.5 视频生成 5,549 赞",
+      "DeepSeek-V4.1-Flash 多模态 3,893 赞",
+      "2-bit 三值量化 Ternary-Bonsai 受关注",
+      "XingChen-AGI/Xing4.0-29B-A4B 热度攀升"
+    ],
+    "ai-community": [
+      "AWS 多 Agent 合规阻断实验揭示治理陷阱",
+      "Meta 提示注入检测器阈值校准引热议",
+      "GitHub MCP 工具定义吞噬 55,000 token",
+      "GPT-6 Astra 单次调用成本高达 $10",
+      "决策模型只输出概率挑战 LLM 管道",
+      "前 Google 员工离职长文获 107 分"
+    ],
+    "ai-steam": [
+      "EA SPORTS FC 27 中国区热销 ¥248",
+      "Minecraft Dungeons II 登热门榜 ¥148",
+      "ACE COMBAT 8 双版本上榜 ¥298",
+      "巫师3 重制版半价 ¥99.50",
+      "奥日意志半价 ¥9 (-90%)",
+      "女神异闻录5 皇家版 70% off ¥80.40"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.285 adds WebFetch kill switch",
+      "OpenAI Codex v0.159.1 defaults to GPT-6.1 Sol",
+      "Pi v0.99.0 adds Codemode and MCP support",
+      "ComfyUI v0.38.0 boosts Qwen 2.1 performance",
+      "Claude Code adds --desktop launcher and plugin config",
+      "OpenAI Codex improves Windows sandbox startup"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs updated",
+      "OpenClaw v2026.8.33 is extended-stable release",
+      "OpenClaw backports critical security updates",
+      "OpenClaw 130 PRs merged or closed today",
+      "OpenClaw has 433 active open issues",
+      "OpenClaw adds new model support in stable"
+    ],
+    "ai-trending": [
+      "NVIDIA/OpenShell Rust runtime gains 978 stars",
+      "t8y2/dbx DB client gains 349 stars today",
+      "headroom compresses tool outputs 20-95%",
+      "ollama hits 181,927 GitHub stars",
+      "vllm has 92,957 GitHub stars",
+      "langchain reaches 147,276 GitHub stars"
+    ],
+    "ai-web": [
+      "Anthropic flags GLM-5.3 cyber risks",
+      "Anthropic relaunches What Do You Want from AI study",
+      "OpenAI posts 8 new articles on DevDay",
+      "Anthropic study drew 81,000 participants",
+      "OpenAI GPT-6.1-SOL appears in metadata",
+      "OpenAI highlights frontier safety-cases paper"
+    ],
+    "ai-hn": [
+      "Anthropic IPO prospectus sparks intense debate",
+      "Claude suffers partial outage, users frustrated",
+      "OpenAI sued over Hugging Face hack",
+      "OpenAI ignored internal security warnings, NYT",
+      "GLM-5.3 cyber capability research gets 149 points",
+      "OpenAI targets $30B at $1.4T valuation"
+    ],
+    "ai-arxiv": [
+      "Telescopic Language Models serve many budgets",
+      "Looped MoE reuses compact block across loops",
+      "Adaptive looped transformers improve test-time scaling",
+      "MS-GLA tackles attention representational bottlenecks",
+      "Papers question whether scaling-law methods are sound",
+      "Self-correcting agents adapt at test time"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 16,564 likes",
+      "Qwen3.8-27B hits 7M downloads",
+      "Lightricks/LTX-2.5 leads video generation",
+      "DeepSeek-V4.1-Flash adds open multimodal",
+      "Qwen-Image-2.1 spreads across GGUF variants",
+      "Xiaomi MiMo-V2.6-Pro-RL gains 78k downloads"
+    ],
+    "ai-community": [
+      "Claude and Obsidian QA workflow tops",
+      "Agent governance on AWS blocks few policies",
+      "MCP servers burn 55k tokens before reading",
+      "Prompt-injection detectors fail real attacks",
+      "$10 single prompts on 1M-context models",
+      "AI makes people faster but skills atrophy"
+    ],
+    "ai-steam": [
+      "EA SPORTS FC 27 tops Steam sellers",
+      "Minecraft Dungeons II hits top sellers",
+      "Ori and the Will of the Wisps 90% off",
+      "The Witcher 3 Remastered 50% off",
+      "Persona 5 Royal discounted to ¥80.40",
+      "Phantom Blade Zero appears twice in top 10"
+    ]
+  }
+}
