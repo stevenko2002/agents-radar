@@ -1,0 +1,150 @@
+{
+  "zh": {
+    "ai-cli": [
+      "llama.cpp v0.3.2 新增 GPU 缓冲区接口",
+      "OpenCode 修复 per-agent 权限优先级 Bug",
+      "Claude Code v2.1.288 新增文本选取 API",
+      "Codex CLI 修复消息队列丢失与卡死",
+      "Gemini CLI 实现原子化状态持久化",
+      "Copilot CLI 新增 Ctrl+E 快速切换"
+    ],
+    "ai-agents": [
+      "OpenClaw 单日处理 Issue 483 条",
+      "OpenClaw 发布 v2026.8.35 稳定版",
+      "P0 级崩溃：Gateway 崩溃循环与 OOM",
+      "插件加载性能优化 PR 已合并",
+      "SQLite 死锁问题仍在排查中",
+      "main 分支已推进至 2026.9.7"
+    ],
+    "ai-trending": [
+      "NVIDIA 开源 OpenShell 安全 Agent 运行时",
+      "caveman 极简提示词削减 65% Token",
+      "codegraph 预索引代码知识图谱受关注",
+      "ponytail 单日涨 1429 星登顶",
+      "superpowers 技能驱动开发框架走红",
+      "ollama 已支持 Kimi、GLM 等国产模型"
+    ],
+    "ai-web": [
+      "Anthropic 投 1 亿美元建 Frontier Academy",
+      "计划 2027 年底培养万名 AI 部署工程师",
+      "首批学员来自麦肯锡、摩根士丹利等",
+      "OpenAI 本期仅抓到 gpt-6 元数据",
+      "Anthropic 战略延伸至企业人才生态",
+      "培训体系提炼自 Claude 真实部署经验"
+    ],
+    "ai-hn": [
+      "Redis 作者新工具 ds4 支持本地跑 LLM",
+      "GLM 5.3 Flash 编码一个月实测分享",
+      "哈佛物理学家用 Claude 发表 36 篇论文",
+      "Llama.cpp 新增 Decision Models 特性",
+      "OpenAI 连续爆出安全事件与人事变动",
+      "Yann LeCun 尖锐批评 Anthropic 引热议"
+    ],
+    "ai-arxiv": [
+      "TACO 三元稀疏优化器降低微调内存",
+      "ZFO 框架解耦优化方向与步长选择",
+      "循环 Transformer 解码性能近零成本提升",
+      "研究挑战 SFT 泛化不如 RL 的传统观点",
+      "诊断并修复 LLM 数学推理缺陷",
+      "RPG 框架让机器人自主改进技能"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶周点赞与下载双榜",
+      "LTX-2.5 视频生成模型下载超 158 万",
+      "Qwen-Image-2.1 衍生大量热门模型",
+      "DeepSeek-V4.1-Flash 高效推理受关注",
+      "27B 级低比特量化模型部署热度上升",
+      "去审查 GGUF 版本下载破百万"
+    ],
+    "ai-community": [
+      "15 个 AI 模型中 73% 发现真实攻击却沉默",
+      "Caveman 极简提示策略显著省 Token",
+      "1.7B 小模型跑编码代理实践分享",
+      "Gemma 4 在单 TPU v5e 达 675 tokens/s",
+      "模型替换攻击案例揭示测试盲区",
+      "AI 生成草稿按钮倒逼写作工具重构"
+    ],
+    "ai-steam": [
+      "The Outlast Trials 打 1 折仅 13.6 元",
+      "赛博朋克 2077 直降至 89.4 元",
+      "荒野大镖客 2 特价 69.75 元",
+      "上古卷轴 5 特别版 1 折 16.5 元",
+      "博德之门 3 降价至 208.6 元",
+      "EA SPORTS FC 27 售价 248 元"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.288 adds $.ui.selection() mod API.",
+      "Claude Code PR #16632 fixes ralph-loop silent failures.",
+      "Gemini CLI v0.64.0-nightly adds atomic state persistence.",
+      "Copilot CLI v1.0.92-3 adds Ctrl+E environment picker.",
+      "Qwen Code v0.24.7-nightly fixes Code Mode alignment.",
+      "Daily digest tracks 12 CLI tools incl. Ollama, llama.cpp."
+    ],
+    "ai-agents": [
+      "OpenClaw ships v2026.8.35 gateway-only extended-stable.",
+      "OpenClaw v2026.8.34/35 carry critical security patches.",
+      "483 issues, 500 PRs updated in OpenClaw last 24h.",
+      "OpenClaw tackles memory leak in prepared-model-catalog.",
+      "Crash-loop regressions in 2026.9.x lack fix PRs.",
+      "OpenClaw focuses on Gateway core stability hardening."
+    ],
+    "ai-trending": [
+      "DietrichGebert/ponytail leads with +1,429 stars.",
+      "mattpocock/skills gains +955 stars on GitHub.",
+      "mvschwarz/openrig surges with +691 stars.",
+      "NVIDIA/OpenShell signals safe private agent runtimes.",
+      "Context-mode, caveman target token cost optimization.",
+      "Agent-Reach and superpowers each add ~600 stars."
+    ],
+    "ai-web": [
+      "Anthropic launches $100M Claude Frontier Academy.",
+      "Claude Academy to train 10,000 FDEs by 2027.",
+      "First cohorts include Accenture, Deloitte, Morgan Stanley.",
+      "OpenAI posts 'Practical Guide Building Gpt 6' index.",
+      "Anthropic's academy targets enterprise AI talent gap.",
+      "OpenAI article lacks text, only metadata available."
+    ],
+    "ai-hn": [
+      "Redis creator's ds4 runs LLMs locally (91 points).",
+      "GLM 5.3 Flash coding experiences shared (76 pts).",
+      "Anthropic 'Claude-Shaped Science' gains traction.",
+      "OpenAI Decisions API criticized for low transparency.",
+      "Llama.cpp adds experimental decision models.",
+      "HN debates AI's role in academia and ethics."
+    ],
+    "ai-arxiv": [
+      "Paper: Zero/First-Order methods for LLM fine-tuning.",
+      "TACO optimizer compresses LLM fine-tuning memory.",
+      "SoftServe scalable quasi-Newton method for DL.",
+      "New frameworks for embodied AI and tool use.",
+      "Benchmarks for cybersecurity, enterprise data.",
+      "Research pushes efficiency in inference and training."
+    ],
+    "ai-hf": [
+      "convaiinnovations/laya: 4,994 likes, text-classification.",
+      "Qwen-Image-2.1-Uncensored-GGUF: 1.37M downloads.",
+      "HF digest covers 30 trending models across 4 categories.",
+      "GGUF quantization prominent in multimodal trending.",
+      "laya tagged system-one, calibrated-decisions, safetensors.",
+      "Community fine-tunes and quantizations dominate HF."
+    ],
+    "ai-community": [
+      "73% of AI models stayed silent on real hacking target.",
+      "Dev.to: one AI button reshaped writing tool design.",
+      "Model-swap attack exposes endpoint security gaps.",
+      "Community stresses agent isolation and strict contracts.",
+      "Lobste.rs debates AI via Lisp and type theory.",
+      "Hacktoberfest submissions show rigorous evaluation."
+    ],
+    "ai-steam": [
+      "The Outlast Trials tops Steam sellers at ¥13.60.",
+      "Cyberpunk 2077 discounted 70% to ¥89.40.",
+      "Skyrim Special Edition 90% off at ¥16.50.",
+      "Baldur's Gate 3 deal: 30% off, ¥208.60.",
+      "Ori and the Will of Wisps 90% off at ¥9.00.",
+      "Red Dead Redemption 2 75% off at ¥69.75."
+    ]
+  }
+}
