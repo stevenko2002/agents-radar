@@ -1,0 +1,61 @@
+{
+  "zh": {},
+  "en": {
+    "ai-cli": [
+      "llama.cpp ships b11371–b11381 bug-fix builds",
+      "Pi v1.0.1 adds Nix flake support",
+      "Codex alpha.11 improves TUI model display",
+      "Gemini CLI nightly fixes Enter/Space selection",
+      "Claude Code contributor poteat merges change",
+      "llama.cpp halves qwen4exp indexer memory"
+    ],
+    "ai-agents": [
+      "OpenClaw ships v2026.9.8 stability release",
+      "OpenClaw sees 500 issues and 500 PRs in 24h",
+      "steipete lands wave of deslop refactoring PRs",
+      "RomneyDa fixes update and reliability bugs",
+      "OpenClaw Doctor offline maintenance bug fixed",
+      "OpenClaw backlog: 348 open issues, many P0/P1"
+    ],
+    "ai-trending": [
+      "Agent harness and skills layer leads AI trends",
+      "Panniantong/Agent-Reach gains +1,683 stars today",
+      "DietrichGebert/ponytail gains +1,289 stars today",
+      "affaan-m/ECC gains +954 stars today",
+      "Token/context economy tools trend on GitHub",
+      "Ollama adds Kimi, GLM, MiniMax, DeepSeek support"
+    ],
+    "ai-hn": [
+      "Aleph Alpha Kolibri deep-dive tops HN at 409",
+      "OpenAI resignation letter ignites culture debate",
+      "OpenAI researchers fired over safety group leaks",
+      "Anthropic lobbying Pope on AI consciousness debated",
+      "Anthropic guide: getting most out of Opus 5.5",
+      "Show HN: Offrun tool draws HN attention"
+    ],
+    "ai-hf": [
+      "Laya tops HF trending with 5,072 likes",
+      "Cloudflare/clef multimodal model hits 971 likes",
+      "Clef is built on Qwen3.5 architecture",
+      "Qwen-Image-2.1-Uncensored-GGUF hits 1.45M downloads",
+      "Qwen-Image GGUF targets ComfyUI workflows",
+      "Laya tagged for calibrated decisions"
+    ],
+    "ai-community": [
+      "Devs confront cognitive cost of AI coding speed",
+      "866 commits in 5 weeks outpaced understanding",
+      "Autonomous agent pipeline guide trends on Dev.to",
+      "AI coding makes project-switching too easy",
+      "Context windows and token costs draw scrutiny",
+      "Lobste.rs debates typeclasses vs modules"
+    ],
+    "ai-steam": [
+      "The Outlast Trials tops Steam HK at ¥13.60",
+      "EA SPORTS FC 27 sells for ¥248.00",
+      "Cyberpunk 2077 hits ¥89.40 at -70% off",
+      "Red Dead Redemption 2 drops to ¥69.75 (-75%)",
+      "Stardew Valley listed at ¥33.60",
+      "Baldur's Gate 3 deal at ¥208.60 (-30%)"
+    ]
+  }
+}
