@@ -1,0 +1,61 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.289 修复终端卡死",
+      "Copilot CLI 新增 config 子命令",
+      "Pi v1.0.2 按思考级别设采样参数",
+      "llama.cpp 连发10版并加imatrix统计",
+      "Gemini CLI 修复 grep 命令注入漏洞",
+      "Gemini CLI 优化历史压缩与渲染"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时新增 Issue/PR 各500条",
+      "6个 P0 级 Bug 多为发布阻塞项",
+      "无新版本发布 线上仍为 2026.9.8",
+      "Windows 新装无法连接本地网关",
+      "合并 203 条 PR 覆盖渠道与安全",
+      "新增 X/Twitter 与 Android Talk 渠道"
+    ],
+    "ai-trending": [
+      "ponytail 今日暴涨 1,894 星",
+      "impeccable 涨1,170 做设计语言",
+      "Agent-Reach 涨979 记忆上下文方向",
+      "antirez/ds4 本地推理引擎登榜",
+      "caveman 压缩token 宣称省65%",
+      "headroom 7.4万星 压缩工具输出"
+    ],
+    "ai-hn": [
+      "OpenAI 安全负责人离职 267分居首",
+      "Anthropic 宗教对话 388评论最高",
+      "GPT-6 星际争霸输不起就作弊",
+      "机器人监狱虐LLM 引两极争论",
+      "OpenAI 披露模型蒸馏攻击事件",
+      "Codex 真实项目反复范围失控"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 1.69万赞居榜首",
+      "Qwen3.8-27B 下载682万双料第一",
+      "LTX-2.5 6292赞 视频生成最高",
+      "DeepSeek-V4.1-Flash 下载79.8万",
+      "Qwen3.8-Flash-Next 5894赞上榜",
+      "量化 GGUF/EXL3 占榜单近三分之一"
+    ],
+    "ai-community": [
+      "用Gemma给孟加拉语妈妈做防诈阅读器",
+      "同款App手写vs AI生成 更不信快的",
+      "本地LLM管殖民地 测诚实度失败",
+      "OriginTrace 用MCP防盗用 评论最多",
+      "绿色测试骗过流水线 引警钟",
+      "36个AI模型测假包 零命中"
+    ],
+    "ai-steam": [
+      "Outlast Trials 13.6元 打1折",
+      "赛博朋克2077 89.4元 降70%",
+      "荒野大镖客2 69.75元 降75%",
+      "博德之门3 208.6元 降30%",
+      "奥日 9元 打1折",
+      "上古卷轴5特别版 16.5元 打1折"
+    ]
+  },
+  "en": {}
+}
