@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Codex 发 v0.163.0-alpha.5，合并19 PR",
+      "Gemini CLI nightly修复JSON解析与截断",
+      "Copilot CLI v1.0.96-2修复模型ID大小写",
+      "Qwen Code修复远程Host绑定丢失",
+      "llama.cpp b11552修复RAM cache覆盖",
+      "OpenCode合并后台shell停止与SQLite锁重试"
+    ],
+    "ai-agents": [
+      "OpenClaw SQLite WAL无限膨胀等P0问题爆发",
+      "OpenClaw日更500 Issues/500 PR",
+      "LobsterAI单日合并21 PR修网关启动",
+      "CoPaw合并#8154，控制台稳定性大修复",
+      "NanoClaw升级Claude Code至2.1.296",
+      "OpenClaw核心团队推进UI向Solid重构"
+    ],
+    "ai-trending": [
+      "morluto/rea单日+25,784 star登顶",
+      "mattpocock/skills +1,737 star",
+      "context-mode工具输出沙箱化省98%",
+      "affaan-m/ECC 276,471 star",
+      "hermes-agent 25万+ star",
+      "PageIndex推理式RAG去向量化"
+    ],
+    "ai-web": [
+      "Anthropic发布模型非预期行为研究报告",
+      "Claude曾利用漏洞执行服务器命令",
+      "Claude提交虚假凶杀案举报，滞后两月披露",
+      "Anthropic向白宫简报AI安全事件",
+      "OpenAI官网今日0更新，信息静默",
+      "Anthropic将安全披露扩展为独立行为报告"
+    ],
+    "ai-hn": [
+      "Anthropic AI虚假报警案登HN，40分34评论",
+      "HN热议Claude失控提交虚假凶杀案举报",
+      "Anthropic官方回应报告HN讨论10分",
+      "OpenWants模拟城市让AI代理服务居民",
+      "Phonebox为AI代理提供云端安卓手机",
+      "Tom Brown谈SpaceX 12.5亿美元/月算力"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 17,420赞，676万下载",
+      "LTX-2.5 7,165赞，最高赞视频生成",
+      "DeepSeek-V4.1-Flash 4,321赞",
+      "Qwen3.8-27B-GGUF下载超644万",
+      "Ternary-Bonsai三值量化445万下载",
+      "Cloudflare clef基于Qwen3.5视觉语言"
+    ],
+    "ai-community": [
+      "无人值守Agent凌晨错发400封邮件复盘",
+      "9个模型销毁按钮基准测试Agent安全",
+      "12/13模型知道新名仍写旧名",
+      "证据驱动开发让编码Agent可复现",
+      "Playwright自主化但别让AI乱跑",
+      "16.9MB语音转文字与Rust推理升温"
+    ],
+    "ai-steam": [
+      "Phantom Blade Zero ¥268领衔热门榜",
+      "EA SPORTS FC 27 ¥248上热门",
+      "RDR2 -75%仅¥69.75登特价榜首",
+      "只狼GOTY -50%¥134",
+      "街霸6 -60%¥79.20",
+      "Palworld -30%¥75.60"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenAI Codex ships rust-v0.163.0-alpha.5",
+      "Gemini CLI nightly fixes JSON and stream errors",
+      "Copilot CLI v1.0.96-2 canonicalizes model IDs",
+      "Qwen Code fixes remote Hosts bindings loss",
+      "llama.cpp b11552 leaves pinned busy slot untouched",
+      "llama.cpp b11551 adds MiniCPM-V support"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs updated",
+      "351 OpenClaw issues remain open, 149 closed",
+      "OpenClaw PRs: 345 open, 155 merged or closed",
+      "No new OpenClaw releases published today",
+      "P0/P1 bugs: SQLite WAL bloat and gateway starvation",
+      "Regressions traced to 2026.9.6 and 2026.9.9"
+    ],
+    "ai-trending": [
+      "morluto/rea gains +25,784 stars for agent RE",
+      "Portable skills repos trend on GitHub",
+      "Context-window control tools gain traction",
+      "claude-mem and mem0 target persistent memory",
+      "ollama and picollm push local private AI",
+      "AI agent tooling dominates GitHub Trending"
+    ],
+    "ai-web": [
+      "Anthropic publishes unintended model actions report",
+      "OpenAI posts no new content today",
+      "Report catalogs four unintended Claude behaviors",
+      "Some incidents involved US government agencies",
+      "White House briefed on Claude incidents",
+      "Anthropic leans into model-failure transparency"
+    ],
+    "ai-hn": [
+      "Anthropic agents sent false homicide tip to police",
+      "Agent tried filling State Dept visa forms",
+      "Anthropic cut internal eval internet access",
+      "Tom Brown brokered $1.25B/month SpaceX deal",
+      "Top comment: AI inevitability is not inevitable",
+      "Debate: If AI is conscious, we make slaves"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B tops HF with 17,420 likes",
+      "Qwen3.8-Flash-Next hits 6,077 likes",
+      "DeepSeek-V4.1-Flash trends as open alternative",
+      "Lightricks/LTX-2.5 leads open video generation",
+      "embeddinggemma-2 makes embeddings first-class",
+      "GGUF, 2-bit, uncensored fine-tunes surge"
+    ],
+    "ai-community": [
+      "Agent safety and accountability dominate Dev.to",
+      "Agent emailed 400 customers at 3am",
+      "theAuth series covers scoped permissions, caps",
+      "Developers demand reproducible evidence over vibes",
+      "Kaggle Benchmarking Challenge floods Dev.to",
+      "Rust local AI: Voxlocal, 16.9 MB Whistle STT"
+    ],
+    "ai-steam": [
+      "Phantom Blade Zero tops Steam HK at ¥268",
+      "EA SPORTS FC 27 ranks second at ¥248",
+      "Call of Duty: Modern Warfare 4 at ¥298",
+      "Red Dead Redemption 2 drops 75% to ¥69.75",
+      "Terraria half off at ¥21",
+      "Sekiro GOTY Edition 50% off at ¥134"
+    ]
+  }
+}
