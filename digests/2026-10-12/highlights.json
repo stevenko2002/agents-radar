@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenCode v1.19.0 发布，支持一键升级 OpenCode 2",
+      "Qwen Code v0.25.1 修复会话路由与连接器",
+      "Ollama v0.40.3 发布，减少启动警告",
+      "llama.cpp 连发 7 构建，支持 Gemma-4",
+      "Gemini CLI 快照查找从 291ms 降至 10ms",
+      "DeepSeek TUI v0.10.2 修复启动崩溃"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.10.5-beta.1",
+      "OpenClaw v2026.10.1 稳定版发布",
+      "OpenClaw 日增 Issues/PR 各 500 条",
+      "SQLite WAL 增长 #143524 评论 122",
+      "OpenClaw 网关崩溃循环成 P0 痛点",
+      "维护者密集提交 20+ 修复 PR"
+    ],
+    "ai-trending": [
+      "morluto/rea 今日 +25,585 登顶",
+      "ollama/ollama 获 182,778 star",
+      "open-webui 154,313 star 领跑",
+      "langchain 147,630 star 受关注",
+      "airllm 单卡 4GB 跑 70B 模型",
+      "claude-mem 等记忆层项目爆发"
+    ],
+    "ai-hn": [
+      "Anthropic 禁虐待 Claude 帖 142 评论",
+      "Karpathy 讨论 LLM 能力认知差距 66 分",
+      "SQLite 单写入限制被解决 HN 热议",
+      "Firmus 因 AI 估值担忧取消 IPO",
+      "OpenAI 审计师被解雇与收入缩水 20B",
+      "Littleguys 把 Claude Code 等放菜单栏"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 17,503 赞登顶本周",
+      "LTX-2.5 视频生成 7,305 赞",
+      "Ternary-Bonsai-2-27B 下载 454 万",
+      "Qwen-Image-2.1 图像生成编辑双能力",
+      "DeepSeek-V4.1-Flash 展示垂直能力",
+      "Kolibri-1 欧洲 MoE 推理模型上榜"
+    ],
+    "ai-community": [
+      "用 Makefile 替代 prompt DSL 讨论最高",
+      "LLM 该拒绝却幻觉的根因分析",
+      "AI 审计漏计案例强调人工审批",
+      "8-bit 量化被单个离群权重毁掉",
+      "Byte Language Models 论文引热议",
+      "Burn 框架发布新版本"
+    ],
+    "ai-steam": [
+      "Phantom Blade Zero 登顶热门 ¥268",
+      "Red Dead Redemption 2 仅 ¥69.75",
+      "Palworld 特价 ¥75.60",
+      "Sifu 特价 ¥34.75",
+      "Sekiro GOTY 半价 ¥134",
+      "Street Fighter 6 特价 ¥79.20"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "OpenCode v1.19.0 adds opencode upgrade --major",
+      "Qwen Code v0.25.1 ships CLI, Desktop, SDK v0.1.19",
+      "Ollama v0.40.3 removes spurious launch warnings",
+      "llama.cpp builds b11553-b11559 add OpenCL FA",
+      "OpenCode adds /update TUI command",
+      "12 AI CLI tools tracked in community digest"
+    ],
+    "ai-agents": [
+      "OpenClaw logs 500 issues and 500 PRs in 24h",
+      "OpenClaw ships stable v2026.10.1 milestone",
+      "OpenClaw v2026.10.5-beta.1 safer updates",
+      "OpenClaw digest covers 13 agent projects",
+      "P0/P1 regressions hit update and gateway",
+      "OpenClaw v2026.10.1 has 402 contributors"
+    ],
+    "ai-trending": [
+      "morluto/rea gains +25,585 stars today",
+      "cathrynlavery/diagram-design +1,083 today",
+      "Agentic tooling dominates AI open-source trends",
+      "claude-mem and mem0 among trending memory tools",
+      "RAG shifts to graph, memory, compression",
+      "AutoGPT and ollama remain centers of gravity"
+    ],
+    "ai-hn": [
+      "Anthropic cruelty ban tops HN AI discussion",
+      "Karpathy post on capability gap trending",
+      "HN digest covers 30 AI stories in 24h",
+      "Models and research debate capability gaps",
+      "Tools and engineering focus agent infrastructure",
+      "SQLite article selected for deep reading"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B tops with 17.5K likes",
+      "Qwen ecosystem dominates trending models",
+      "Lightricks/LTX-2.5 leads likes at 7.3K",
+      "Cloudflare enters VLM space with clef",
+      "Google embeddinggemma-2 tops likes at #1",
+      "Qwen3.8-Flash-Next uses qwen4_exp arch"
+    ],
+    "ai-community": [
+      "Hacktoberfest Touch Grass AI Challenge buzzes",
+      "TerraPulse screenless trail agent tops Dev.to",
+      "Dev.to debates why AI models hallucinate",
+      "Lobste.rs focuses on efficient ML systems",
+      "Developers debate agent security and prompt injection",
+      "Unix heritage beats custom prompt DSLs"
+    ],
+    "ai-steam": [
+      "Phantom Blade Zero tops Steam HK sellers",
+      "Red Dead Redemption 2 is 75% off at ¥69.75",
+      "Call of Duty: Modern Warfare 4 ranks #3",
+      "EA SPORTS FC 27 among top sellers",
+      "Palworld is 30% off at ¥75.60",
+      "Sekiro GOTY Edition is 50% off at ¥134"
+    ]
+  }
+}
