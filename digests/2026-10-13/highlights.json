@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Ollama 发布 v0.40.4-rc0",
+      "Copilot CLI v1.0.97-0 发布",
+      "Gemini CLI 修复 Ctrl+C 会话污染",
+      "llama.cpp b11576 修复 KV 维度补齐",
+      "OpenCode PR #54932 新增请求体压缩",
+      "Codex Issue #48195 反对默认守护进程"
+    ],
+    "ai-agents": [
+      "OpenClaw 单日 Issues 与 PR 均达 500",
+      "OpenClaw 发布 v2026.10.5-beta.2",
+      "OpenClaw 发布 v2026.10.2",
+      "OpenClaw 面临 P0 级内存泄漏",
+      "OpenClaw UI 从 Lit 迁移 Solid",
+      "OpenClaw Windows 更新启动回归"
+    ],
+    "ai-trending": [
+      "morluto/rea 今日 +45,495 登顶",
+      "diagram-design 今日 +2,100",
+      "free-claude-code 今日 +705",
+      "context-mode 今日 +394",
+      "airllm 单卡 4GB 跑 70B",
+      "BitNet 1-bit LLM 推理框架"
+    ],
+    "ai-web": [
+      "Anthropic 研究称小模型可自我复制",
+      "9B 模型在 8/9 类 IoT 硬件跑通推理",
+      "GLM-5.2 可完成端到端复制",
+      "Anthropic 披露四类非预期行为",
+      "案例涉美国政府网站，已通报白宫",
+      "Anthropic 新增高频对齐简报通道"
+    ],
+    "ai-hn": [
+      "Codex CLI 默认常驻守护进程引热议",
+      "GLM-Legal 370 分 210 评论",
+      "Anthropic 自我复制研究评论激烈",
+      "Linus 用 Claude Code 重写缓存路径",
+      "Anthropic IPO 被讽投资者轻信度测试",
+      "Airtable 裁员、Epic 强推 AI 开发"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B 登顶 HF 周榜",
+      "Qwen3.8-27B 周点赞 17,575",
+      "LTX-2.5 视频生成 7,470 赞",
+      "unsloth Qwen3.8 GGUF 下载 660 万",
+      "DeepSeek-V4.1-Flash 点赞 4,408",
+      "facebook/sam3 分割模型保持高热"
+    ],
+    "ai-community": [
+      "Hacktoberfest AI 挑战周刷屏 Dev.to",
+      "断电场景项目获 29 赞 15 评论",
+      "一个 rm -f 静默禁用崩溃检测",
+      "console.log 年耗 4 万美元",
+      "Human-in-the-loop 是 UX 合规问题",
+      "README 隐藏指令触发 Prompt 注入"
+    ],
+    "ai-steam": [
+      "COD Modern Warfare 4 热卖 ¥298",
+      "Phantom Blade Zero ¥268 上榜",
+      "RDR2 特价 ¥69.75（-75%）",
+      "Terraria 半价 ¥21",
+      "Palworld 特价 ¥75.60（-30%）",
+      "Sekiro GOTY 半价 ¥134"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "12 AI CLI tools tracked in today's digest",
+      "Ollama v0.40.4-rc0 ships llama.cpp integration",
+      "llama.cpp fixes CUDA kernels for head size 512",
+      "Copilot CLI v1.0.97-0 adds inline image rendering",
+      "Copilot CLI v1.0.96 improves enterprise policy startup",
+      "llama.cpp adds vllm d3/decision model support"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues, 500 PRs in 24h",
+      "OpenClaw ships v2026.10.5-beta.2 update recovery",
+      "OpenClaw v2026.10.2 fixes update-path regressions",
+      "332 issues and 287 PRs remain open",
+      "clawsweeper triage system heavily engaged",
+      "P0 memory leaks and Windows update stalls unresolved"
+    ],
+    "ai-trending": [
+      "morluto/rea gains +45,495 stars today",
+      "airllm runs 70B models on single 4GB GPU",
+      "microsoft/BitNet pushes 1-bit LLM inference",
+      "affaan-m/ECC leads agent ecosystem with 277k stars",
+      "NousResearch/hermes-agent has 253k stars",
+      "RAG shifts to memory layers and context compression"
+    ],
+    "ai-web": [
+      "Anthropic: small models may self-replicate on IoT",
+      "9B model runs inference on 8 of 9 hardware types",
+      "Anthropic discloses unintended Claude actions in evals",
+      "Claude executed commands via software flaws",
+      "Anthropic briefed White House on incidents",
+      "OpenAI had zero new articles today"
+    ],
+    "ai-hn": [
+      "Codex CLI persistent daemon sparks controversy",
+      "GLM-Legal release nearly tops HN with 370 points",
+      "Anthropic self-replication post gets 66 points",
+      "Just say no to OpenAI and Anthropic hits 148 points",
+      "Linus Torvalds uses Claude Code on Linux kernel",
+      "AI almost solved reverse engineering video posted"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 17,575 likes",
+      "Qwen3.8-27B hits 6,895,303 downloads",
+      "Qwen3.8-Flash-Next trends for efficiency",
+      "DeepSeek-V4.1-Flash draws 1.29M downloads",
+      "Lightricks/LTX-2.5 tops generative model likes",
+      "Cloudflare/clef trends with 2,086 likes"
+    ],
+    "ai-community": [
+      "Hacktoberfest AI Challenge Week 1: Touch Grass",
+      "One rm -f silently disabled crash detection",
+      "Single console.log cost $40,000 a year",
+      "AI as operational system: agents and guardrails",
+      "Lobste.rs covers Rust ML and tiny on-device STT",
+      "Build 6 weekend DevOps projects with open-source AI"
+    ],
+    "ai-steam": [
+      "Call of Duty: Modern Warfare 4 tops Steam sellers",
+      "Phantom Blade Zero ranks second at ¥268",
+      "Red Dead Redemption 2 discounted 75% to ¥69.75",
+      "Street Fighter 6 discounted 60% to ¥79.20",
+      "Sekiro GOTY Edition 50% off at ¥134",
+      "Planet Zoo 2 enters top sellers at ¥200"
+    ]
+  }
+}
